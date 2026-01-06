@@ -1,9 +1,0 @@
-{
-    "setting-rottenitemcodes": "Kody zgniłych przedmiotów",
-    "setting-rottenitemcodes-desc": "Lista kodów przedmiotów oddzielonych przecinkami, które będą uznawane za zgniłe",
-    "setting-rottenblockcodes": "Kody zgniłych bloków",
-    "setting-rottenblockcodes-desc": "Lista kodów bloków oddzielonych przecinkami, które będą uznawane za zgniłe",
-    "setting-perishrateincreaseperitem": "Wzrost szybkości psucia na przedmiot",
-    "setting-perishrateincreaseperitem-desc": "Wartość, o jaką zwiększa się tempo psucia dla każdego zgniłego przedmiotu w pojemniku",
-    "setting-title": "Ustawienia Rotting Storage"
-}

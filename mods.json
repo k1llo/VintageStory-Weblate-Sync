@@ -1,431 +1,176 @@
 [
     {
-        "name": "Auto Map Markers",
-        "modid": "egocaribautomapmarkers",
-        "version": "4.0.3"
-    },
-    {
-        "name": "Food Shelves",
-        "modid": "foodshelves",
-        "version": "2.3.3",
-        "lastUpdated": "2025-11-13"
-    },
-    {
-        "name": "Purposeful Storage",
-        "modid": "purposefulstorage",
-        "version": "1.5.1",
-        "lastUpdated": "2025-11-09"
-    },
-    {
-        "name": "From Golden Combs",
-        "modid": "fromgoldencombs",
-        "version": "1.9.4"
-    },
-    {
-        "name": "Toggle Mouse Control",
-        "modid": "togglemousecontrol",
-        "version": "1.3.0"
-    },
-    {
-        "name": "Status Hud Continued",
-        "modid": "statushudcont",
-        "version": "4.1.1",
-        "lastUpdated": "2025-12-29"
-    },
-    {
-        "name": "Millwright",
-        "modid": "millwright",
-        "version": "1.3.1",
-        "lastUpdated": "2025-11-29"
-    },
-    {
-        "name": "Herbarium",
-        "modid": "herbarium",
-        "version": "1.4.1-rc.1"
-    },
-    {
-        "name": "Wildcraft Fruits and Nuts",
-        "modid": "wildcraftfruit",
-        "version": "1.4.4",
-        "lastUpdated": "2025-12-26"
-    },
-    {
-        "name": "Wildcraft Trees and Shrubs",
-        "modid": "wildcrafttree",
-        "version": "1.3.3",
-        "lastUpdated": "2025-10-29"
-    },
-    {
-        "name": "Wildcraft Herbs and Spices",
-        "modid": "wildcraftherb",
-        "version": "0.0.1"
-    },
-    {
-        "name": "A Culinary Artillery",
-        "modid": "aculinaryartillery",
-        "version": "2.0.0-dev.11",
-        "lastUpdated": "2025-12-05"
-    },
-    {
-        "name": "Expanded Foods",
-        "modid": "expandedfoods",
-        "version": "2.0.0-dev.6",
-        "lastUpdated": "2025-12-13"
-    },
-    {
-        "name": "PlayerList",
-        "modid": "playerlist",
-        "version": "2.3.4",
-        "lastUpdated": "2025-11-17"
-    },
-    {
-        "name": "ImGui",
-        "modid": "vsimgui",
-        "version": "1.1.16",
-        "lastUpdated": "2025-11-13"
-    },
-    {
-        "name": "Workbench Expansion Patch",
-        "modid": "workbenchexpansionpatch",
-        "version": "1.1.0"
-    },
-    {
-        "name": "Farseer",
-        "modid": "farseer",
-        "version": "1.3.3",
-        "lastUpdated": "2025-12-14"
-    },
-    {
-        "name": "SlowTox",
-        "modid": "slowtox",
-        "version": "4.0.1",
-        "lastUpdated": "2025-11-15"
-    },
-    {
-        "name": "Real Smoke",
-        "modid": "realsmoke",
-        "version": "1.1.10",
-        "lastUpdated": "2025-10-28"
-    },
-    {
-        "name": "Lathe Mod",
-        "modid": "lathemod",
-        "version": "1.0.3"
-    },
-    {
-        "name": "Toolsmith",
-        "modid": "toolsmith",
-        "version": "1.2.14"
-    },
-    {
-        "name": "Smithing Plus",
-        "modid": "smithingplus",
-        "version": "1.8.3"
-    },
-    {
-        "name": "CAN Jewelry",
-        "modid": "canjewelry",
-        "version": "0.5.15",
-        "lastUpdated": "2025-11-17"
-    },
-    {
-        "name": "ShearLib",
-        "modid": "shearlib",
-        "version": "1.2.0"
-    },
-    {
-        "name": "Wool & More",
-        "modid": "wool",
-        "version": "1.8.2",
-        "lastUpdated": "2025-12-06"
-    },
-    {
         "name": "Butchering",
         "modid": "butchering",
-        "version": "1.10.15",
-        "lastUpdated": "2025-12-28"
+        "version": "1.10.16",
+        "lastUpdated": "2026-01-03"
     },
     {
-        "name": "Expanded Matter",
-        "modid": "em",
-        "version": "3.4.1",
-        "lastUpdated": "2025-12-25"
+        "name": "A Culinary Artillery Experimental",
+        "modid": "aculinaryartillery",
+        "version": "2.0.0-dev.11",
+        "lastUpdated": "2026-01-03"
     },
     {
-        "name": "Tailor's Delight",
-        "modid": "tailorsdelight",
-        "version": "2.1.2",
-        "lastUpdated": "2025-11-09"
+        "name": "Animal cages",
+        "modid": "animalcages",
+        "version": "4.0.2",
+        "lastUpdated": "2026-01-03"
     },
     {
-        "name": "Dressmakers",
-        "modid": "dressmakers",
-        "version": "1.7.5",
-        "lastUpdated": "2025-12-25"
+        "name": "Combat Overhaul : Armory",
+        "modid": "armory",
+        "version": "1.8.3",
+        "lastUpdated": "2026-01-03"
     },
     {
-        "name": "Stone Bake Oven",
-        "modid": "stonebakeoven",
-        "version": "1.2.0"
+        "name": "BetterRuins",
+        "modid": "betterruins",
+        "version": "0.5.5",
+        "lastUpdated": "2026-01-03"
     },
     {
-        "name": "Fields of Salt",
-        "modid": "fieldsofsalt",
-        "version": "1.2.4"
+        "name": "Buzzwords",
+        "modid": "buzzwords",
+        "version": "1.8.1",
+        "lastUpdated": "2026-01-03"
     },
     {
-        "name": "Real Grapes",
-        "modid": "apegrapes",
-        "version": "1.3.1"
-    },
-    {
-        "name": "Arrow Barrels",
-        "modid": "arrowbarrels",
-        "version": "1.4.0",
-        "lastUpdated": "2025-10-29"
-    },
-    {
-        "name": "Explosives",
-        "modid": "explosive",
-        "version": "0.1.2"
-    },
-    {
-        "name": "All Classes",
-        "modid": "allclasses",
-        "version": "2.0.6"
-    },
-    {
-        "name": "Cartographer",
-        "modid": "nbcartographer",
-        "version": "2.2.1"
-    },
-    {
-        "name": "Pack Your Shovel",
-        "modid": "packyourshovel",
-        "version": ""
-    },
-    {
-        "name": "Xandus Inventory Tweaks",
-        "modid": "xinvtweaks",
-        "version": "1.8.1"
-    },
-    {
-        "name": "Pet AI",
-        "modid": "petai",
-        "version": "4.0.3",
-        "lastUpdated": "2025-11-19"
-    },
-    {
-        "name": "Wolf Taming",
-        "modid": "wolftaming",
-        "version": "4.1.4",
-        "lastUpdated": "2025-11-24"
+        "name": "Carry On",
+        "modid": "carryon",
+        "version": "1.12.1",
+        "lastUpdated": "2026-01-03"
     },
     {
         "name": "Cats",
         "modid": "cats",
         "version": "4.0.1",
-        "lastUpdated": "2025-12-04"
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Fox Taming",
-        "modid": "foxtaming",
-        "version": "1.7.3",
-        "lastUpdated": "2025-12-28"
+        "name": "chiseltools",
+        "modid": "chiseltools",
+        "version": "1.16.1",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Feverstone's Horses",
-        "modid": "feverstonehorses",
-        "version": "2.3.1",
-        "lastUpdated": "2025-12-14"
+        "name": "Combat Overhaul",
+        "modid": "combatoverhaul",
+        "version": "0.12.7",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "A Panserbjørn Story",
-        "modid": "apanserbjornstory",
-        "version": "0.10.2"
+        "name": "Expanded Foods",
+        "modid": "expandedfoods",
+        "version": "2.0.0-dev.6",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Pet Hare",
-        "modid": "harepet",
-        "version": "1.3.1"
+        "name": "Farseer",
+        "modid": "farseer",
+        "version": "1.3.3",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Locust Taming",
-        "modid": "tameablelocusts",
-        "version": "1.0.3"
+        "name": "FoodShelves",
+        "modid": "foodshelves",
+        "version": "2.3.3",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Geology Additions",
-        "modid": "geoaddons",
-        "version": "1.4.5",
-        "lastUpdated": "2025-12-21"
+        "name": "From Golden Combs",
+        "modid": "fromgoldencombs",
+        "version": "1.9.4",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Some Disassembly Required",
-        "modid": "somedisassemblyrequired",
-        "version": "1.7.8"
-    },
-    {
-        "name": "At Waters Edge",
-        "modid": "atwatersedge",
-        "version": "1.5.1"
-    },
-    {
-        "name": "Aluminum from bauxite",
-        "modid": "bauxitealuminum",
-        "version": "1.1.2"
-    },
-    {
-        "name": "Improved Ladders",
-        "modid": "bradyladder",
-        "version": "1.1.0"
-    },
-    {
-        "name": "Brain Freeze",
-        "modid": "brainfreeze",
-        "version": "1.3.5",
-        "lastUpdated": "2025-11-23"
-    },
-    {
-        "name": "Cartwright's Caravan",
-        "modid": "cartwrightscaravan",
-        "version": "1.8.0",
-        "lastUpdated": "2025-11-13"
-    },
-    {
-        "name": "Craftable Cartography Fork",
-        "modid": "craftablecartographyfork",
-        "version": "0.1.10",
-        "lastUpdated": "2025-11-08"
-    },
-    {
-        "name": "Enhanced Handbook",
-        "modid": "enhancedhandbook",
-        "version": "1.7.1"
-    },
-    {
-        "name": "Expanded Stomach",
-        "modid": "expandedstomach",
-        "version": "1.2.7",
-        "lastUpdated": "2025-11-19"
-    },
-    {
-        "name": "Salty's Firestarters",
-        "modid": "firestarters",
-        "version": "1.4.5"
-    },
-    {
-        "name": "Gourmand",
-        "modid": "gourmand",
-        "version": "1.8.4",
-        "lastUpdated": "2025-12-30"
-    },
-    {
-        "name": "Hydrate or Diedrate",
+        "name": "Hydrate Or Diedrate",
         "modid": "hydrateordiedrate",
         "version": "2.3.4",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Immersive Rope Crafting",
-        "modid": "immersiverope",
-        "version": "1.0.7"
+        "name": "Lunchbox",
+        "modid": "lunchbox",
+        "version": "1.0.2",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "In Dappled Groves",
-        "modid": "indappledgroves",
-        "version": "2.2.1-rc.1"
+        "name": "Crossbows",
+        "modid": "maltiezcrossbows",
+        "version": "1.6.9",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Jack's Composting",
-        "modid": "jackscomposting",
-        "version": "1.2.1"
+        "name": "Firearms",
+        "modid": "maltiezfirearms",
+        "version": "1.5.5",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Japanese Architecture",
-        "modid": "japanesearchitecture",
-        "version": "0.9.4"
+        "name": "Millwright",
+        "modid": "millwright",
+        "version": "1.3.1",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Jaunt Entity Movement System",
-        "modid": "jaunt",
-        "version": "2.1.2",
-        "lastUpdated": "2025-12-22"
+        "name": "Player Corpse",
+        "modid": "playercorpse",
+        "version": "1.12.0",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Helve Axe addon for In dappled Groves",
-        "modid": "mechanicalwoodsplitter",
-        "version": "1.1.2"
+        "name": "Primitive Survival",
+        "modid": "primitivesurvival",
+        "version": "4.0.3",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Rebuildable Bloomery",
-        "modid": "rebuildablebloomery",
-        "version": "1.0.6"
+        "name": "PurposefulStorage",
+        "modid": "purposefulstorage",
+        "version": "1.5.1",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Rotting Storage",
-        "modid": "rottingstorage",
-        "version": "1.0.2"
+        "name": "Quivers And Sheaths",
+        "modid": "quiversandsheaths",
+        "version": "0.6.14",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Simple Map Markers",
-        "modid": "simplemapicons",
-        "version": "3.0.0"
+        "name": "SmithingPlus",
+        "modid": "smithingplus",
+        "version": "1.8.3",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Snowshoes",
-        "modid": "snowshoes",
-        "version": "2.1.3"
+        "name": "Status HUD",
+        "modid": "statushudcont",
+        "version": "4.1.1",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Vigor",
-        "modid": "vigor",
-        "version": ""
+        "name": "Toolsmith",
+        "modid": "toolsmith",
+        "version": "1.2.14",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "WaySearchPoint",
-        "modid": "waysearchpoint",
-        "version": "1.0.3",
-        "lastUpdated": "2025-12-14"
+        "name": "Translocator Engineering Redux",
+        "modid": "translocatorengineeringredux",
+        "version": "1.6.3",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Wear And Tear",
-        "modid": "wearandtear",
-        "version": "1.5.17",
-        "lastUpdated": "2025-11-05"
+        "name": "Overhaul Library",
+        "modid": "overhaullib",
+        "version": "1.18.1",
+        "lastUpdated": "2026-01-04"
     },
     {
-        "name": "Wind Chimes",
-        "modid": "windchimes",
-        "version": "1.4.1"
-    },
-    {
-        "name": "Wilderlands Waymarkers",
-        "modid": "wwaymarkers",
-        "version": "1.0.2"
-    },
-    {
-        "name": "Ancient Armory",
-        "modid": "ancientarmory",
-        "version": "1.2.3",
-        "lastUpdated": "2025-12-10"
-    },
-    {
-        "name": "Spinning Wheel",
-        "modid": "hpspinningwheel",
-        "version": "1.0.7",
-        "lastUpdated": "2025-11-24"
-    },
-    {
-        "name": "Quicklime in Kiln",
-        "modid": "quicklimepk",
-        "version": "1.1.1",
-        "lastUpdated": "2025-11-24"
-    },
-    {
-        "name": "Improved Handbook Recipes",
-        "modid": "improvedhandbookrecipes",
-        "version": "1.1.3",
-        "lastUpdated": "2025-12-01"
+        "name": "Wild Farming Revival",
+        "modid": "wildfarmingrevival",
+        "version": "1.4.2",
+        "lastUpdated": "2026-01-04"
     }
 ]

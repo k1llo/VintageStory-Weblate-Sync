@@ -12,7 +12,7 @@ namespace TranslationReloader
         public override void Start(ICoreAPI api)
         {
             base.Start(api);
-            api.Logger.Notification("[Polish Translations Pack] Initialized (ExecuteOrder: {0})", double.MaxValue);
+            api.Logger.Notification("[Belarusian Translations Pack] Initialized (ExecuteOrder: {0})", double.MaxValue);
         }
 
         public override void AssetsLoaded(ICoreAPI api)
@@ -25,7 +25,7 @@ namespace TranslationReloader
                 IAssetOrigin? packOrigin = null;
                 foreach (var origin in api.Assets.Origins)
                 {
-                    if (origin.OriginPath.Contains("polishtranslationspack", StringComparison.OrdinalIgnoreCase))
+                    if (origin.OriginPath.Contains("belarussiantranslationspack", StringComparison.OrdinalIgnoreCase))
                     {
                         packOrigin = origin;
                         break;
@@ -34,7 +34,7 @@ namespace TranslationReloader
 
                 if (packOrigin == null)
                 {
-                    api.Logger.Warning("[Polish Translations Pack] Cannot find translation pack Origin!");
+                    api.Logger.Warning("[Belarusian Translations Pack] Cannot find translation pack Origin!");
                     return;
                 }
 
@@ -44,14 +44,14 @@ namespace TranslationReloader
 
                 if (originsField == null)
                 {
-                    api.Logger.Error("[Polish Translations Pack] Cannot access Origins field");
+                    api.Logger.Error("[Belarusian Translations Pack] Cannot access Origins field");
                     return;
                 }
 
                 var origins = originsField.GetValue(api.Assets) as List<IAssetOrigin>;
                 if (origins == null)
                 {
-                    api.Logger.Error("[Polish Translations Pack] Origins is not List<IAssetOrigin>");
+                    api.Logger.Error("[Belarusian Translations Pack] Origins is not List<IAssetOrigin>");
                     return;
                 }
 
@@ -62,19 +62,19 @@ namespace TranslationReloader
                 origins.RemoveAt(currentIndex);
                 origins.Add(packOrigin);
 
-                api.Logger.Notification("[Polish Translations Pack] Moved Origin from position {0} to {1} (last)", currentIndex, origins.Count - 1);
+                api.Logger.Notification("[Belarusian Translations Pack] Moved Origin from position {0} to {1} (last)", currentIndex, origins.Count - 1);
 
                 // Reload translations
                 if (Lang.AvailableLanguages.TryGetValue(Lang.CurrentLocale, out var translationService))
                 {
                     translationService.Invalidate();
                     Lang.Load(api.Logger, api.Assets, Lang.CurrentLocale);
-                    api.Logger.Notification("[Polish Translations Pack] ✓ Translations reloaded!");
+                    api.Logger.Notification("[Belarusian Translations Pack] ✓ Translations reloaded!");
                 }
             }
             catch (Exception ex)
             {
-                api.Logger.Error("[Polish Translations Pack] Failed: {0}", ex.Message);
+                api.Logger.Error("[Belarusian Translations Pack] Failed: {0}", ex.Message);
             }
         }
     }

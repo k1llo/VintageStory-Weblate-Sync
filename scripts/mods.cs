@@ -353,7 +353,7 @@ async Task UpdateMods()
     }
 }
 
-(int total, int translated) CountTranslated(NJson.Linq.JObject en, NJson.Linq.JObject pl)
+(int total, int translated) CountTranslated(NJson.Linq.JObject en, NJson.Linq.JObject be)
 {
     int total = 0;
     int translated = 0;
@@ -361,19 +361,19 @@ async Task UpdateMods()
     foreach (var prop in en.Properties())
     {
         var enVal = prop.Value;
-        var plVal = pl[prop.Name];
+        var beVal = be[prop.Name];
 
         if (enVal is NJson.Linq.JObject enObj)
         {
-            var plObj = plVal as NJson.Linq.JObject ?? new NJson.Linq.JObject();
-            var nested = CountTranslated(enObj, plObj);
+            var beObj = beVal as NJson.Linq.JObject ?? new NJson.Linq.JObject();
+            var nested = CountTranslated(enObj, beObj);
             total += nested.total;
             translated += nested.translated;
         }
         else
         {
             total++;
-            if (plVal != null && plVal.ToString() != "")
+            if (beVal != null && beVal.ToString() != "")
             {
                 translated++;
             }
@@ -503,7 +503,7 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
 
     Directory.CreateDirectory(distDir);
 
-    var packName = $"PolishTranslationsPack_v{version}";
+    var packName = $"BelarusianTranslationsPack_v{version}";
     var buildDir = Path.Combine(distDir, packName);
 
     if (Directory.Exists(buildDir))
@@ -518,10 +518,10 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
     {
         ["type"] = "code",
         ["side"] = "client",
-        ["name"] = "Polish Translations Pack",
-        ["modid"] = "polishtranslationspack",
-        ["description"] = "Polish Translations Pack - a collection of Polish localizations for various Vintage Story mods with automatic translation reload system.",
-        ["website"] = "https://mods.vintagestory.at/polishtranslationspack",
+        ["name"] = "Belarusian Translations Pack",
+        ["modid"] = "belarussiantranslationspack",
+        ["description"] = "Belarusian Translations Pack - a collection of Belarusian localizations for various Vintage Story mods with automatic translation reload system.",
+        ["website"] = "https://mods.vintagestory.at/belarussiantranslationspack",
         ["version"] = version,
         ["authors"] = new NJson.Linq.JArray(authors),
         ["dependencies"] = new NJson.Linq.JObject { ["game"] = "" }
@@ -542,16 +542,16 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
         var modName = Path.GetFileName(modFolder);
 
         var enFiles = Directory.GetFiles(modFolder, "en.json", SearchOption.AllDirectories);
-        var plFiles = Directory.GetFiles(modFolder, "pl.json", SearchOption.AllDirectories);
+        var beFiles = Directory.GetFiles(modFolder, "be.json", SearchOption.AllDirectories);
 
         if (enFiles.Length == 0)
         {
             Log($"⚠️  {modName}: no en.json – skipping.", ConsoleColor.DarkYellow);
             continue;
         }
-        if (plFiles.Length == 0)
+        if (beFiles.Length == 0)
         {
-            Log($"⚠️  {modName}: no pl.json – skipping.", ConsoleColor.DarkYellow);
+            Log($"⚠️  {modName}: no be.json – skipping.", ConsoleColor.DarkYellow);
             continue;
         }
 
@@ -578,12 +578,12 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
         }
 
         var enJson = MergeJsons(enFiles);
-        var plJson = MergeJsons(plFiles);
+        var beJson = MergeJsons(beFiles);
 
-        var (total, translated) = CountTranslated(enJson, plJson);
+        var (total, translated) = CountTranslated(enJson, beJson);
         var complete = total > 0 && translated == total;
 
-        var translationHash = ComputeJsonHash(plJson);
+        var translationHash = ComputeJsonHash(beJson);
         var modVersion = modsDb.GetVersion(modName) ?? "unknown";
 
         if (!complete)
@@ -600,12 +600,12 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
 
         if (!complete) continue;
 
-        for (int i = 0; i < plFiles.Length; i++)
+        for (int i = 0; i < beFiles.Length; i++)
         {
-            var plFile = plFiles[i];
-            var plData = NJson.Linq.JObject.Parse(File.ReadAllText(plFile));
+            var beFile = beFiles[i];
+            var beData = NJson.Linq.JObject.Parse(File.ReadAllText(beFile));
 
-            var relativePath = plFile.Replace(modFolder, "").Replace("\\", "/").TrimStart('/');
+            var relativePath = beFile.Replace(modFolder, "").Replace("\\", "/").TrimStart('/');
             if (relativePath.Contains("assets/"))
             {
                 relativePath = relativePath.Substring(relativePath.IndexOf("assets/"));
@@ -616,7 +616,7 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
                 mergedFiles[relativePath] = new NJson.Linq.JObject();
             }
 
-            mergedFiles[relativePath].Merge(plData, new NJson.Linq.JsonMergeSettings
+            mergedFiles[relativePath].Merge(beData, new NJson.Linq.JsonMergeSettings
             {
                 MergeArrayHandling = NJson.Linq.MergeArrayHandling.Union,
                 MergeNullValueHandling = NJson.Linq.MergeNullValueHandling.Ignore
@@ -795,7 +795,7 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
     }
 
     var zipReport = new StringBuilder();
-    zipReport.AppendLine($"📦 Polish Translations Pack v{version}");
+    zipReport.AppendLine($"📦 Belarusian Translations Pack v{version}");
     zipReport.AppendLine();
 
     if (addedMods.Any())

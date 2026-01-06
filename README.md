@@ -1,6 +1,6 @@
-# Polish Translations Pack for Vintage Story
+# Belarusian Translations Pack for Vintage Story
 
-Community-maintained Polish translations for Vintage Story mods.
+Community-maintained Belarusian translations for Vintage Story mods.
 
 ## Requirements
 
@@ -16,15 +16,17 @@ $env:VINTAGE_STORY = "C:\Program Files\Vintagestory"
 
 ```bash
 # Test build (no history)
-dotnet scripts\mods.cs build test-$(Get-Date -Format "yyyyMMdd-HHmmss") --no-history
+dotnet scripts/mods.cs -r linux-x64 -- build test-20260104 --no-history
 
 # Release build
-dotnet scripts\mods.cs build <version>
+dotnet scripts/mods.cs -r linux-x64 -- build <version>
 
 # Examples
-dotnet scripts\mods.cs build 1.0.0
-dotnet scripts\mods.cs build 1.2.0-pre.16
+dotnet scripts/mods.cs -r linux-x64 -- build 1.0.0
+dotnet scripts/mods.cs -r linux-x64 -- build 1.2.0-pre.16
 ```
+
+**Note:** The `-r linux-x64 --` flags are required on Linux systems (especially Fedora 43+).
 
 ## How It Works
 
@@ -37,61 +39,61 @@ The pack includes `TranslationReloader.dll` which:
 
 This repository is synchronized with **Weblate** for collaborative translation management:
 
-- **Translation files** (`mods/*/assets/*/lang/pl.json`) are edited directly on Weblate
-- Translators contribute Polish translations via the Weblate web interface
+- **Translation files** (`mods/*/assets/*/lang/be.json`) are edited directly on Weblate
+- Translators contribute Belarusian translations via the Weblate web interface
 - Weblate automatically commits translation changes back to this repository
 - Each build includes the latest translations that were committed by Weblate
 - **Supported mods** are defined in `mods.json` - this list determines which mods are tracked for translations
 
 **Workflow:**
-1. `dotnet scripts\mods.cs update` downloads mods from ModDB and extracts their `en.json` files (English strings)
+1. `dotnet scripts/mods.cs -r linux-x64 -- update` downloads mods from ModDB and extracts their `en.json` files (English strings)
 2. Weblate detects new English strings and makes them available for translation
-3. Translators edit Polish translations on Weblate
+3. Translators edit Belarusian translations on Weblate
 4. Weblate commits translation changes directly to this repository
-5. `dotnet scripts\mods.cs build <version>` packages all `pl.json` files with the mod pack
+5. `dotnet scripts/mods.cs -r linux-x64 -- build <version>` packages all `be.json` files with the mod pack
 
-**Technical Detail:** The mod includes `TranslationReloader.dll` which ensures Polish translations override any older versions from mods by reordering asset origins and reloading translations after all mods have loaded.
+**Technical Detail:** The mod includes `TranslationReloader.dll` which ensures Belarusian translations override any older versions from mods by reordering asset origins and reloading translations after all mods have loaded.
 
 ## Commands
 
 ### Fix JSON formatting
 ```bash
-dotnet scripts\mods.cs fix
+dotnet scripts/mods.cs -r linux-x64 -- fix
 ```
 Converts all JSON files in `mods/` folder to LF-only line endings and reformats them with 4-space indentation.
 
 ### Update mods from ModDB
 ```bash
-dotnet scripts\mods.cs update
+dotnet scripts/mods.cs -r linux-x64 -- update
 ```
 Downloads and extracts `en.json` files (English strings) from mods listed in `mods.json`. Only updates if new versions are detected. Creates/updates:
 - `en.json` files extracted from mods (stored in `mods/<mod-name>/assets/*/lang/`)
 - `mods.json` - Updates mod version numbers and last updated dates
 - `update-log.txt` - Summary of updated mods (only created if changes detected)
 
-Note: `pl.json` files are NOT touched by this command - they must be translated separately via Weblate or manually.
+Note: `be.json` files are NOT touched by this command - they must be translated separately via Weblate or manually.
 
 ### Build package
 ```bash
-dotnet scripts\mods.cs build <version> [--no-history]
+dotnet scripts/mods.cs -r linux-x64 -- build <version> [--no-history]
 ```
 
 **Parameters:**
-- `<version>` - Version string (e.g., `1.0.0`, `test-20251106`)
+- `<version>` - Version string (e.g., `1.0.0`, `test-20260104`)
 - `--no-history` - Skip saving to build history (optional, recommended for test builds)
 
 Creates/updates:
-- `PolishTranslationsPack_v<version>.zip` - Packaged mod with all translations
+- `BelarusianTranslationsPack_v<version>.zip` - Packaged mod with all translations
 - `changelog_<version>.txt` - Detailed changelog
-- `build-history.json` - Build history tracking (with `--no-history` flag)
+- `build-history.json` - Build history tracking (unless `--no-history` is used)
 
 **Examples:**
 ```bash
 # Test build
-dotnet scripts\mods.cs build test-$(Get-Date -Format "yyyyMMdd-HHmmss") --no-history
+dotnet scripts/mods.cs -r linux-x64 -- build test-20260104 --no-history
 
 # Release build
-dotnet scripts\mods.cs build 1.0.0
+dotnet scripts/mods.cs -r linux-x64 -- build 1.0.0
 ```
 
 ## Configuration Files

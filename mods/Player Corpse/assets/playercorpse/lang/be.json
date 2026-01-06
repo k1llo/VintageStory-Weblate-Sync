@@ -1,0 +1,17 @@
+{
+  "item-creature-playercorpse": "Труп гульца",
+  "blockhelp-collect": "Забраць рэчы",
+
+  "game:ingameerror-not-corpse-owner": "Гэта не ваш труп!",
+  "corpse-free": "Даступна для ўсіх",
+  "corpse-created(date={0})": "Створана: {0}",
+
+  "item-corpsecompass": "Трупны компас",
+  "playercorpse:item-handbooktitle-playercorpse:corpsecompass": "Выкарыстанне",
+  "playercorpse:item-handbooktext-playercorpse:corpsecompass": "Дапамагае знайсці вашы трупы. Адміністратары сервера таксама могуць праверыць лог-файл server-main.txt, каб даведацца дакладныя каардынаты ўсіх трупаў (выкарыстоўвайце ў творчым рэжыме).<br/><br/><b>Пошук вядзецца ў радыусе 7x7 чанкаў вакол гульца (па змаўчанні 224x256x224 блокаў).</b>",
+  "corpsecompass-corpses-not-found": "Трупаў паблізу не знойдзена",
+  "corpsecompass-target-set": "Цэль усталявана на апошні труп",
+  "corpsecompass-no-last-corpse": "Апошні труп не знойдзены",
+
+  "death-waypoint-name": "Смерць: {0}"
+}

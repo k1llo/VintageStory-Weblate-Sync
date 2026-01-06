@@ -1,6 +1,6 @@
 # Translation Reloader
 
-Forces Polish translations to load last and override older versions from other mods.
+Forces Belarusian translations to load last and override older versions from other mods.
 
 ## Requirements
 

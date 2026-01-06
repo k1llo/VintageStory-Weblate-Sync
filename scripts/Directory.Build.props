@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <PublishAot>false</PublishAot>
+    <RuntimeIdentifier>linux-x64</RuntimeIdentifier>
+  </PropertyGroup>
+</Project>
