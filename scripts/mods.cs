@@ -519,9 +519,9 @@ void BuildModPack(string? versionArg, bool saveHistory = true)
         ["type"] = "code",
         ["side"] = "client",
         ["name"] = "Belarusian Translations Pack",
-        ["modid"] = "belarussiantranslationspack",
+        ["modid"] = "belarusiantranslationspack",
         ["description"] = "Belarusian Translations Pack - a collection of Belarusian localizations for various Vintage Story mods with automatic translation reload system.",
-        ["website"] = "https://mods.vintagestory.at/belarussiantranslationspack",
+        ["website"] = "https://mods.vintagestory.at/belarusiantranslationspack",
         ["version"] = version,
         ["authors"] = new NJson.Linq.JArray(authors),
         ["dependencies"] = new NJson.Linq.JObject { ["game"] = "" }

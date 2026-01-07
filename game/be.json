@@ -4591,7 +4591,7 @@
 	"damagelog-damage-byentity": "Страчана {0:0.##} хп {1} (моб)",
 	"damagetype-gravity": "сіла цяжару",
 	"damagetype-fire": "шкода агнём",
-	"damagetype-bluntattack": "драбнільная атака",
+	"damagetype-bluntattack": "дробячая атака",
 	"damagetype-slashingattack": "рубячая атака",
 	"damagetype-piercingattack": "колючая атака",
 	"damagetype-suffocation": "шкода ад удушша",

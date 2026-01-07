@@ -25,7 +25,7 @@ namespace TranslationReloader
                 IAssetOrigin? packOrigin = null;
                 foreach (var origin in api.Assets.Origins)
                 {
-                    if (origin.OriginPath.Contains("belarussiantranslationspack", StringComparison.OrdinalIgnoreCase))
+                    if (origin.OriginPath.Contains("belarusiantranslationspack", StringComparison.OrdinalIgnoreCase))
                     {
                         packOrigin = origin;
                         break;
