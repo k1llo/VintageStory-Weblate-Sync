@@ -38,6 +38,10 @@ def extract_modinfo(zip_path):
             if 'modID' in modinfo and 'modid' not in modinfo:
                 modinfo['modid'] = modinfo['modID']
             
+            # Normalize Version to version (some mods use different case)
+            if 'Version' in modinfo and 'version' not in modinfo:
+                modinfo['version'] = modinfo['Version']
+            
             # Validate required fields
             required_fields = ['name', 'modid', 'version']
             missing_fields = [field for field in required_fields if field not in modinfo]
