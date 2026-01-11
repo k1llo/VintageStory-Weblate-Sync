@@ -176,13 +176,13 @@
     {
         "name": "Electrical Progressive: Core",
         "modid": "electricalprogressivecore",
-        "version": "2.6.3",
-        "lastUpdated": "2026-01-08"
+        "version": "2.6.4",
+        "lastUpdated": "2026-01-11"
     },
     {
         "name": "Electrical Progressive: Basics",
         "modid": "electricalprogressivebasics",
-        "version": "2.6.2",
+        "version": "2.6.4",
         "lastUpdated": "2026-01-11"
     },
     {
