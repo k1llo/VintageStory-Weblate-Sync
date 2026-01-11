@@ -1,0 +1,120 @@
+{
+  "item-taxidermy-baby-dugon": "Dugong Taxidermy (Calf) ",
+  "item-taxidermy-female-dugon": "Dugong Taxidermy (Female)",
+  "item-taxidermy-male-dugon": "Dugong Taxidermy (Male)",
+  
+  "item-taxidermy-baby-gigas": "Steller's Sea Cow Taxidermy (Calf) ",
+  "item-taxidermy-female-gigas": "Steller's Sea Cow Taxidermy (Female)",
+  "item-taxidermy-male-gigas": "Steller's Sea Cow Taxidermy (Male)",
+  
+  "item-taxidermy-baby-inunguis": "Amazonian Manatee Taxidermy (Calf) ",
+  "item-taxidermy-female-inunguis": "Amazonian Manatee Taxidermy (Female)",
+  "item-taxidermy-male-inunguis": "Amazonian Manatee Taxidermy (Male)",
+
+  "item-taxidermy-baby-manatus": "West Indian Manatee Taxidermy (Calf) ",
+  "item-taxidermy-female-manatus": "West Indian Manatee Taxidermy (Female)",
+  "item-taxidermy-male-manatus": "West Indian Manatee Taxidermy (Male)",
+ 
+  "item-taxidermy-baby-senegalensis": "West African Manatee Taxidermy (Calf) ",
+  "item-taxidermy-female-senegalensis": "West African Manatee Taxidermy (Female)",
+  "item-taxidermy-male-senegalensis": "West African Manatee Taxidermy (Male)", 
+
+  "item-creature-sirenia-adult-female-dugon": "Dugong (Female)",
+  "item-creature-sirenia-adult-male-dugon": "Dugong (Male)",
+  "item-creature-sirenia-baby-female-dugon": "Dugong Calf (Female)",
+  "item-creature-sirenia-baby-male-dugon": "Dugong Calf (Male)",
+
+  "item-creature-sirenia-adult-female-gigas": "Steller's Sea Cow (Female)",
+  "item-creature-sirenia-adult-male-gigas": "Steller's Sea Cow (Male)",
+  "item-creature-sirenia-baby-female-gigas": "Steller's Sea Cow Calf (Female)",
+  "item-creature-sirenia-baby-male-gigas": "Steller's Sea Cow Calf (Male)",
+
+  "item-creature-sirenia-adult-female-inunguis": "Amazonian Manatee (Female)",
+  "item-creature-sirenia-adult-male-inunguis": "Amazonian Manatee (Male)",
+  "item-creature-sirenia-baby-female-inunguis": "Amazonian Manatee Calf (Female)",
+  "item-creature-sirenia-baby-male-inunguis": "Amazonian Manatee Calf (Male)",
+
+  "item-creature-sirenia-adult-female-manatus": "West Indian Manatee (Female)",
+  "item-creature-sirenia-adult-male-manatus": "West Indian Manatee (Male)",
+  "item-creature-sirenia-baby-female-manatus": "West Indian Manatee Calf (Female)",
+  "item-creature-sirenia-baby-male-manatus": "West Indian Manatee Calf (Male)",
+
+  "item-creature-sirenia-adult-female-senegalensis": "West African Manatee (Female)",
+  "item-creature-sirenia-adult-male-senegalensis": "West African Manatee (Male)",
+  "item-creature-sirenia-baby-female-senegalensis": "West African Manatee Calf (Female)",
+  "item-creature-sirenia-baby-male-senegalensis": "West African Manatee Calf (Male)",
+
+  "item-dead-creature-sirenia-adult-female-dugon": "Dead Dugong (Female)",
+  "item-dead-creature-sirenia-adult-male-dugon": "Dead Dugong (Male)",
+  "item-dead-creature-sirenia-baby-female-dugon": "Dead Dugong Calf (Female)",
+  "item-dead-creature-sirenia-baby-male-dugon": "Dead Dugong Calf (Male)",
+
+  "item-dead-creature-sirenia-adult-female-gigas": "Dead Steller's Sea Cow (Female)",
+  "item-dead-creature-sirenia-adult-male-gigas": "Dead Steller's Sea Cow (Male)",
+  "item-dead-creature-sirenia-baby-female-gigas": "Dead Steller's Sea Cow Calf (Female)",
+  "item-dead-creature-sirenia-baby-male-gigas": "Dead Steller's Sea Cow Calf (Male)",
+
+  "item-dead-creature-sirenia-adult-female-inunguis": "Dead Amazonian Manatee (Female)",
+  "item-dead-creature-sirenia-adult-male-inunguis": "Dead Amazonian Manatee (Male)",
+  "item-dead-creature-sirenia-baby-female-inunguis": "Dead Amazonian Manatee Calf (Female)",
+  "item-dead-creature-sirenia-baby-male-inunguis": "Dead Amazonian Manatee Calf (Male)",
+
+  "item-dead-creature-sirenia-adult-female-manatus": "Dead West Indian Manatee (Female)",
+  "item-dead-creature-sirenia-adult-male-manatus": "Dead West Indian Manatee (Male)",
+  "item-dead-creature-sirenia-baby-female-manatus": "Dead West Indian Manatee Calf (Female)",
+  "item-dead-creature-sirenia-baby-male-manatus": "Dead West Indian Manatee Calf (Male)",
+  
+  "item-dead-creature-sirenia-adult-female-senegalensis": "Dead West African Manatee (Female)",
+  "item-dead-creature-sirenia-adult-male-senegalensis": "Dead West African Manatee (Male)",
+  "item-dead-creature-sirenia-baby-female-senegalensis": "Dead West African Manatee Calf (Female)",
+  "item-dead-creature-sirenia-baby-male-senegalensis": "Dead West African Manatee Calf (Male)",
+
+  "item-pelt-baby-dugon": "Dugong Pelt (Calf)",
+  "item-pelt-female-dugon": "Dugong Pelt (Female)",
+  "item-pelt-male-dugon": "Dugong Pelt (Male)",
+
+  "item-pelt-baby-gigas": "Steller's Sea Cow Pelt (Calf)",
+  "item-pelt-female-gigas": "Steller's Sea Cow Pelt (Female)",
+  "item-pelt-male-gigas": "Steller's Sea Cow Pelt (Male)",
+
+  "item-pelt-baby-inunguis": "Amazonian Manatee Pelt (Calf)",
+  "item-pelt-female-inunguis": "Amazonian Manatee Pelt (Female)",
+  "item-pelt-male-inunguis": "Amazonian Manatee Pelt (Male)",
+
+  "item-pelt-baby-manatus": "West Indian Manatee Pelt (Calf)",
+  "item-pelt-female-manatus": "West Indian Manatee Pelt (Female)",
+  "item-pelt-male-manatus": "West Indian Manatee Pelt (Male)",
+  
+  "item-pelt-baby-senegalensis": "West African Manatee Pelt (Calf)",
+  "item-pelt-female-senegalensis": "West African Manatee Pelt (Female)",
+  "item-pelt-male-senegalensis": "West African Manatee Pelt (Male)",
+  
+  "game:creaturegroup-sirenia": "Manatee",
+
+  "game:prefixandcreature-sirenia-adult-female-dugon": "a dugong",
+  "game:prefixandcreature-sirenia-adult-male-dugon": "a dugong",
+  "game:prefixandcreature-sirenia-baby-female-dugon": "a dugong calf",
+  "game:prefixandcreature-sirenia-baby-male-dugon": "a dugong calf",
+
+  "game:prefixandcreature-sirenia-adult-female-gigas": "a Steller's sea cow",
+  "game:prefixandcreature-sirenia-adult-male-gigas": "a Steller's sea cow",
+  "game:prefixandcreature-sirenia-baby-female-gigas": "a Steller's sea cow calf",
+  "game:prefixandcreature-sirenia-baby-male-gigas": "a Steller's sea cow calf",
+
+  "game:prefixandcreature-sirenia-adult-female-inunguis": "an Amazonian manatee",
+  "game:prefixandcreature-sirenia-adult-male-inunguis": "an Amazonian manatee",
+  "game:prefixandcreature-sirenia-baby-female-inunguis": "an Amazonian manatee calf",
+  "game:prefixandcreature-sirenia-baby-male-inunguis": "an Amazonian manatee calf",
+
+  "game:prefixandcreature-sirenia-adult-female-manatus": "a West Indian manatee",
+  "game:prefixandcreature-sirenia-adult-male-manatus": "a West Indian manatee",
+  "game:prefixandcreature-sirenia-baby-female-manatus": "a West Indian manatee calf",
+  "game:prefixandcreature-sirenia-baby-male-manatus": "a West Indian manatee calf",
+
+  "game:prefixandcreature-sirenia-adult-female-senegalensis": "a West African manatee",
+  "game:prefixandcreature-sirenia-adult-male-senegalensis": "a West African manatee",
+  "game:prefixandcreature-sirenia-baby-female-senegalensis": "a West African manatee calf",
+  "game:prefixandcreature-sirenia-baby-male-senegalensis": "a West African manatee calf"
+
+
+}

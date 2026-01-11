@@ -1,0 +1,39 @@
+{    
+  
+  "item-creature-meiolaniidae-adult-female-ninjemysoweni": "Owen's Horned Turtle (Female)",
+  "item-creature-meiolaniidae-adult-male-ninjemysoweni": "Owen's Horned Turtle (Male)",
+  "item-creature-meiolaniidae-baby-female-ninjemysoweni": "Owen's Horned Turtle Hatchling (Female)",
+  "item-creature-meiolaniidae-baby-male-ninjemysoweni": "Owen's Horned Turtle Hatchling (Male)",
+  "item-creature-meiolaniidae-egg-ninjemysoweni-raw": "Owen's Horned Turtle Egg",
+  "item-creature-meiolaniidae-nest-ninjemysoweni-incubating": "Owen's Horned Turtle Nest",
+  "item-creature-meiolaniidae-nest-ninjemysoweni-mature": "Owen's Horned Turtle Nest",
+  "item-creature-meiolaniidae-nest-ninjemysoweni-empty": "Owen's Horned Turtle Nest",
+  
+  "item-dead-creature-meiolaniidae-adult-female-ninjemysoweni": "Dead Owen's Horned Turtle (Female)",
+  "item-dead-creature-meiolaniidae-adult-male-ninjemysoweni": "Dead Owen's Horned Turtle (Male)",
+  "item-dead-creature-meiolaniidae-baby-female-ninjemysoweni": "Dead Owen's Horned Turtle Hatchling (Female)",
+  "item-dead-creature-meiolaniidae-baby-male-ninjemysoweni": "Dead Owen's Horned Turtle Hatchling (Male)",
+  "item-dead-creature-meiolaniidae-egg-ninjemysoweni-raw": "Cracked Owen's Horned Turtle Egg",  
+  "item-dead-creature-meiolaniidae-nest-ninjemysoweni-incubating": "Destroyed Owen's Horned Turtle Nest",
+  "item-dead-creature-meiolaniidae-nest-ninjemysoweni-mature": "Destroyed Owen's Horned Turtle Nest",
+  "item-dead-creature-meiolaniidae-nest-ninjemysoweni-empty": "Destroyed Owen's Horned Turtle Nest",
+  
+  "item-pelt-female-ninjemysoweni": "Owen's Horned Turtle Shell (Female)",
+  "item-pelt-male-ninjemysoweni": "Owen's Horned Turtle Shell (Male)",
+  "item-taxidermy-female-ninjemysoweni": "Owen's Horned Turtle Taxidermy (Female)",
+  "item-taxidermy-male-ninjemysoweni": "Owen's Horned Turtle Taxidermy (Male)",
+  
+  "game:creaturegroup-meiolaniidae": "Horned Turtles",
+ 
+  "game:prefixandcreature-meiolaniidae-adult-female-ninjemysoweni": "an Owen's horned turtle",
+  "game:prefixandcreature-meiolaniidae-adult-male-ninjemysoweni": "an Owen's horned turtle",
+  "game:prefixandcreature-meiolaniidae-baby-female-ninjemysoweni": "an Owen's horned turtle hatchling",
+  "game:prefixandcreature-meiolaniidae-baby-male-ninjemysoweni": "an Owen's horned turtle hatchling",
+  "game:prefixandcreature-meiolaniidae-egg-ninjemysoweni-raw": "an Owen's horned turtle egg",
+  
+   "recipeingredient-item-creature-meiolaniidae-egg-ninjemysoweni-raw": "Owen's horned turtle egg",
+    
+   "recipeingredient-item-creature-meiolaniidae-egg-ninjemysoweni-raw-insturmentalcase": "Owen's horned turtle eggs"
+
+
+}

@@ -202,5 +202,125 @@
         "modid": "electricalprogressiveindustry",
         "version": "0.5.1",
         "lastUpdated": "2026-01-08"
+    },
+    {
+        "name": "Fauna of the Stone Age: Bovinae",
+        "modid": "bovinae",
+        "version": "0.3.5",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Caninae",
+        "modid": "caninae",
+        "version": "1.1.1",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Capreolinae",
+        "modid": "capreolinae",
+        "version": "2.0.7",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Casuariidae Plus",
+        "modid": "casuariidae",
+        "version": "1.1.9",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Cervinae",
+        "modid": "cervinae",
+        "version": "0.1.13",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Chelonioidea",
+        "modid": "chelonioidea",
+        "version": "1.0.7",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Dinornithiformes Plus",
+        "modid": "dinornithidae",
+        "version": "1.0.22",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Elephantidae",
+        "modid": "elephantidae",
+        "version": "1.0.17",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Felinae",
+        "modid": "felinae",
+        "version": "0.2.13",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Iniidae Plus",
+        "modid": "iniidae",
+        "version": "0.1.6",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Machairodontinae",
+        "modid": "machairodontinae",
+        "version": "1.1.6",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Manidae",
+        "modid": "manidae",
+        "version": "1.0.19",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Meiolaniidae",
+        "modid": "meiolaniidae",
+        "version": "0.1.10",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Pantherinae",
+        "modid": "pantherinae",
+        "version": "1.2.7",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Rhinocerotidae",
+        "modid": "rhinocerotidae",
+        "version": "1.0.23",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Sirenia",
+        "modid": "sirenia",
+        "version": "1.0.26",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Spheniscidae",
+        "modid": "spheniscidae",
+        "version": "1.0.16",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Thylacinidae Plus",
+        "modid": "thylacinidae",
+        "version": "0.1.6",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Viverridae Plus",
+        "modid": "viverridae",
+        "version": "1.0.8",
+        "lastUpdated": "2026-01-11"
+    },
+    {
+        "name": "Fauna of the Stone Age: Vombatidae Plus",
+        "modid": "vombatidae",
+        "version": "0.4.5",
+        "lastUpdated": "2026-01-11"
     }
 ]

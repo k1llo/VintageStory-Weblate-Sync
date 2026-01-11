@@ -1,0 +1,113 @@
+{
+
+  "item-headmount-baby-homotherium-serum": "American Scimitar Cat Head Mount (Cub)",
+  "item-headmount-female-homotherium-serum": "American Scimitar Cat Head Mount (Female)",
+  "item-headmount-male-homotherium-serum": "American Scimitar Cat Head Mount (Male)",
+  "item-taxidermy-baby-homotherium-serum": "American Scimitar Cat Taxidermy (Cub) ",
+  "item-taxidermy-female-homotherium-serum": "American Scimitar Cat Taxidermy (Female)",
+  "item-taxidermy-male-homotherium-serum": "American Scimitar Cat Taxidermy (Male)",
+  
+  "item-headmount-baby-smilodon-fatalis": "Northern Saber Cat Head Mount (Cub)",
+  "item-headmount-female-smilodon-fatalis": "Northern Saber Cat Head Mount (Female)",
+  "item-headmount-male-smilodon-fatalis": "Northern Saber Cat Head Mount (Male)",
+  "item-taxidermy-baby-smilodon-fatalis": "Northern Saber Cat Taxidermy (Cub) ",
+  "item-taxidermy-female-smilodon-fatalis": "Northern Saber Cat Taxidermy (Female)",
+  "item-taxidermy-male-smilodon-fatalis": "Northern Saber Cat Taxidermy (Male)",
+  
+  "item-headmount-baby-smilodon-populator": "Southern Saber Cat Head Mount (Cub)",
+  "item-headmount-female-smilodon-populator": "Southern Saber Cat Head Mount (Female)",
+  "item-headmount-male-smilodon-populator": "Southern Saber Cat Head Mount (Male)",
+  "item-taxidermy-baby-smilodon-populator": "Southern Saber Cat Taxidermy (Cub) ",
+  "item-taxidermy-female-smilodon-populator": "Southern Saber Cat Taxidermy (Female)",
+  "item-taxidermy-male-smilodon-populator": "Southern Saber Cat Taxidermy (Male)",
+
+  "item-creature-machairodontinae-carcass": "Saber Cat Carcass",
+
+  "item-dead-creature-machairodontinae-carcass": "Saber Cat Carcass",
+
+  "item-creature-machairodontinae-adult-female-homotherium-serum": "American Scimitar Cat (Female)",
+  "item-creature-machairodontinae-adult-male-homotherium-serum": "American Scimitar Cat (Male)",
+  "item-creature-machairodontinae-baby-female-homotherium-serum": "American Scimitar Cat Cub (Female)",
+  "item-creature-machairodontinae-baby-male-homotherium-serum": "American Scimitar Cat Cub (Male)",
+
+  "item-creature-machairodontinae-adult-female-smilodon-fatalis": "Northern Saber Cat (Female)",
+  "item-creature-machairodontinae-adult-male-smilodon-fatalis": "Northern Saber Cat (Male)",
+  "item-creature-machairodontinae-baby-female-smilodon-fatalis": "Northern Saber Cat Cub (Female)",
+  "item-creature-machairodontinae-baby-male-smilodon-fatalis": "Northern Saber Cat Cub (Male)",
+
+  "item-creature-machairodontinae-adult-female-smilodon-populator": "Southern Saber Cat (Female)",
+  "item-creature-machairodontinae-adult-male-smilodon-populator": "Southern Saber Cat (Male)",
+  "item-creature-machairodontinae-baby-female-smilodon-populator": "Southern Saber Cat Cub (Female)",
+  "item-creature-machairodontinae-baby-male-smilodon-populator": "Southern Saber Cat Cub (Male)",
+
+  "item-dead-creature-machairodontinae-adult-female-homotherium-serum": "Dead American Scimitar Cat (Female)",
+  "item-dead-creature-machairodontinae-adult-male-homotherium-serum": "Dead American Scimitar Cat (Male)",
+  "item-dead-creature-machairodontinae-baby-female-homotherium-serum": "Dead American Scimitar Cat Cub (Female)",
+  "item-dead-creature-machairodontinae-baby-male-homotherium-serum": "Dead American Scimitar Cat Cub (Male)",
+
+  "item-dead-creature-machairodontinae-adult-female-smilodon-fatalis": "Dead Northern Saber Cat (Female)",
+  "item-dead-creature-machairodontinae-adult-male-smilodon-fatalis": "Dead Northern Saber Cat (Male)",
+  "item-dead-creature-machairodontinae-baby-female-smilodon-fatalis": "Dead Northern Saber Cat Cub (Female)",
+  "item-dead-creature-machairodontinae-baby-male-smilodon-fatalis": "Dead Northern Saber Cat Cub (Male)",
+
+  "item-dead-creature-machairodontinae-adult-female-smilodon-populator": "Dead Southern Saber Cat (Female)",
+  "item-dead-creature-machairodontinae-adult-male-smilodon-populator": "Dead Southern Saber Cat (Male)",
+  "item-dead-creature-machairodontinae-baby-female-smilodon-populator": "Dead Southern Saber Cat Cub (Female)",
+  "item-dead-creature-machairodontinae-baby-male-smilodon-populator": "Dead Southern Saber Cat Cub (Male)",
+  
+  "item-pelt-oiled-baby-homotherium-serum": "Oiled American Scimitar Cat Hide (Cub)",
+  "item-pelt-oiled-female-homotherium-serum": "Oiled American Scimitar Cat Hide (Female)",
+  "item-pelt-oiled-male-homotherium-serum": "Oiled American Scimitar Cat Hide (Male)",
+  "item-pelt-pelt-baby-homotherium-serum": "American Scimitar Cat Pelt (Cub)",
+  "item-pelt-pelt-female-homotherium-serum": "American Scimitar Cat Pelt (Female)",
+  "item-pelt-pelt-male-homotherium-serum": "American Scimitar Cat Pelt (Male)",
+  "item-pelt-raw-baby-homotherium-serum": "Raw American Scimitar Cat Hide (Cub)",
+  "item-pelt-raw-female-homotherium-serum": "Raw American Scimitar Cat Hide (Female)",
+  "item-pelt-raw-male-homotherium-serum": "Raw American Scimitar Cat Hide (Male)",
+  "item-pelt-salted-baby-homotherium-serum": "Salted American Scimitar Cat Hide (Cub)",
+  "item-pelt-salted-female-homotherium-serum": "Salted American Scimitar Cat Hide (Female)",
+  "item-pelt-salted-male-homotherium-serum": "Salted American Scimitar Cat Hide (Male)",
+   
+  "item-pelt-oiled-baby-smilodon-fatalis": "Oiled Northern Saber Cat Hide (Cub)",
+  "item-pelt-oiled-female-smilodon-fatalis": "Oiled Northern Saber Cat Hide (Female)",
+  "item-pelt-oiled-male-smilodon-fatalis": "Oiled Northern Saber Cat Hide (Male)",
+  "item-pelt-pelt-baby-smilodon-fatalis": "Northern Saber Cat Pelt (Cub)",
+  "item-pelt-pelt-female-smilodon-fatalis": "Northern Saber Cat Pelt (Female)",
+  "item-pelt-pelt-male-smilodon-fatalis": "Northern Saber Cat Pelt (Male)",
+  "item-pelt-raw-baby-smilodon-fatalis": "Raw Northern Saber Cat Hide (Cub)",
+  "item-pelt-raw-female-smilodon-fatalis": "Raw Northern Saber Cat Hide (Female)",
+  "item-pelt-raw-male-smilodon-fatalis": "Raw Northern Saber Cat Hide (Male)",
+  "item-pelt-salted-baby-smilodon-fatalis": "Salted Northern Saber Cat Hide (Cub)",
+  "item-pelt-salted-female-smilodon-fatalis": "Salted Northern Saber Cat Hide (Female)",
+  "item-pelt-salted-male-smilodon-fatalis": "Salted Northern Saber Cat Hide (Male)",
+    
+  "item-pelt-oiled-baby-smilodon-populator": "Oiled Southern Saber Cat Hide (Cub)",
+  "item-pelt-oiled-female-smilodon-populator": "Oiled Southern Saber Cat Hide (Female)",
+  "item-pelt-oiled-male-smilodon-populator": "Oiled Southern Saber Cat Hide (Male)",
+  "item-pelt-pelt-baby-smilodon-populator": "Southern Saber Cat Pelt (Cub)",
+  "item-pelt-pelt-female-smilodon-populator": "Southern Saber Cat Pelt (Female)",
+  "item-pelt-pelt-male-smilodon-populator": "Southern Saber Cat Pelt (Male)",
+  "item-pelt-raw-baby-smilodon-populator": "Raw Southern Saber Cat Hide (Cub)",
+  "item-pelt-raw-female-smilodon-populator": "Raw Southern Saber Cat Hide (Female)",
+  "item-pelt-raw-male-smilodon-populator": "Raw Southern Saber Cat Hide (Male)",
+  "item-pelt-salted-baby-smilodon-populator": "Salted Southern Saber Cat Hide (Cub)",
+  "item-pelt-salted-female-smilodon-populator": "Salted Southern Saber Cat Hide (Female)",
+  "item-pelt-salted-male-smilodon-populator": "Salted Southern Saber Cat Hide (Male)",
+  
+  "game:creaturegroup-machairodontinae": "Saber Cats",
+  
+    "game:prefixandcreature-machairodontinae-adult-male-homotherium-serum": "an American scimitar cat",
+    "game:prefixandcreature-machairodontinae-adult-female-homotherium-serum": "an American scimitar cat",
+    "game:prefixandcreature-machairodontinae-baby-male-homotherium-serum": "an American scimitar cat cub",
+    "game:prefixandcreature-machairodontinae-baby-female-homotherium-serum": "an American scimitar cat cub",
+    "game:prefixandcreature-machairodontinae-adult-male-smilodon-fatalis": "a Northern saber cat",
+    "game:prefixandcreature-machairodontinae-adult-female-smilodon-fatalis": "a Northern saber cat",
+    "game:prefixandcreature-machairodontinae-baby-male-smilodon-fatalis": "a Northern saber cat cub",
+    "game:prefixandcreature-machairodontinae-baby-female-smilodon-fatalis": "a Northern saber cat cub",
+    "game:prefixandcreature-machairodontinae-adult-male-smilodon-populator": "a Southern saber cat",
+    "game:prefixandcreature-machairodontinae-adult-female-smilodon-populator": "a Southern saber cat",
+    "game:prefixandcreature-machairodontinae-baby-male-smilodon-populator": "a Southern saber cat cub",
+    "game:prefixandcreature-machairodontinae-baby-female-smilodon-populator": "a Southern saber cat cub"
+
+
+}

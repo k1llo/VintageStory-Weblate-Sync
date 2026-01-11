@@ -1,0 +1,52 @@
+{
+
+  "item-creature-dasyuridae-adult-female-sarcophilusharrisii": "Tasmanian Devil (Female)",
+  "item-creature-dasyuridae-adult-male-sarcophilusharrisii": "Tasmanian Devil (Male)",
+  "item-creature-dasyuridae-baby-female-sarcophilusharrisii": "Tasmanian Devil Imp (Female)",
+  "item-creature-dasyuridae-baby-male-sarcophilusharrisii": "Tasmanian Devil Imp (Male)",
+  "item-creature-dasyuridae-adult-female-sarcophiluslaniarius": "Queensland Devil (Female)",
+  "item-creature-dasyuridae-adult-male-sarcophiluslaniarius": "Queensland Devil (Male)",
+  "item-creature-dasyuridae-baby-female-sarcophiluslaniarius": "Queensland Devil Imp (Female)",
+  "item-creature-dasyuridae-baby-male-sarcophiluslaniarius": "Queensland Devil Imp (Male)",
+
+  "item-dead-creature-dasyuridae-adult-female-sarcophilusharrisii": "Dead Tasmanian Devil (Female)",
+  "item-dead-creature-dasyuridae-adult-male-sarcophilusharrisii": "Dead Tasmanian Devil (Male)",
+  "item-dead-creature-dasyuridae-baby-female-sarcophilusharrisii": "Dead Tasmanian Devil Imp (Female)",
+  "item-dead-creature-dasyuridae-baby-male-sarcophilusharrisii": "Dead Tasmanian Devil Imp (Male)",
+  "item-dead-creature-dasyuridae-adult-female-sarcophiluslaniarius": "Dead Queensland Devil (Female)",
+  "item-dead-creature-dasyuridae-adult-male-sarcophiluslaniarius": "Dead Queensland Devil (Male)",
+  "item-dead-creature-dasyuridae-baby-female-sarcophiluslaniarius": "Dead Queensland Devil Imp (Female)",
+  "item-dead-creature-dasyuridae-baby-male-sarcophiluslaniarius": "Dead Queensland Devil Imp (Male)",
+
+  "item-pelt-baby-sarcophilusharrisii": "Tasmanian Devil Pelt (Imp)",
+  "item-pelt-female-sarcophilusharrisii": "Tasmanian Devil Pelt (Female)",
+  "item-pelt-male-sarcophilusharrisii": "Tasmanian Devil Pelt (Male)",  
+  "item-headmount-baby-sarcophilusharrisii": "Tasmanian Devil Head Mount (Imp)",
+  "item-headmount-female-sarcophilusharrisii": "Tasmanian Devil Head Mount (Female)",
+  "item-headmount-male-sarcophilusharrisii": "Tasmanian Devil Head Mount (Male)",
+  "item-taxidermy-baby-sarcophilusharrisii": "Tasmanian Devil Taxidermy (Imp) ",
+  "item-taxidermy-female-sarcophilusharrisii": "Tasmanian Devil Taxidermy (Female)",
+  "item-taxidermy-male-sarcophilusharrisii": "Tasmanian Devil Taxidermy (Male)",
+  "item-pelt-baby-sarcophiluslaniarius": "Queensland Devil Pelt (Imp)",
+  "item-pelt-female-sarcophiluslaniarius": "Queensland Devil Pelt (Female)",
+  "item-pelt-male-sarcophiluslaniarius": "Queensland Devil Pelt (Male)",  
+  "item-headmount-baby-sarcophiluslaniarius": "Queensland Devil Head Mount (Imp)",
+  "item-headmount-female-sarcophiluslaniarius": "Queensland Devil Head Mount (Female)",
+  "item-headmount-male-sarcophiluslaniarius": "Queensland Devil Head Mount (Male)",
+  "item-taxidermy-baby-sarcophiluslaniarius": "Queensland Devil Taxidermy (Imp) ",
+  "item-taxidermy-female-sarcophiluslaniarius": "Queensland Devil Taxidermy (Female)",
+  "item-taxidermy-male-sarcophiluslaniarius": "Queensland Devil Taxidermy (Male)",
+  
+  "game:creaturegroup-dasyuridae": "Marsupial Carnivores",
+
+    "game:prefixandcreature-dasyuridae-adult-female-sarcophilusharrisii": "a Tasmanian devil",  
+    "game:prefixandcreature-dasyuridae-adult-male-sarcophilusharrisii": "a Tasmanian devil",
+    "game:prefixandcreature-dasyuridae-baby-female-sarcophilusharrisii": "a Tasmanian devil imp",  
+    "game:prefixandcreature-dasyuridae-baby-male-sarcophilusharrisii": "a Tasmanian devil imp",
+    "game:prefixandcreature-dasyuridae-adult-female-sarcophiluslaniarius": "a Queensland devil",  
+    "game:prefixandcreature-dasyuridae-adult-male-sarcophiluslaniarius": "a Queensland devil",
+    "game:prefixandcreature-dasyuridae-baby-female-sarcophiluslaniarius": "a Queensland devil imp",  
+    "game:prefixandcreature-dasyuridae-baby-male-sarcophiluslaniarius": "a Queensland devil imp"
+
+
+}

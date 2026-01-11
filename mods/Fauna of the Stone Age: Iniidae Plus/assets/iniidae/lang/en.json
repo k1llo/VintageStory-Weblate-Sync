@@ -1,0 +1,29 @@
+{
+  "item-taxidermy-baby-lipotesvexillifer": "Baiji Taxidermy (Calf) ",
+  "item-taxidermy-female-lipotesvexillifer": "Baiji Taxidermy (Female)",
+  "item-taxidermy-male-lipotesvexillifer": "Baiji Taxidermy (Male)", 
+
+  "item-creature-cetacea-adult-female-lipotesvexillifer": "Baiji (Female)",
+  "item-creature-cetacea-adult-male-lipotesvexillifer": "Baiji (Male)",
+  "item-creature-cetacea-baby-female-lipotesvexillifer": "Baiji Calf (Female)",
+  "item-creature-cetacea-baby-male-lipotesvexillifer": "Baiji Calf (Male)",
+
+  "item-dead-creature-cetacea-adult-female-lipotesvexillifer": "Dead Baiji (Female)",
+  "item-dead-creature-cetacea-adult-male-lipotesvexillifer": "Dead Baiji (Male)",
+  "item-dead-creature-cetacea-baby-female-lipotesvexillifer": "Dead Baiji Calf (Female)",
+  "item-dead-creature-cetacea-baby-male-lipotesvexillifer": "Dead Baiji Calf (Male)",
+
+  "item-pelt-baby-lipotesvexillifer": "Baiji Pelt (Calf)",
+  "item-pelt-female-lipotesvexillifer": "Baiji Pelt (Female)",
+  "item-pelt-male-lipotesvexillifer": "Baiji Pelt (Male)",
+    
+  "game:creaturegroup-cetacae": "Whales and Dolphins",
+
+  "game:prefixandcreature-cetacea-adult-female-lipotesvexillifer": "a Baiji",
+  "game:prefixandcreature-cetacea-adult-male-lipotesvexillifer": "a Baiji",
+  "game:prefixandcreature-cetacea-baby-female-lipotesvexillifer": "a Baiji calf",
+  "game:prefixandcreature-cetacea-baby-male-lipotesvexillifer": "a Baiji calf"
+
+
+
+}
