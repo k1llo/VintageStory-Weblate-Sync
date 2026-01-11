@@ -1,4 +1,6 @@
 {
     "item-lunchbox-*": "Lunchbox",
-    "itemdesc-lunchbox-*": "Stores food which will be eaten automatically when hungry."
+    "itemdesc-lunchbox-*": "Stores food which will be eaten automatically when hungry.",
+    "item-cooler-*": "Cooler",
+    "itemdesc-cooler-*": "Stores food which will be eaten automatically when hungry."
 }
