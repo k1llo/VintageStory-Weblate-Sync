@@ -20,8 +20,8 @@
     {
         "name": "Combat Overhaul : Armory",
         "modid": "armory",
-        "version": "1.8.3",
-        "lastUpdated": "2026-01-03"
+        "version": "1.9.0",
+        "lastUpdated": "2026-01-12"
     },
     {
         "name": "BetterRuins",
@@ -56,8 +56,8 @@
     {
         "name": "Combat Overhaul",
         "modid": "combatoverhaul",
-        "version": "0.12.7",
-        "lastUpdated": "2026-01-04"
+        "version": "0.13.0",
+        "lastUpdated": "2026-01-12"
     },
     {
         "name": "Expanded Foods",
@@ -98,14 +98,14 @@
     {
         "name": "Crossbows",
         "modid": "maltiezcrossbows",
-        "version": "1.6.9",
-        "lastUpdated": "2026-01-04"
+        "version": "1.7.0",
+        "lastUpdated": "2026-01-12"
     },
     {
         "name": "Firearms",
         "modid": "maltiezfirearms",
-        "version": "1.5.5",
-        "lastUpdated": "2026-01-04"
+        "version": "1.6.0",
+        "lastUpdated": "2026-01-12"
     },
     {
         "name": "Millwright",

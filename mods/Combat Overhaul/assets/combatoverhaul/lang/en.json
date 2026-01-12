@@ -28,6 +28,7 @@
     "game:trait-selfDefence": "<font color=\"#84ff84\">• Self defence</font> ",
     "game:traitdesc-canParryProjectiles": "Can parry projectiles with melee weapons",
     "game:charattribute-crossbowsProficiency-0.3": "+30% crossbows reload speed",
+    "game:charattribute-firearmsProficiency-0.3": "+30% firearms reload speed",
     "game:charattribute-bowsProficiency-0.5": "+50% draw speed",
     "game:charattribute-crossbowsProficiency-0.5": "+50% reload speed",
     "game:charattribute-firearmsProficiency-0.5": "+50% reload speed",
