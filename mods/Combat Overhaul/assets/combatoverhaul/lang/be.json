@@ -28,6 +28,7 @@
     "game:trait-selfDefence": "<font color=\"#84ff84\">• Самаабарона</font> ",
     "game:traitdesc-canParryProjectiles": "Дазваляе парыраваць снарады зброяй блізкага бою",
     "game:charattribute-crossbowsProficiency-0.3": "+30% да хуткасці перазарадкі арбалетаў",
+    "game:charattribute-firearmsProficiency-0.3": "+30% да хуткасці перазарадкі агнястрэльнай зброі",
     "game:charattribute-bowsProficiency-0.5": "+50% да хуткасці нацягвання",
     "game:charattribute-crossbowsProficiency-0.5": "+50% да хуткасці перазарадкі",
     "game:charattribute-firearmsProficiency-0.5": "+50% да хуткасці перазарадкі",
