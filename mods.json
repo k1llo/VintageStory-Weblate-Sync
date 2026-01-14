@@ -62,8 +62,8 @@
     {
         "name": "Expanded Foods",
         "modid": "expandedfoods",
-        "version": "2.0.0-dev.6",
-        "lastUpdated": "2026-01-04"
+        "version": "2.0.0-dev.7",
+        "lastUpdated": "2026-01-14"
     },
     {
         "name": "Farseer",
@@ -86,8 +86,8 @@
     {
         "name": "Hydrate Or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.3.4",
-        "lastUpdated": "2026-01-04"
+        "version": "2.3.6",
+        "lastUpdated": "2026-01-14"
     },
     {
         "name": "Lunchbox",
