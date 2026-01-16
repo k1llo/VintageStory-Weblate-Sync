@@ -20,8 +20,8 @@
     {
         "name": "Combat Overhaul : Armory",
         "modid": "armory",
-        "version": "1.9.0",
-        "lastUpdated": "2026-01-12"
+        "version": "1.9.2",
+        "lastUpdated": "2026-01-16"
     },
     {
         "name": "BetterRuins",
@@ -56,8 +56,8 @@
     {
         "name": "Combat Overhaul",
         "modid": "combatoverhaul",
-        "version": "0.13.2",
-        "lastUpdated": "2026-01-14"
+        "version": "0.14.0",
+        "lastUpdated": "2026-01-16"
     },
     {
         "name": "Expanded Foods",
@@ -164,8 +164,8 @@
     {
         "name": "Overhaul Library",
         "modid": "overhaullib",
-        "version": "1.19.3",
-        "lastUpdated": "2026-01-14"
+        "version": "1.19.5",
+        "lastUpdated": "2026-01-16"
     },
     {
         "name": "Wild Farming Revival",
