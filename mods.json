@@ -56,7 +56,7 @@
     {
         "name": "Combat Overhaul",
         "modid": "combatoverhaul",
-        "version": "0.14.0",
+        "version": "0.14.1",
         "lastUpdated": "2026-01-16"
     },
     {
@@ -164,7 +164,7 @@
     {
         "name": "Overhaul Library",
         "modid": "overhaullib",
-        "version": "1.19.5",
+        "version": "1.19.6",
         "lastUpdated": "2026-01-16"
     },
     {
