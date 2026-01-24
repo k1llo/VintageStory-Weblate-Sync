@@ -2,5 +2,7 @@
     "item-lunchbox-*": "Lunchbox",
     "itemdesc-lunchbox-*": "Stores food which will be eaten automatically when hungry.",
     "item-cooler-*": "Cooler",
-    "itemdesc-cooler-*": "Stores food which will be eaten automatically when hungry."
+    "itemdesc-cooler-*": "Stores food which will be eaten automatically when hungry.",
+    "block-temporal-backpack": "Temporal Backpack",
+    "blockdesc-temporal-backpack": "Stores food which will be eaten automatically when hungry."
 }
