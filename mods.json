@@ -20,7 +20,7 @@
     {
         "name": "Combat Overhaul : Armory",
         "modid": "armory",
-        "version": "1.10.0",
+        "version": "1.10.2",
         "lastUpdated": "2026-01-30"
     },
     {
@@ -164,7 +164,7 @@
     {
         "name": "Overhaul Library",
         "modid": "overhaullib",
-        "version": "1.19.10",
+        "version": "1.19.12",
         "lastUpdated": "2026-01-30"
     },
     {
