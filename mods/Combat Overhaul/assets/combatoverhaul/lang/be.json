@@ -166,6 +166,7 @@
     "setting-debug_weapon_trail_particles": "След ад зброі ў блізкім боі",
     "setting-debug_weapon_trail_particles_size": "Памер часціц следу зброі",
     "setting-debug_projectiles_trails_particles": "След ад снарадаў",
+    "setting-debug_block_angles_particles": "Часціцы вуглоў блокаў",
     "setting-second_chance_available": "Механіка другога шанцу",
     "setting-second_chance_cooldown": "Затрымка другога шанцу (секунды)",
     "setting-player_model_torso_damage": "Множнік шкоды ў тулава гульца",

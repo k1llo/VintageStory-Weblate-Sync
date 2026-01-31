@@ -328,5 +328,17 @@
         "modid": "walkingstick",
         "version": "1.0.16",
         "lastUpdated": "2026-01-24"
+    },
+    {
+        "name": "Expanded Matter",
+        "modid": "em",
+        "version": "3.4.2",
+        "lastUpdated": "2026-01-31"
+    },
+    {
+        "name": "Pet AI",
+        "modid": "petai",
+        "version": "4.0.3",
+        "lastUpdated": "2026-01-31"
     }
 ]
