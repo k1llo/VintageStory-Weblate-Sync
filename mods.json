@@ -2,8 +2,8 @@
     {
         "name": "Butchering",
         "modid": "butchering",
-        "version": "1.10.17",
-        "lastUpdated": "2026-01-08"
+        "version": "1.11.0",
+        "lastUpdated": "2026-01-25"
     },
     {
         "name": "A Culinary Artillery Experimental",
@@ -20,8 +20,8 @@
     {
         "name": "Combat Overhaul : Armory",
         "modid": "armory",
-        "version": "1.9.2",
-        "lastUpdated": "2026-01-16"
+        "version": "1.10.2",
+        "lastUpdated": "2026-01-30"
     },
     {
         "name": "BetterRuins",
@@ -50,14 +50,14 @@
     {
         "name": "chiseltools",
         "modid": "chiseltools",
-        "version": "1.16.1",
-        "lastUpdated": "2026-01-04"
+        "version": "1.16.2",
+        "lastUpdated": "2026-01-30"
     },
     {
         "name": "Combat Overhaul",
         "modid": "combatoverhaul",
-        "version": "0.14.1",
-        "lastUpdated": "2026-01-16"
+        "version": "0.15.1",
+        "lastUpdated": "2026-01-30"
     },
     {
         "name": "Expanded Foods",
@@ -86,14 +86,14 @@
     {
         "name": "Hydrate Or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.3.6",
-        "lastUpdated": "2026-01-14"
+        "version": "2.3.7",
+        "lastUpdated": "2026-01-30"
     },
     {
         "name": "Lunchbox",
         "modid": "lunchbox",
-        "version": "1.2.0",
-        "lastUpdated": "2026-01-24"
+        "version": "1.2.1",
+        "lastUpdated": "2026-01-26"
     },
     {
         "name": "Crossbows",
@@ -164,8 +164,8 @@
     {
         "name": "Overhaul Library",
         "modid": "overhaullib",
-        "version": "1.19.7",
-        "lastUpdated": "2026-01-21"
+        "version": "1.19.12",
+        "lastUpdated": "2026-01-30"
     },
     {
         "name": "Wild Farming Revival",
