@@ -18,20 +18,18 @@
     "gacha-possibility": "{0}% chance of obtaining a {1}",
     "not-for-sale": "Slot {0}: Not for Sale",
     "stall-add": "Add item to stall",
-    "stall-add-servings" : "Add Single Serving",
-    "stall-add-bulk-servings" : "Add Bulk Serving",
-    "stall-remove-servings" : "Remove Single Serving",
-    "stall-remove-bulk-servings" : "Remove Bulk Serving",
+    "stall-add-servings": "Add Single Serving",
+    "stall-add-bulk-servings": "Add Bulk Serving",
+    "stall-remove-servings": "Remove Single Serving",
+    "stall-remove-bulk-servings": "Remove Bulk Serving",
     "stall-open-menu": "Open Stall",
     "stall-purchase": "Purchase 1 item",
     "stall-purchase-bulk": "Purchase many items",
     "player-not-found": "Player '{0}' not found",
-
     "tabname-inventory": "Inventory",
     "tabname-configuration": "Configuration",
     "tabname-permissions": "Permissions",
     "tabname-waypoint": "Waypoint",
-
     "gui-admin-shop": "Admin Shop:",
     "gui-archive": "Archive",
     "gui-available-products": "Available Products for sale:",
@@ -132,21 +130,17 @@
     "gui-whitelisted-shops-note": "Leave blank for all stalls owned by you",
     "gui-winning-chance": "Chances of Winning:",
     "gui-year": "Year:",
-
     "gui-f-owner": "Owner: {0}",
     "gui-f-server": "Server: {0}",
     "gui-f-shop": "Shop: {0}",
     "gui-f-coupon-text": "A {0} coupon for {1} {2} {3}",
-
     "no-gacha-ball": "No gacha ball provided in input slot",
     "gacha-atleast-one": "You need to bundle a gacha ball with atleast one item",
     "gacha-bundled-zero": "You must bundle atleast one gacha ball",
-
     "ledger-already-set": "This ledger already recording sales for a shop",
     "ledger-shop-not-found": "The Shop associated with this ledger no longer exists",
     "ledger-not-set": "This ledger is not set to any shop. Sneak-Right-Click a register to link it",
     "ledger-set": "Ledger set to retrieve sales from {0}",
-
     "block-armorstand-*": "Shop Armor Stand",
     "block-couponcutter-*": "Coupon Cutter",
     "block-helmetstand-*": "Shop Helmet Stand",
@@ -167,19 +161,15 @@
     "block-mealtable-*": "Shop Meal Stall",
     "block-liquidbarrel-*": "Shop Liquid Stall",
     "block-liquiddispenser-*": "Shop Drink Dispenser",
-
     "item-catalog": "Shop Catalog",
     "item-coupon": "Coupon",
     "item-gacha": "Gacha Ball",
     "item-gacha-empty": "Empty Gacha Ball",
     "item-ledger": "Shop Ledger",
     "item-sculpturebundle": "Sculpture Bundle",
-
     "itemdesc-book-tenretni*": "<font color=\"#99c9f9\"><i>This book seems to magically transcribe texts from something called the Tenretni Archive, a complex network of machines and databanks</i></font>",
-
     "game:tabname-vinconomy": "Vinconomy",
     "game:maplayer-VinconomyShops": "Player Shops",
-
     "stall-purchase-armor0": "Purchase Boots",
     "stall-purchase-armor1": "Purchase Pants",
     "stall-purchase-armor2": "Purchase Gloves",
@@ -189,7 +179,6 @@
     "stall-purchase-armor6": "Purchase Necklace",
     "stall-purchase-armor7": "Purchase Mask",
     "stall-purchase-armor8": "Purchase Helmet",
-
     "stall-add-armor0": "Add Boots",
     "stall-add-armor1": "Add Pants",
     "stall-add-armor2": "Add Gloves",
@@ -199,7 +188,6 @@
     "stall-add-armor6": "Add Necklace",
     "stall-add-armor7": "Add Mask",
     "stall-add-armor8": "Add Helmet",
-
     "tooltip-price": "Place the item you wish to use as the price for the product here",
     "tooltip-product": "This represents the item stack that the customer will purchase",
     "tooltip-cost-per-purchase": "The number of items the customer must pay to recieve the product",
@@ -222,27 +210,24 @@
     "tooltip-gacha-name": "The item name of the outputted Gacha Ball",
     "tooltip-gacha-input": "Place empty Gacha Balls to be filled by the machine here",
     "tooltip-gacha-output": "Bundled Gacha Balls will be outputted here once filled with items",
-    "tooltip-serving-transfer" : "Transfer meal servings to/from the Meal Container. Supports Cooking Pots and Crocks.",
-    "tooltip-purchases-left" : "If Limited Purchases is enabled, how many more sales can be made before this stall stops trading entirely. For every purchase, this number will be decremented by 1 until it reaches 0, and no more purchase can be made and the number must be set to a number greater than 0 to resume trading",
-    "tooltip-teller-conversion" : "Place two items that would be considered equivalent in terms of currency. This trade is bidirectional - Customers can obtain the right handed item in exchange for the left, or vice versa obtain the left handed item in exchange for the right. E.g. 1 Gold Bar can be traded for 5 Silver Bars, and 5 Silver Bars can be traded for 1 Gold Bar",
-
-    "tooltip-whitelisted-shops" : "Which shops should the coupon be valid for. If no shops are selected, the coupon will be valid for all shops owned by you",
-    "tooltip-coupon" : "Sets the properties of the coupon. You can specify whether the coupon gives a discount or additional product with either a flat rate or a percentage",
-    "tooltip-consume-coupon" : "Whether or not the coupon will be used up in the trade. If unchecked, the coupon can be used repeatedly",
-    "tooltip-item-whitelist" : "Specifies which items a coupon is valid for. Leave blank for all trades",
-    "tooltip-blacklist" : "Specifies whether or not the items above are excluded instead of included",
-    "tooltip-paper" : "Place a piece of Parchment here to cut up into coupons",
-    "tooltip-short-description" : "Provide a short description of the shop that should be displayed to users browsing the catalog",
-    "tooltip-stall-access" : "Whether or not players should also have access to your stalls as well",
-    "tooltip-webhook" : "Specify a web address that should recieve a snapshot of products purchased from your stalls. Typically this would be a Discord Webhook URL",
-    "tooltip-shop-access" : "Which players should have access to your register in order to collect/deposit funds",
-    "tooltip-trade-pass" : "Which item, if any, should be required in order to purchase items from your stalls",
-    "tooltip-description" : "Provide a detailed description of the shop that should be displayed to users when they view your shop directly via the catalog",
-    "tooltip-waypoint-visible" : "If enabled, the waypoint is broadcasted to all other players to let them know where your shop is located. The location is also shown in the shop catalog and customers can use the Location Link to view your shop on the map",
-    "tooltip-currency" : "Any currency collected from your shops will appear here. This is also used by the Teller Machine to exchange currencies. If this section is full then no more trades can be conducted as the payment would be unable to get collected",
-    "tooltip-coupons" : "Any coupons collected from your shops will appear here. If this section is full, no more coupons can be collected",
-
-
+    "tooltip-serving-transfer": "Transfer meal servings to/from the Meal Container. Supports Cooking Pots and Crocks.",
+    "tooltip-purchases-left": "If Limited Purchases is enabled, how many more sales can be made before this stall stops trading entirely. For every purchase, this number will be decremented by 1 until it reaches 0, and no more purchase can be made and the number must be set to a number greater than 0 to resume trading",
+    "tooltip-teller-conversion": "Place two items that would be considered equivalent in terms of currency. This trade is bidirectional - Customers can obtain the right handed item in exchange for the left, or vice versa obtain the left handed item in exchange for the right. E.g. 1 Gold Bar can be traded for 5 Silver Bars, and 5 Silver Bars can be traded for 1 Gold Bar",
+    "tooltip-whitelisted-shops": "Which shops should the coupon be valid for. If no shops are selected, the coupon will be valid for all shops owned by you",
+    "tooltip-coupon": "Sets the properties of the coupon. You can specify whether the coupon gives a discount or additional product with either a flat rate or a percentage",
+    "tooltip-consume-coupon": "Whether or not the coupon will be used up in the trade. If unchecked, the coupon can be used repeatedly",
+    "tooltip-item-whitelist": "Specifies which items a coupon is valid for. Leave blank for all trades",
+    "tooltip-blacklist": "Specifies whether or not the items above are excluded instead of included",
+    "tooltip-paper": "Place a piece of Parchment here to cut up into coupons",
+    "tooltip-short-description": "Provide a short description of the shop that should be displayed to users browsing the catalog",
+    "tooltip-stall-access": "Whether or not players should also have access to your stalls as well",
+    "tooltip-webhook": "Specify a web address that should recieve a snapshot of products purchased from your stalls. Typically this would be a Discord Webhook URL",
+    "tooltip-shop-access": "Which players should have access to your register in order to collect/deposit funds",
+    "tooltip-trade-pass": "Which item, if any, should be required in order to purchase items from your stalls",
+    "tooltip-description": "Provide a detailed description of the shop that should be displayed to users when they view your shop directly via the catalog",
+    "tooltip-waypoint-visible": "If enabled, the waypoint is broadcasted to all other players to let them know where your shop is located. The location is also shown in the shop catalog and customers can use the Location Link to view your shop on the map",
+    "tooltip-currency": "Any currency collected from your shops will appear here. This is also used by the Teller Machine to exchange currencies. If this section is full then no more trades can be conducted as the payment would be unable to get collected",
+    "tooltip-coupons": "Any coupons collected from your shops will appear here. If this section is full, no more coupons can be collected",
     "wp-genericCoins": "Shop",
     "wp-genericLodging": "Lodging",
     "wp-genericRegister": "Shop",
@@ -272,7 +257,6 @@
     "wp-shopTavern": "Tavern",
     "wp-shopTools": "Tool Shop",
     "wp-shopTrade": "Misc. Shop",
-
     "handbooktext-register": "Allows you to set up your own personal shop. Any proceeds from a given <a href=\"handbooksearch://shop mat\">mat</a>, <a href=\"handbooksearch://shop crate\">crate</a>, <a href=\"handbooksearch://shop clothing stand\">clothing stall</a>, or <a href=\"handbooksearch://sculpture stall\">sculpture stall</a> linked to this shop will go directly to this register's inventory. Be sure to empty out the register from time to time, as you will not be able to make any sales if it is full. If you want to keep track of all sales for your shop, you can craft a <a href=\"handbook://item-vinconomy:ledger\">ledger</a> and link it to this stall in order to view the sales on a Year/Month basis. The Register can also create a global, publicly visible waypoint by enabling the tick box in the Register's menu. If enabled, your register's location will be broadcasted so other  players can find your shop easier.",
     "handbooktext-tellermachine": "Allows your customers to exchange currency between two types. The currency conversion is done directly from your register's inventory, so it may only happen if you have enough items to support the trade. Note that these trades are bidirectional, so do not set up conversions which you do not consider equivalent. As an example 10 Copper Currency might be worth 1 Silver Currency. Such a trade would allow players to exchange either 10 Copper for 1 Silver, or 1 Silver for 10 Copper.",
     "handbooktext-stall": "Allows you to sell a number of items to players for purchase. In order to function, it must be linked to a <a href=\"handbooksearch://shop register\">register</a> in order to function properly. Any goods sold by this stall will have its proceeds delievered straight to the <a href=\"handbooksearch://shop register\">register</a>'s inventory.",
@@ -283,8 +267,6 @@
     "handbooktext-toolrack": "Allows you to sell a number of tools to players for purchase. In order to function, it must be linked to a <a href=\"handbooksearch://shop register\">register</a> in order to function properly. Any goods sold by this stall will have its proceeds delievered straight to the <a href=\"handbooksearch://shop register\">register</a>'s inventory.",
     "handbooktext-tenretni": "Allows you to read third-party data from the internet (Right now, just Pastebin.com) by providing its URL ID. Any updates to the Paste will automatically update upon re-opening the book",
     "handbooktext-purchasecrate": "Allows you to purchase items from other players, instead of selling items. Useful for purchasing items to supplly your profession, such as a Blacksmith purchasing metal nuggets and then selling the refined ingots in at a shop map. This shop behaves differently to other shop stalls, as it has dedicated storage for the purchased stock rather than despositing it into the register. This prevents the register from filling up entirely with purchased goods and preventing trades from other stalls - especially with bulk amounts where multiple stacks are purchased at a time.",
-
-
     "game:material-black": "Black",
     "game:material-blue": "Blue",
     "game:material-brown": "Brown",
@@ -298,6 +280,5 @@
     "game:material-red": "Red",
     "game:material-white": "White",
     "game:material-yellow": "Yellow",
-
     "game:tradingwindow-vincon-trader": "Trade Network Merchant"
 }
