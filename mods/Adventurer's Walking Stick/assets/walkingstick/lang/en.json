@@ -1,0 +1,60 @@
+{
+
+  "item-walkingstick": "Walking stick",
+  "item-walkingstick-crude": "Crude walking stick",
+  "item-walkingstick-cowskull": "Walking stick with cow skull",
+  "item-walkingstick-reinforced": "Reinforced walking stick",
+
+  "item-walkingstick-lantern-copper": "Walking stick with copper lantern",
+  "item-walkingstick-lantern-brass": "Walking stick with brass lantern", 
+  "item-walkingstick-lantern-blackbronze": "Walking stick with black bronze lantern",
+  "item-walkingstick-lantern-bismuth": "Walking stick with bismuth lantern",
+  "item-walkingstick-lantern-tinbronze": "Walking stick with tin bronze lantern",
+  "item-walkingstick-lantern-bismuthbronze": "Walking stick with bismuth bronze lantern",
+  "item-walkingstick-lantern-iron": "Walking stick with iron lantern",
+  "item-walkingstick-lantern-molybdochalkos": "Walking stick with molybdochalkos lantern",
+  "item-walkingstick-lantern-silver": "Walking stick with silver lantern",
+  "item-walkingstick-lantern-gold": "Walking stick with gold lantern",
+  "item-walkingstick-lantern-steel": "Walking stick with steel lantern",
+  "item-walkingstick-lantern-meteoriciron": "Walking stick with meteoric iron lantern",
+  "item-walkingstick-lantern-electrum": "Walking stick with electrum lantern",
+
+  "item-walkingstick-shepherds": "Shepherd's axe",
+  "item-walkingstick-architect": "Architect's walking stick",
+  "item-walkingstick-pathfinder": "Pathfinder's walking stick",
+  "item-walkingstick-leap": "Shepherd's leap stick",
+  "item-walkingstick-blackthorn": "Blackthorn walking stick",
+  "item-walkingstick-witch": "Witch's walking stick",
+  "item-walkingstick-sling": "Staff sling",
+  "item-walkingstick-sling-packed": "Packed staff sling",
+
+
+  "itemdesc-walkingstick": "A handy walking aid that conserves energy while walking",
+  "itemdesc-walkingstick-crude": "A flimsy walking aid that slightly conserves energy while walking",
+  "itemdesc-walkingstick-cowskull": "A decorated walking aid that conserves energy while walking",
+  "itemdesc-walkingstick-reinforced": "A reinforced walking aid that packs a solid punch",
+  "itemdesc-walkingstick-lantern-copper": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "itemdesc-walkingstick-lantern-brass": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "itemdesc-walkingstick-lantern-blackbronze": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "itemdesc-walkingstick-lantern-bismuth": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "itemdesc-walkingstick-lantern-tinbronze": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "itemdesc-walkingstick-lantern-bismuthbronze": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "itemdesc-walkingstick-lantern-iron": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "itemdesc-walkingstick-lantern-molybdochalkos": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "itemdesc-walkingstick-lantern-silver": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "itemdesc-walkingstick-lantern-gold": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "itemdesc-walkingstick-lantern-steel": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "itemdesc-walkingstick-lantern-meteoriciron": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "itemdesc-walkingstick-lantern-electrum": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+
+  "item-axehead-shepherds-iron": "Iron shepherd's axe head",
+
+  "itemdesc-walkingstick-shepherds": "Also known as a ciupaga, valaška, or fokos in the mountainous regions. A combination of walking stick and forestry multitool-sidearm, it helps in clearing brushes ahead and provides protection when needed.",
+  "itemdesc-walkingstick-architect": "A walking stick that doubles as a measuring device, letting you measure distance between blocks.",
+  "itemdesc-walkingstick-pathfinder": "A walking stick equipped with a compact telescope, ideal for scanning the path ahead or stargazing.",
+  "itemdesc-walkingstick-leap": "Also known as a garrote in the Volcanic Isles, it aids in traversing rugged terrain.",
+  "itemdesc-walkingstick-blackthorn": "Also called a shillelagh in the Emerald Isle. Conserves energy while walking, brutal when swung.",
+  "itemdesc-walkingstick-witch": "A charming walking aid that casts a warm, comforting light, easing the traveler’s burden with every step.",
+  "itemdesc-walkingstick-sling": "A combination of a walking stick and a heavy-duty sling for ranged combat. \n<font color=\"#B3FFFFFF\"><i>Uses common stones as ammunition.</i></font>"
+
+}
