@@ -340,5 +340,29 @@
         "modid": "petai",
         "version": "4.0.3",
         "lastUpdated": "2026-01-31"
+    },
+    {
+        "name": "Auto Map Markers",
+        "modid": "egocaribautomapmarkers",
+        "version": "4.0.3",
+        "lastUpdated": "2026-01-31"
+    },
+    {
+        "name": "Bullseye",
+        "modid": "bullseyecontinued",
+        "version": "3.4.5",
+        "lastUpdated": "2026-01-31"
+    },
+    {
+        "name": "Tabletop Games",
+        "modid": "tabletopgames",
+        "version": "3.0.4",
+        "lastUpdated": "2026-01-31"
+    },
+    {
+        "name": "Vinconomy",
+        "modid": "vinconomy",
+        "version": "5.2.1",
+        "lastUpdated": "2026-01-31"
     }
 ]
