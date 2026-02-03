@@ -79,7 +79,7 @@
     "itemdesc-dice-dots": "<font color=\"#99c9f9\"><i>На верхняй грані выпала: <strong>{0}</strong>.</i></font>",
     "item-playingcard": "Гульнявая карта",
     "itemdesc-playingcard": "Карты ў руцэ можна пераставіць альбо папоўніць праз спецыяльнае меню з дапамогай <hk>toolmodeselect</hk>.<br>Перамяшайце ўсю калоду, выкарыстоўваючы <hk>tabletopgames:shuffle</hk>",
-    "item-playingcard-pack": "Калода",
+    "itemdesc-playingcard-pack": "Калода",
     "itemdesc-playingcard-suit": "Масць",
     "itemdesc-playingcard-suit-club": "Трэфы",
     "itemdesc-playingcard-suit-spade": "Пікі",
