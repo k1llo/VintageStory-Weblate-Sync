@@ -56,8 +56,8 @@
     {
         "name": "Combat Overhaul",
         "modid": "combatoverhaul",
-        "version": "0.15.5",
-        "lastUpdated": "2026-02-10"
+        "version": "0.16.1",
+        "lastUpdated": "2026-02-14"
     },
     {
         "name": "Expanded Foods",
@@ -164,8 +164,8 @@
     {
         "name": "Overhaul Library",
         "modid": "overhaullib",
-        "version": "1.20.5",
-        "lastUpdated": "2026-02-11"
+        "version": "1.20.6",
+        "lastUpdated": "2026-02-14"
     },
     {
         "name": "Wild Farming Revival",
@@ -212,14 +212,14 @@
     {
         "name": "Fauna of the Stone Age: Caninae",
         "modid": "caninae",
-        "version": "1.1.3",
-        "lastUpdated": "2026-02-09"
+        "version": "1.1.4",
+        "lastUpdated": "2026-02-14"
     },
     {
         "name": "Fauna of the Stone Age: Capreolinae",
         "modid": "capreolinae",
-        "version": "2.0.9",
-        "lastUpdated": "2026-02-09"
+        "version": "2.0.10",
+        "lastUpdated": "2026-02-14"
     },
     {
         "name": "Fauna of the Stone Age: Casuariidae Plus",
@@ -266,8 +266,8 @@
     {
         "name": "Fauna of the Stone Age: Machairodontinae",
         "modid": "machairodontinae",
-        "version": "1.1.7",
-        "lastUpdated": "2026-01-13"
+        "version": "1.1.8",
+        "lastUpdated": "2026-02-14"
     },
     {
         "name": "Fauna of the Stone Age: Manidae",
