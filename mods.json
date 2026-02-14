@@ -26,8 +26,8 @@
     {
         "name": "BetterRuins",
         "modid": "betterruins",
-        "version": "0.5.7",
-        "lastUpdated": "2026-02-06"
+        "version": "0.6.0-pre.1",
+        "lastUpdated": "2026-02-14"
     },
     {
         "name": "Buzzwords",
@@ -164,7 +164,7 @@
     {
         "name": "Overhaul Library",
         "modid": "overhaullib",
-        "version": "1.20.8",
+        "version": "1.20.9",
         "lastUpdated": "2026-02-14"
     },
     {
