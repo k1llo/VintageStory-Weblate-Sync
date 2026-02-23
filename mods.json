@@ -56,8 +56,8 @@
     {
         "name": "Combat Overhaul",
         "modid": "combatoverhaul",
-        "version": "0.16.4",
-        "lastUpdated": "2026-02-14"
+        "version": "0.16.6",
+        "lastUpdated": "2026-02-23"
     },
     {
         "name": "Expanded Foods",
@@ -164,8 +164,8 @@
     {
         "name": "Overhaul Library",
         "modid": "overhaullib",
-        "version": "1.20.10",
-        "lastUpdated": "2026-02-15"
+        "version": "1.20.12",
+        "lastUpdated": "2026-02-23"
     },
     {
         "name": "Wild Farming Revival",
