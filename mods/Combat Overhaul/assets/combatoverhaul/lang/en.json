@@ -96,6 +96,7 @@
     "item-quiver-waist-*": "Quiver",
     "item-slingpouch-waist-*": "Sling pouch",
     "item-saydak-waist-*": "Quiver with bow case",
+    "armory:item-armor-head-jerkin-leather-*": "Leather jerkin helmet",
     "item-armor-head-jerkin-hide-*": "Hide jerkin helmet",
     "item-armor-body-jerkin-hide-*": "Body hide jerkin",
     "item-armor-legs-jerkin-hide-*": "Leg hide jerkin",
@@ -113,7 +114,7 @@
     "setting-title-spears-settings": "Spears",
     "setting-title-ranged-settings": "Ranged",
     "setting-title-melee-settings": "Melee",
-    "setting-title-logs-settings": "Damage log (no world reload required)",
+    "setting-title-logs-settings": "Damage log",
     "setting-title-debug-particles-settings": "Debug particle settings (no world reload required)",
     "setting-title-player-settings": "Player damage model",
     "setting-title-entities": "Entities settings",
@@ -191,5 +192,6 @@
     "setting-bowtorn_maxrange_gearfoot": "Gearfoot bowtorn max range",
     "setting-bowtorn_projectile_velocity_gearfoot": "Gearfoot bowtorn projectile speed",
     "setting-ranged_weapons_damage_support": "'rangedWeaponDamage' stat applied to CO weapons",
-    "setting-switch_from_immersive_first_person": "Switch IFP to FP when holding items with CO animations"
+    "setting-switch_from_immersive_first_person": "Switch IFP to FP when holding items with CO animations",
+    "setting-short_entity_info": "Short entity tooltip info"
 }
