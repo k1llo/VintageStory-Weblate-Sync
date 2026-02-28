@@ -98,14 +98,14 @@
     {
         "name": "Crossbows",
         "modid": "maltiezcrossbows",
-        "version": "1.8.1",
-        "lastUpdated": "2026-02-09"
+        "version": "1.8.2",
+        "lastUpdated": "2026-02-28"
     },
     {
         "name": "Firearms",
         "modid": "maltiezfirearms",
-        "version": "1.7.6",
-        "lastUpdated": "2026-02-21"
+        "version": "1.7.7",
+        "lastUpdated": "2026-02-28"
     },
     {
         "name": "Millwright",
@@ -164,8 +164,8 @@
     {
         "name": "Overhaul Library",
         "modid": "overhaullib",
-        "version": "1.20.17",
-        "lastUpdated": "2026-02-26"
+        "version": "1.21.0",
+        "lastUpdated": "2026-02-28"
     },
     {
         "name": "Wild Farming Revival",
