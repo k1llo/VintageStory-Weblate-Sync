@@ -32,8 +32,8 @@
     {
         "name": "Buzzwords",
         "modid": "buzzwords",
-        "version": "1.8.1",
-        "lastUpdated": "2026-01-03"
+        "version": "1.8.2",
+        "lastUpdated": "2026-03-08"
     },
     {
         "name": "Carry On",
@@ -146,8 +146,8 @@
     {
         "name": "Status HUD",
         "modid": "statushudcont",
-        "version": "4.1.1",
-        "lastUpdated": "2026-01-04"
+        "version": "4.2.0",
+        "lastUpdated": "2026-03-08"
     },
     {
         "name": "Toolsmith",
