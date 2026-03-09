@@ -86,8 +86,8 @@
     {
         "name": "Hydrate Or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.3.7",
-        "lastUpdated": "2026-01-30"
+        "version": "2.4.0",
+        "lastUpdated": "2026-03-09"
     },
     {
         "name": "Lunchbox",
@@ -110,8 +110,8 @@
     {
         "name": "Millwright",
         "modid": "millwright",
-        "version": "1.3.1",
-        "lastUpdated": "2026-01-04"
+        "version": "1.3.2",
+        "lastUpdated": "2026-03-09"
     },
     {
         "name": "Player Corpse",
