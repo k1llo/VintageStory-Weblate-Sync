@@ -44,8 +44,8 @@
     {
         "name": "Cats",
         "modid": "cats",
-        "version": "4.0.1",
-        "lastUpdated": "2026-01-04"
+        "version": "5.0.0",
+        "lastUpdated": "2026-04-27"
     },
     {
         "name": "chiseltools",
@@ -338,8 +338,8 @@
     {
         "name": "Pet AI",
         "modid": "petai",
-        "version": "4.0.3",
-        "lastUpdated": "2026-01-31"
+        "version": "5.0.0",
+        "lastUpdated": "2026-04-27"
     },
     {
         "name": "Auto Map Markers",
