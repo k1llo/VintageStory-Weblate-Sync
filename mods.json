@@ -140,8 +140,8 @@
     {
         "name": "SmithingPlus",
         "modid": "smithingplus",
-        "version": "1.8.4",
-        "lastUpdated": "2026-03-02"
+        "version": "1.9.0-dev.2",
+        "lastUpdated": "2026-05-03"
     },
     {
         "name": "Status HUD",
@@ -176,20 +176,20 @@
     {
         "name": "Electrical Progressive: Core",
         "modid": "electricalprogressivecore",
-        "version": "3.0.0",
-        "lastUpdated": "2026-04-23"
+        "version": "3.0.1",
+        "lastUpdated": "2026-05-03"
     },
     {
         "name": "Electrical Progressive: Basics",
         "modid": "electricalprogressivebasics",
-        "version": "3.0.0",
-        "lastUpdated": "2026-04-23"
+        "version": "3.0.1",
+        "lastUpdated": "2026-05-03"
     },
     {
         "name": "Electrical Progressive: Equipment",
         "modid": "electricalprogressiveequipment",
-        "version": "3.0.0",
-        "lastUpdated": "2026-04-23"
+        "version": "3.0.1",
+        "lastUpdated": "2026-05-03"
     },
     {
         "name": "Electrical Progressive: QoL",
@@ -200,8 +200,8 @@
     {
         "name": "Electrical Progressive: Industry",
         "modid": "electricalprogressiveindustry",
-        "version": "0.6.1",
-        "lastUpdated": "2026-04-23"
+        "version": "0.6.2",
+        "lastUpdated": "2026-05-03"
     },
     {
         "name": "Fauna of the Stone Age: Bovinae",
