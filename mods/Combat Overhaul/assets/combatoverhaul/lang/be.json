@@ -96,6 +96,7 @@
     "item-quiver-waist-*": "Калчан",
     "item-slingpouch-waist-*": "Сумка для прашчы",
     "item-saydak-waist-*": "Сайдак",
+    "armory:item-armor-head-jerkin-leather-*": "Скураны шлем-камізэлька",
     "item-armor-head-jerkin-hide-*": "Шлем са шкуры",
     "item-armor-body-jerkin-hide-*": "Камізэлька са шкуры",
     "item-armor-legs-jerkin-hide-*": "Нагавіцы са шкуры",
@@ -111,6 +112,7 @@
     "setting-title-server-side": "Серверныя налады",
     "setting-title-bow-settings": "Лукі",
     "setting-title-spears-settings": "Дзіды",
+    "setting-title-ranged-settings": "Дыстанцыйны бой",
     "setting-title-melee-settings": "Блізкі бой",
     "setting-title-logs-settings": "Журнал шкоды (перазапуск свету не патрабуецца)",
     "setting-title-debug-particles-settings": "Налады часціц адладкі",
@@ -145,6 +147,7 @@
     "setting-melee_weapon_stop_on_terrain_hit": "Спыняць атаку пры ўдары па ландшафце",
     "setting-melee_weapon_ignore_terrain_behind": "Ігнараваць ландшафт ззаду гульца",
     "setting-bows_damage_multiplier": "Множнік шкоды лукаў",
+    "setting-bows_reload_speed_multiplier": "Хуткасць перазарадкі лукаў",
     "setting-spears_directional_attacks": "Анімацыі накіраваных атак дзідай",
     "setting-spears_range_damage_multiplier": "Множнік шкоды  дзідаў",
     "setting-shields_protection_zones": "Зоны абароны шчытоў",
@@ -187,5 +190,8 @@
     "setting-bowtorn_maxrange_nightmare": "Макс. далёкасць кашмарнага боўторна",
     "setting-bowtorn_projectile_velocity_nightmare": "Хуткасць снарада кашмарнага боўторна",
     "setting-bowtorn_maxrange_gearfoot": "Макс. далёкасць шасцярэньчатага боўторна",
-    "setting-bowtorn_projectile_velocity_gearfoot": "Хуткасць снарада шасцярэньчатага боўторна"
+    "setting-bowtorn_projectile_velocity_gearfoot": "Хуткасць снарада шасцярэньчатага боўторна",
+    "setting-ranged_weapons_damage_support": "Характарыстыка 'rangedWeaponDamage' уплывае на зброю з CO",
+    "setting-switch_from_immersive_first_person": "Пераключаць з IFP на FP пры трыманні прадметаў з CO-анімацыямі",
+    "setting-short_entity_info": "Кароткая інфармацыя ў падказцы аб істоце"
 }
