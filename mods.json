@@ -370,5 +370,23 @@
         "modid": "rpvoicechat",
         "version": "2.5.2",
         "lastUpdated": "2026-05-02"
+    },
+    {
+        "name": "XLib Fork",
+        "modid": "xlibfork",
+        "version": "1.0.2",
+        "lastUpdated": "2026-05-03"
+    },
+    {
+        "name": "xSkills Fork",
+        "modid": "xskillsfork",
+        "version": "1.0.14",
+        "lastUpdated": "2026-05-03"
+    },
+    {
+        "name": "xSkills Gilded",
+        "modid": "xskillsgilded",
+        "version": "1.3.23",
+        "lastUpdated": "2026-05-03"
     }
 ]

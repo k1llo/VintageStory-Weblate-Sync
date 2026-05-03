@@ -10,7 +10,7 @@
   <ItemGroup>
     <!-- Vintage Story API - adjust path to your VintageStory installation -->
     <Reference Include="VintagestoryAPI">
-      <HintPath>$(VINTAGE_STORY)\VintagestoryAPI.dll</HintPath>
+      <HintPath>/home/k1llo/vs_server_linux-x64_1.21.0/VintagestoryAPI.dll</HintPath>
       <Private>false</Private>
     </Reference>
   </ItemGroup>
