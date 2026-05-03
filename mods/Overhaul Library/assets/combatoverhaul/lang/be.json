@@ -95,6 +95,7 @@
     "damage-type-Electricity": "Электрычнасць",
     "damage-type-Heat": "Спёка",
     "damage-type-Injury": "Траўма",
+    "damage-short-protection-info": "Супраціў (К-С-Д): {0}-{1}-{2}",
     "damage-protection-info": "Узроўні абароны:",
     "armor-layers-info": "Слаі: {0}",
     "armor-zones-info": "Часткі цела: {0}",
@@ -161,5 +162,6 @@
     "interaction-hold-alt": "Утрымлівайце 'Alt' для ўзаемадзеяння альбо ўстаноўкі",
     "interaction-grip-change": "Утрымлівайце 'ПКМ' і круціце кола мышы для змены даўжыні хвату",
     "interaction-toggle-light-source": "Пераключыць носную крыніцу святла",
-    "interaction-toggle-light-source-hotkey": "Пераключыць носную крыніцу святла"
+    "interaction-toggle-light-source-hotkey": "Пераключыць носную крыніцу святла",
+    "setting-fueled_item_update_in_game_hours": "Перыяд абнаўлення прадметаў на паліве (у гульнявых гадзінах)"
 }
