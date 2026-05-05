@@ -344,8 +344,8 @@
     {
         "name": "Auto Map Markers",
         "modid": "egocaribautomapmarkers",
-        "version": "5.0.2",
-        "lastUpdated": "2026-04-27"
+        "version": "5.0.3",
+        "lastUpdated": "2026-05-05"
     },
     {
         "name": "Bullseye",
@@ -374,14 +374,14 @@
     {
         "name": "XLib Fork",
         "modid": "xlibfork",
-        "version": "1.0.2",
-        "lastUpdated": "2026-05-03"
+        "version": "1.0.3",
+        "lastUpdated": "2026-05-05"
     },
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.0.17",
-        "lastUpdated": "2026-05-04"
+        "version": "1.0.18",
+        "lastUpdated": "2026-05-05"
     },
     {
         "name": "xSkills Gilded",
