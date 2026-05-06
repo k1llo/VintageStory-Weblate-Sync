@@ -80,7 +80,7 @@
     {
         "name": "From Golden Combs",
         "modid": "fromgoldencombs",
-        "version": "2.0.1-rc.1",
+        "version": "2.0.1-rc.2",
         "lastUpdated": "2026-05-06"
     },
     {
@@ -158,8 +158,8 @@
     {
         "name": "Translocator Engineering Redux",
         "modid": "translocatorengineeringredux",
-        "version": "1.6.5",
-        "lastUpdated": "2026-04-19"
+        "version": "1.6.6",
+        "lastUpdated": "2026-05-06"
     },
     {
         "name": "Overhaul Library",
@@ -374,13 +374,13 @@
     {
         "name": "XLib Fork",
         "modid": "xlibfork",
-        "version": "1.0.3",
-        "lastUpdated": "2026-05-05"
+        "version": "1.0.4",
+        "lastUpdated": "2026-05-06"
     },
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.0.19",
+        "version": "1.0.20",
         "lastUpdated": "2026-05-06"
     },
     {
