@@ -80,8 +80,8 @@
     {
         "name": "From Golden Combs",
         "modid": "fromgoldencombs",
-        "version": "1.9.4",
-        "lastUpdated": "2026-01-04"
+        "version": "2.0.1-rc.1",
+        "lastUpdated": "2026-05-06"
     },
     {
         "name": "Hydrate Or Diedrate",
@@ -380,8 +380,8 @@
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.0.18",
-        "lastUpdated": "2026-05-05"
+        "version": "1.0.19",
+        "lastUpdated": "2026-05-06"
     },
     {
         "name": "xSkills Gilded",
