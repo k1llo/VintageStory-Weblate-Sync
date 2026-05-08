@@ -368,8 +368,8 @@
     {
         "name": "RP Voice Chat",
         "modid": "rpvoicechat",
-        "version": "2.5.2",
-        "lastUpdated": "2026-05-02"
+        "version": "2.5.3",
+        "lastUpdated": "2026-05-08"
     },
     {
         "name": "XLib Fork",
@@ -380,8 +380,8 @@
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.0.22",
-        "lastUpdated": "2026-05-07"
+        "version": "1.0.24",
+        "lastUpdated": "2026-05-08"
     },
     {
         "name": "xSkills Gilded",
