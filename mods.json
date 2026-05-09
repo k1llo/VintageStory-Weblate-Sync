@@ -8,8 +8,8 @@
     {
         "name": "A Culinary Artillery Experimental",
         "modid": "aculinaryartillery",
-        "version": "2.0.0-dev.12",
-        "lastUpdated": "2026-05-03"
+        "version": "2.0.0-dev.13",
+        "lastUpdated": "2026-05-09"
     },
     {
         "name": "Animal cages",
@@ -80,8 +80,8 @@
     {
         "name": "From Golden Combs",
         "modid": "fromgoldencombs",
-        "version": "2.0.1-rc.2",
-        "lastUpdated": "2026-05-06"
+        "version": "2.0.1-rc.3",
+        "lastUpdated": "2026-05-09"
     },
     {
         "name": "Hydrate Or Diedrate",
@@ -326,8 +326,8 @@
     {
         "name": "Adventurer's Walking Stick",
         "modid": "walkingstick",
-        "version": "3.0.0",
-        "lastUpdated": "2026-03-25"
+        "version": "3.0.1",
+        "lastUpdated": "2026-05-09"
     },
     {
         "name": "Expanded Matter",
