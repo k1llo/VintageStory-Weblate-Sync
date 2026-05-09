@@ -164,6 +164,14 @@ def rebuild_translation_file(en_file: str, be_file: str) -> None:
         
         print(f"\\n📝 Created temp file: {temp_file}")
         print(f"   Contains {len(added_keys)} keys to translate")
+        # Also write a small metadata file so we know the intended target when merging
+        meta_file = temp_file.with_suffix('.meta.json')
+        try:
+            with open(meta_file, 'w', encoding='utf-8') as mf:
+                json.dump({'be_file': str(be_file), 'en_file': str(en_file)}, mf, ensure_ascii=False, indent=2)
+            print(f"   Wrote metadata: {meta_file}")
+        except Exception:
+            pass
     
     # Print summary
     print(f"\\n✅ Rebuilt {be_file}")
@@ -247,6 +255,14 @@ def merge_translations(temp_file: str, be_file: str) -> None:
         print(f"🗑️  Deleted temp file: {temp_file}")
     except Exception as e:
         print(f"⚠️  Could not delete temp file: {e}")
+    # Also delete metadata file if present
+    try:
+        meta_path = Path(temp_file).with_suffix('.meta.json')
+        if meta_path.exists():
+            os.remove(meta_path)
+            print(f"🗑️  Deleted metadata file: {meta_path}")
+    except Exception as e:
+        print(f"⚠️  Could not delete metadata file: {e}")
 
 
 def compare_translations(en_file: str, be_file: str) -> None:
@@ -457,26 +473,47 @@ def main():
                 print("\\n⚠️  No temp files found in translations_todo/")
                 print("   Run option 2 first to create temp files")
             else:
-                temp_files = list(todo_dir.glob('*.json'))
-                print(f"\\n📂 Found {len(temp_files)} temp file(s):")
+                temp_files = list(todo_dir.glob('*_be.json'))
+                print(f"\n📂 Found {len(temp_files)} temp file(s):")
                 for i, tf in enumerate(temp_files, 1):
                     print(f"  {i}. {tf.name}")
-                
-                # Match temp files to be.json files
-                for en_file, be_file in file_pairs:
-                    modid = get_modid(en_file)
-                    temp_file = todo_dir / f"{modid}_be.json"
-                    
-                    if temp_file.exists():
-                        print(f"\\n📂 Processing: {modid}")
-                        print(f"  Temp file: {temp_file}")
-                        print(f"  Target: {be_file}")
-                        
-                        confirm = input(f"Merge translations? (y/N): ").strip().lower()
-                        if confirm == 'y':
-                            merge_translations(str(temp_file), be_file)
-                        else:
-                            print("⏭️  Skipped")
+
+                # Process each temp file. Use metadata if present to locate the exact target.
+                for temp_file in temp_files:
+                    meta_file = temp_file.with_suffix('.meta.json')
+                    target_be = None
+                    en_file_from_meta = None
+
+                    if meta_file.exists():
+                        try:
+                            with open(meta_file, 'r', encoding='utf-8') as mf:
+                                meta = json.load(mf)
+                                target_be = meta.get('be_file')
+                                en_file_from_meta = meta.get('en_file')
+                        except Exception:
+                            target_be = None
+
+                    # Fallback: try to match by modid among discovered file_pairs
+                    if not target_be:
+                        temp_modid = temp_file.stem.replace('_be', '')
+                        for en_file, be_file in file_pairs:
+                            if get_modid(en_file) == temp_modid:
+                                target_be = be_file
+                                break
+
+                    if not target_be:
+                        print(f"\n⚠️  Could not find target for {temp_file.name}; please merge manually")
+                        continue
+
+                    print(f"\n📂 Processing: {temp_file.stem}")
+                    print(f"  Temp file: {temp_file}")
+                    print(f"  Target: {target_be}")
+
+                    confirm = input(f"Merge translations? (y/N): ").strip().lower()
+                    if confirm == 'y':
+                        merge_translations(str(temp_file), target_be)
+                    else:
+                        print("⏭️  Skipped")
                 
         elif choice == '0':
             print("👋 Goodbye!")
