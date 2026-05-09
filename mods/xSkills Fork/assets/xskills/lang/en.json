@@ -371,6 +371,8 @@
     "abilitydesc-resinextractor": "You have a chance to receive resin from every tree you cut down. The chance is {0}% of the chance of your Resin Farmer ability.",
     "ability-resinfarmer": "Resin Farmer",
     "abilitydesc-resinfarmer": "Every time you cut down a pine there is a chance of {0}% per wood log that it drips resin.",
+    "ability-safequenching": "Safe Quenching",
+    "abilitydesc-safequenching": "Your tools will no longer split into atoms during quenching.\nLevel {0}: If the quenching fails, the item will turn into a deformed workpiece.\nLevel {1}: Your items gain {2}% protection from destruction.",
     "ability-saltpeterdigger": "Saltpeter Digger",
     "abilitydesc-saltpeterdigger": "Increases saltpeter harvesting yield by {0}% and additional {1}% for each level at the digging skill. Maxed out at {2}%.",
     "ability-saltybackpack": "Salty Backpack",
