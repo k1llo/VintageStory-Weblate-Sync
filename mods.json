@@ -86,8 +86,8 @@
     {
         "name": "Hydrate Or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.4.6",
-        "lastUpdated": "2026-05-05"
+        "version": "2.4.7",
+        "lastUpdated": "2026-05-10"
     },
     {
         "name": "Lunchbox",
@@ -326,8 +326,8 @@
     {
         "name": "Adventurer's Walking Stick",
         "modid": "walkingstick",
-        "version": "3.0.2",
-        "lastUpdated": "2026-05-09"
+        "version": "3.0.3",
+        "lastUpdated": "2026-05-10"
     },
     {
         "name": "Expanded Matter",
