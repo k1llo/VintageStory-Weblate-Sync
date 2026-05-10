@@ -1,0 +1,66 @@
+Vintage Story Mod Translation Report
+Generated: 2026-05-09 18:05:28
+=====================================
+
+100% Translated Mods (54/73)
+=====================================
+
+A_Culinary_Artillery
+Adventurer's_Walking_Stick
+Animal_cages
+Auto_Map_Markers
+BetterRuins
+Bullseye
+Butchering
+Buzzwords
+Carry_On
+Cats
+Combat_Overhaul
+Combat_Overhaul_:_Armory
+Crossbows
+Electrical_Progressive:_Basics
+Electrical_Progressive:_Core
+Electrical_Progressive:_Equipment
+Electrical_Progressive:_Industry
+Electrical_Progressive:_QoL
+Expanded_Foods
+Expanded_Matter
+Farseer
+Fauna_of_the_Stone_Age:_Bovinae
+Fauna_of_the_Stone_Age:_Caninae
+Firearms
+FoodShelves
+From_Golden_Combs
+Hydrate_Or_Diedrate
+Lunchbox
+Millwright
+Overhaul_Library
+Pet_AI
+Player_Corpse
+Primitive_Survival
+Primitive_Survival
+PurposefulStorage
+Quivers_And_Sheaths
+RP_Voice_Chat
+SmithingPlus
+SmithingPlus
+Status_HUD
+Tabletop_Games
+Toolsmith
+Translocator_Engineering_Redux
+Vinconomy
+Wild_Farming_Revival
+Wild_Farming_Revival
+XLib_Fork
+XLib_Fork
+chiseltools
+chiseltools
+smithingplus
+xSkills_Fork
+xSkills_Fork
+xSkills_Gilded
+
+=====================================
+Total mods: 73
+100% complete: 54
+Incomplete: 19

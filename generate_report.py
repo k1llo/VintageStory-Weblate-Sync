@@ -9,6 +9,7 @@ import json
 import re
 import sys
 import os
+import argparse
 from pathlib import Path
 from collections import OrderedDict
 from typing import Dict, List, Tuple, Any
@@ -287,14 +288,56 @@ def generate_html_report(stats_list: List[Dict], output_file: str = "translation
     print(f"✅ HTML report generated successfully: {output_file}")
 
 
+def generate_text_report(stats_list: List[Dict], output_file: str = "translation_report.txt"):
+    """Generate a text report with only 100% translated mods."""
+    
+    # Filter only 100% translated mods
+    complete_mods = [s for s in stats_list if s['completion'] == 100]
+    
+    # Sort by mod ID
+    complete_mods = sorted(complete_mods, key=lambda x: x['modid'])
+    
+    text = f"""Vintage Story Mod Translation Report
+Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+=====================================
+
+100% Translated Mods ({len(complete_mods)}/{len(stats_list)})
+=====================================
+
+"""
+    
+    if complete_mods:
+        for mod in complete_mods:
+            text += f"{mod['modid']}\n"
+    else:
+        text += "No mods with 100% translation.\n"
+    
+    text += f"\n=====================================\n"
+    text += f"Total mods: {len(stats_list)}\n"
+    text += f"100% complete: {len(complete_mods)}\n"
+    
+    incomplete_count = len(stats_list) - len(complete_mods)
+    if incomplete_count > 0:
+        text += f"Incomplete: {incomplete_count}\n"
+    
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write(text)
+    print(f"✅ Text report generated successfully: {output_file}")
+    print(f"   100% translated mods: {len(complete_mods)}/{len(stats_list)}")
+
+
 def main():
+    parser = argparse.ArgumentParser(description='Translation Report Generator for Vintage Story mods')
+    parser.add_argument('mod_path', nargs='?', default='.', help='Path to scan for translation files (default: current directory)')
+    parser.add_argument('--text', action='store_true', help='Generate text report of 100%% translated mods instead of HTML')
+    
+    args = parser.parse_args()
+    
     print("=" * 60)
     print("Translation Report Generator")
     print("=" * 60)
-
-    mod_path = "."
-    if len(sys.argv) > 1:
-        mod_path = sys.argv[1]
+    
+    mod_path = args.mod_path
         
     print(f"Scanning directory: {os.path.abspath(mod_path)} ...")
     
@@ -357,7 +400,10 @@ def main():
         })
 
     if stats:
-        generate_html_report(stats)
+        if args.text:
+            generate_text_report(stats, "translation_report.txt")
+        else:
+            generate_html_report(stats, "translation_report.html")
     else:
         print("❌ No data to report.")
 

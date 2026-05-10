@@ -1,6 +1,6 @@
 {
     "adrenalinerush-effect": "Прыліў адрэналіну",
-    "adrenalinerush-effectdesc": "",
+    "adrenalinerush-effectdesc": "Прыпыняе крывопраліццё",
     "armor-heavy-dec": "Хуткасць хады, Хуткасць галадавання, Эфектыўнасць лячэння",
     "armor-heavy-inc": "Дакладнасць далёкага бою, Хуткасць нацягвання лука",
     "armor-light-inc": "Эфектыўнасць лячэння, Дакладнасць далёкага бою, Хуткасць нацягвання лука",
@@ -15,7 +15,7 @@
     "blockhelp-cage-place": "Паставіць клетку",
     "blockhelp-cage-release": "Адпусціць жывёлу ({0})",
     "bloodlust-effect": "Крыважэрнасць",
-    "bloodlust-effectdesc": "",
+    "bloodlust-effectdesc": "Павялічвае шкоду",
     "book-meteorology": "Метэаралогія для пачаткоўцаў",
     "book-monster": "Кампендыум монстраў",
     "catchable": "Можна злавіць",

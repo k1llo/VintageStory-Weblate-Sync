@@ -104,6 +104,11 @@ def rebuild_translation_file(en_file: str, be_file: str) -> None:
     
     for key in en_keys:
         if key not in be_translations:
+            # Key completely missing
+            added_keys[key] = en_keys[key]
+            stats['added'] += 1
+        elif be_translations[key] == "" or be_translations[key] is None:
+            # Key exists but has empty/null value (needs translation)
             added_keys[key] = en_keys[key]
             stats['added'] += 1
         else:
@@ -278,7 +283,16 @@ def compare_translations(en_file: str, be_file: str) -> None:
     extra_in_be = set(be_keys.keys()) - set(en_keys.keys())
     common_keys = set(en_keys.keys()) & set(be_keys.keys())
     
-    completion = (len(common_keys) / len(en_keys) * 100) if en_keys else 100
+    # Find keys with empty/null values in BE (treated as untranslated by build script)
+    untranslated_in_be = set()
+    for key in common_keys:
+        be_value = be_keys.get(key)
+        if be_value == "" or be_value is None:
+            untranslated_in_be.add(key)
+    
+    # Translated keys are those that exist AND have non-empty values
+    translated_keys = common_keys - untranslated_in_be
+    completion = (len(translated_keys) / len(en_keys) * 100) if en_keys else 100
     
     # Generate report
     print(f"\\n{'='*70}")
@@ -290,9 +304,23 @@ def compare_translations(en_file: str, be_file: str) -> None:
     print(f"  Total keys in EN: {len(en_keys)}")
     print(f"  Total keys in BE: {len(be_keys)}")
     print(f"  Common keys: {len(common_keys)}")
-    print(f"  Missing in BE: {len(missing_in_be)}")
+    print(f"  Translated in BE: {len(translated_keys)}")
+    print(f"  Missing/untranslated: {len(missing_in_be) + len(untranslated_in_be)}")
+    print(f"    - Not present: {len(missing_in_be)}")
+    print(f"    - Empty value: {len(untranslated_in_be)}")
     print(f"  Extra in BE: {len(extra_in_be)}")
     print(f"  Completion: {completion:.1f}%")
+    
+    if untranslated_in_be:
+        print(f"\\n⚠️  Empty/untranslated keys in BE ({len(untranslated_in_be)}):")
+        for key in list(sorted(untranslated_in_be))[:10]:
+            value = en_keys[key]
+            display_value = value if len(str(value)) < 60 else str(value)[:57] + "..."
+            print(f"  - {key}")
+            print(f"    EN: {display_value}")
+        if len(untranslated_in_be) > 10:
+            print(f"  ... and {len(untranslated_in_be) - 10} more")
+    
     
     if missing_in_be:
         print(f"\\n⚠️  Missing keys in BE ({len(missing_in_be)}):")
