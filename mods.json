@@ -412,5 +412,11 @@
         "modid": "tinkertailorscrapworks",
         "version": "1.2.2",
         "lastUpdated": "2026-05-16"
+    },
+    {
+        "name": "Immersive Fibercraft",
+        "modid": "spinningwheel",
+        "version": "1.2.1",
+        "lastUpdated": "2026-05-16"
     }
 ]
