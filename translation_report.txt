@@ -1,8 +1,8 @@
 Vintage Story Mod Translation Report
-Generated: 2026-05-09 18:05:28
+Generated: 2026-05-16 14:53:50
 =====================================
 
-100% Translated Mods (54/73)
+100% Translated Mods (59/78)
 =====================================
 
 A_Culinary_Artillery
@@ -32,6 +32,7 @@ Firearms
 FoodShelves
 From_Golden_Combs
 Hydrate_Or_Diedrate
+Immersive_Fibercraft
 Lunchbox
 Millwright
 Overhaul_Library
@@ -46,6 +47,10 @@ SmithingPlus
 SmithingPlus
 Status_HUD
 Tabletop_Games
+The_Airship_Mod!
+TinkerTailor_-_Clockworks
+TinkerTailor_-_Patchworks
+TinkerTailor_-_Scrapworks
 Toolsmith
 Translocator_Engineering_Redux
 Vinconomy
@@ -61,6 +66,6 @@ xSkills_Fork
 xSkills_Gilded
 
 =====================================
-Total mods: 73
-100% complete: 54
+Total mods: 78
+100% complete: 59
 Incomplete: 19
