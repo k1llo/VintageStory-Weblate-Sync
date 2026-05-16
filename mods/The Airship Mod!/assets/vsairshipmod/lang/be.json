@@ -1,7 +1,7 @@
 {
   "game:tabname-airship": "Дырыжаблі!",
 
-  //research items
+
   "vsairshipmod:item-aerostatica": "Аэрастатыка!",
   "vsairshipmod:itemdesc-aerostatica": "Упарадкаваны зборнік даследаванняў і тэхналогій, якія тычацца аэрастатаў!",
   "vsairshipmod:item-componentscroll-tier1": "Скрутак кампанента пальніка аэраплота!",
@@ -17,14 +17,14 @@
   "vsairshipmod:item-strangecloth": "Дзіўная тканіна",
   "vsairshipmod:itemdesc-strangecloth": "Дзіўная куча абрэзкаў тканіны. Яна герметычная, воданепранікальная і вогнеўстойлівая!",
 
-  //General airship items
+
   "vsairshipmod:item-airshipmotorshaft": "Вал заваднога рухавіка",
   "vsairshipmod:itemdesc-airshipmotorshaft": "Першы з двух кампанентаў заваднога рухавіка.",
   "vsairshipmod:item-airshipmotorbrace": "Кранштэйн заваднога рухавіка",
   "vsairshipmod:itemdesc-airshipmotorbrace": "Другі з двух кампанентаў заваднога рухавіка.",
 
 
-  //Balloon cloth pipeline
+  
   "vsairshipmod:item-coatingmix": "Сумесь для пакрыцця балона",
   "vsairshipmod:itemdesc-coatingmix": "Густая і ліпкая сумесь. Пры змешванні з вадой утварае вадкасць для пакрыцця балона.",
   "vsairshipmod:item-coatingliquid": "Вадкасць для пакрыцця балона",
@@ -34,7 +34,7 @@
   "vsairshipmod:item-airshipfat": "Здробнены тлушч",
   "vsairshipmod:itemdesc-airshipfat": "Жывёльны тлушч, здробнены для выкарыстання ў якасці паліва пальніка ў <a href=\"handbook://item-vsairshipmod:airship-tier1-oak\">аэраплоце 1-га ўзроўню</a>",
 
-  //attachable items
+
   "vsairshipmod:item-airshipdeed": "Пасведчанне аб уласнасці",
   "vsairshipmod:itemdesc-airshipdeed": "Дакумент, які апісвае права ўласнасці і сертыфікацыю бяспечнага палёту... ну і ўсялякае такое. О, тут ёсць і запасная копія. (Толькі для 2-га ўзроўню і вышэй.)",
 
@@ -55,7 +55,7 @@
   "vsairshipmod:block-figurehead-wolf": "Насавая фігура (воўк)",
   "vsairshipmod:blockdesc-figurehead-*": "Паменшаная і больш лёгкая копія, якая падыходзіць для паветраных суднаў",
 
-  //tier1 items
+  
   "vsairshipmod:item-vsairshipmodroller-tier1": "Набор верфі аэраплота (1-ы ўзровень, 14x7)",
   "vsairshipmod:itemdesc-vsairshipmodroller-tier1": "Шчыльна ўпакаваная будаўнічая верф.",
   "vsairshipmod:item-*vsairshipmodconstruction-tier1-*": "Верф аэраплота 1-га ўзроўню",
@@ -63,7 +63,7 @@
   "vsairshipmod:item-airship-tier1-*": "Запакаваны аэраплот",
   "vsairshipmod:itemdesc-*airship-tier1-*": "Даволі цяжкі, незалежна ад колькасці паліва ўнутры.",
 
-  //tier 2 items
+  
   "vsairshipmod:item-vsairshipmodroller-tier2": "Набор верфі аэраплана (2-і ўзровень, 16x11)",
   "vsairshipmod:itemdesc-vsairshipmodroller-tier2": "Шчыльна ўпакаваная будаўнічая верф.",
   "vsairshipmod:item-*vsairshipmodconstruction-tier2-*": "Верф аэраплана 2-га ўзроўню",
@@ -84,7 +84,7 @@
   "vsairshipmod:item-*airship-tier2-walnut": "Аэраплан (2-і ўзровень, арэх)",
   "vsairshipmod:itemdesc-airship-tier2-*": "Не ашуквай :)",
 
-  //tier 1 airship
+  
   "creature-vsairshipmod:airship-tier1-*-lanternstorageAP": "<br><font color='yellow'>• Слот для ліхтара •</font>",
   "creature-vsairshipmod:airship-tier1-*-riderseatAP": "<br><font color='yellow'>• Месца пілота! •</font>",
   "creature-vsairshipmod:airship-tier1-*-shieldstorageAP": "<br><font color='yellow'>• Слот для шчыта •</font>",
@@ -95,7 +95,7 @@
   "game:vsairshipmod-tier1-buildinfo-title": "Механіка мода: Будаўніцтва аэраплота (1-ы ўзровень)",
   "game:vsairshipmod-tier1-buildinfo-text": "<strong>Будаўніцтва аэраплота</strong><br><br>Стварэнне <a href=\"handbook://item-vsairshipmod:airship-tier1-oak\">аэраплота (1-ы ўзровень)</a> патрабуе шмат матэрыялаў, але ўсё пачынаецца з <a href=\"handbook://item-vsairshipmod:vsairshipmodroller-tier1\">набору верфі (14x7)</a>.<br><br>Калі вы вывучыце дастаткова <a href=\"handbook://item-vsairshipmod:researchpaperitem\">даследаванняў аэрастатаў</a> для стварэння <a href=\"handbook://item-vsairshipmod:aerostatica\">аэрастатыкі</a>, выкарыстоўвайце яе для атрымання <a href=\"handbook://item-vsairshipmod:schematic-tier1\">схемы аэраплота</a>. Гэтая схема дазволіць зрабіць набор верфі.<br><br>Размясціце верф на роўнай паверхні і пераканайцеся, што яна накіравана ў той бок, куды вы хочаце запусціць судна. Кірунак можна змяніць клавішай [F]. Пасля ўстаноўкі вы будзеце стаяць з пярэдняга боку верфі.<br><br>Калі ўключана дапамога па ўзаемадзеянні з блокамі (<hk>blockinteractionhelp</hk>), пры навядзенні на трыбуну верфі вы ўбачыце наступныя крокі. Вам спатрэбяцца бярвёны і дошкі аднаго тыпу драўніны.<br><br>Для балона трэба назбіраць столькі <a href=\"handbooksearch://лляны шпагат\">ллянога шпагату</a>, каб вырабіць 100 адзінак <a href=\"handbooksearch://лляная тканіна\">звычайнай тканіны</a>.<br><br>Усю тканіну трэба апрацаваць <a href=\"handbook://item-vsairshipmod:coatingliquid\">вадкасцю для пакрыцця балона</a>.<br><br>Аэраплот можна насіць як заплечнік (Shift + ПКМ па ім), калі няма модуляў. Разгортваецца праз Ctrl + пракрутка да заплечніка і ПКМ па зямлі. Можна разабраць пілой з вяртаннем часткі матэрыялаў.",
 
-  //tier 2 airship
+  
   "creature-vsairshipmod:airship-tier2-*-LanternStorageAP": "<br><font color='yellow'>• Слот для ліхтара •</font>",
   "creature-vsairshipmod:airship-tier2-*-LeftSeatAP": "<br><font color='yellow'>• Пасажырскае месца •</font>",
   "creature-vsairshipmod:airship-tier2-*-RightSeatAP": "<br><font color='yellow'>• Месца пілота! •</font>",
@@ -116,7 +116,7 @@
   "game:vsairshipmod-tier2-buildinfo-text": "<strong>Будаўніцтва аэраплана</strong><br><br>Стварэнне <a href=\"handbooksearch://аэраплан\">аэраплана (2-і ўзровень)</a> патрабуе шмат матэрыялаў, але ўсё пачынаецца з <a href=\"handbook://item-vsairshipmod:vsairshipmodroller-tier2\">набору верфі (16x11)</a>.<br><br>Пасля вывучэння <a href=\"handbook://item-vsairshipmod:aerostatica\">аэрастатыкі</a> зрабіце <a href=\"handbook://item-vsairshipmod:schematic-tier2\">схему аэраплана (2-і ўзровень)</a>. Размясціце верф на роўнай паверхні, выбраўшы кірунак клавішай <hk>toolmodeselect</hk>.<br><br>Вам спатрэбяцца бярвёны і дошкі аднаго тыпу драўніны. Для балона трэба вырабіць 224 адзінкі <a href=\"handbooksearch://Чыстая тканіна\">чыстай тканіны</a> і апрацаваць яе <a href=\"handbook://item-vsairshipmod:coatingliquid\">вадкасцю для пакрыцця</a>. Разабраць судна можна пілой з вяртаннем часткі матэрыялаў.",
   "vsairshipmod:item-handbooktext-vsairshipmod:airship-tier2-*": "<strong>Як будаваць</strong><br><br>Аэрапланы будуюцца на спецыяльнай верфі на роўнай зямлі і запускаюцца адтуль жа. Падняць іх рукамі нельга. Можна разабраць пілой з вяртаннем часткі рэсурсаў.<br><br><strong>Рух</strong><br><br>Пасля пабудовы націсніце <hk>rightmouse</hk> на задняе сядзенне па правым борце (якое акружана рычагамі) — яно кіруе суднам. Для палёту патрэбна паліва: <a href=\"handbooksearch://Драўняны вугаль\">драўняны вугаль</a>, <a href=\"handbooksearch://антрацыт\">антрацыт</a>, <a href=\"handbooksearch://буры вугаль\">буры вугаль</a> ці <a href=\"handbooksearch://каменны вугаль\">каменны вугаль</a>. Рухавік працуе толькі пры наяўнасці хоць бы адной <a href=\"handbooksearch://тэмпаральная шасцярэнька\">тэмпаральнай шасцярэнькі</a>.<br><br>[Space] — пад'ём, <hk>ctrl</hk> — зніжэнне. Калі паліва ў газіфікатары скончыцца, судна пачне губляць вышыню. У паветры можна выкарыстоўваць клавішы руху альбо проста рухацца з паветранымі патокамі.<br><br><strong>Паветраныя патокі:</strong><br>1. Ападкі ўплываюць на кірунак ветру.<br>2. Надвор'е вызначае сілу ветру.<br>3. Вышыня над зямлёй вызначае моц ветру.<br><br><strong>Візуальныя індыктары</strong><br><br>Флюгеры паказваюць кірунак ветру. Манометр — рэшту паліва. Скляны індыкатар ззаду — рэсурс тэмпаральнай шасцярэнькі.<br><br><strong>Аснашчэнне</strong><br><br>Модулі дадаюцца праз Ctrl + ПКМ.<br><a href=\"handbook://item-vsairshipmod:airshipdeed\">Пасведчанне</a> мацуецца на гарызантальную мачту.<br>Ліхтар мацуецца на носе. Шчыты — на канцах папярочных балак. Кацялок можна паставіць на газіфікатар. Скрыні ці спальнікі — у грузавыя слоты. Насавую фігуру — на канцы мачты. Інструменты (рыдлёўка, сякера і г.д.) — на борт судна.",
 
-  // hYPERION's stuff
+  
   "vsairshipmod:float-fuel": "Засталося паліва: {0}",
   "vsairshipmod:idle": "Судна на халастым ходу",
   "vsairshipmod:int-temporalgearcount": "Засталося тэмпаральных шасцяэнек: {0}",
@@ -133,7 +133,7 @@
   "vsairshipmod:add-coal": "Дадаць вугаль",
 
   "vsairshipmod:dismount-warning": "Увага! Вы ў паветры! Націсніце яшчэ раз, каб злезці!",
-  "vsairshipmod:toggleburner": "Уключыць пальнік",
+  "vsairshipmod:toggleburner": "Уключыць пальнік"
 
 
 
