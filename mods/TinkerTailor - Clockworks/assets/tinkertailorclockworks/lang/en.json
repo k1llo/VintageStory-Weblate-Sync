@@ -1,0 +1,30 @@
+{
+	"game:tabname-tinkertailor":		"TinkerTailor",
+	
+	"item-sparker":					"Sparker",
+		"itemdesc-sparker":				"Pocketable ignition device.\n\n<font color=\"#99c9f9\"><i>“Only you can prevent peat fires.”</i></font><br>",
+
+	"item-illuminant":				"Illuminant",
+		"itemdesc-illuminant":			"Constantly provides a soft glow without heat.\n\n<font color=\"#99c9f9\"><i>“Light must come from inside. You cannot ask the darkness to leave; you must turn on the light.”</i></font><br>",
+		
+	"block-flashbulb":				"Flashbulb",
+		"blockdesc-flashbulb":			"Can be deployed for brilliant luminence.\n\n<font color=\"#99c9f9\"><i>“Light must come from inside. You cannot ask the darkness to leave; you must turn on the light.”</i></font><br>",
+		
+	"block-flashbulb-fried":		"Fried Flashbulb",
+		"blockdesc-flashbulb-fried":	"Can be repaired.",
+		
+	"item-wrench":					"Clock Wrench",
+		"itemdesc-wrench":				"Multitool prized by tinkerers.\n<font color=\"#99f9d9\">Wrench, SolderingIron, & CanOpener.</font>\n\n<font color=\"#99c9f9\"><i>“The best investment is in the tools of one's own trade.”</i></font><br>",
+
+	"item-flicker-molybdochalkos-*":	"Cavern Flicker",
+	"item-flicker-brass-*":				"Fine Flicker",
+	"item-flicker-cupronickel-*":		"Fancy Flicker",
+	"item-flicker-jade-*":				"Jade Flicker",
+	"item-flicker-rust-*":				"Corrupted Flicker",
+	"item-flicker-locust-*":			"Locust Flicker",
+	"item-flicker-blackguard-*":		"Dread Flicker",
+	"item-flicker-tech-*":				"Temporal Flicker",
+		"itemdesc-flicker-*":			"Advanced ignition device.\n\n<font color=\"#99c9f9\"><i>“Only you can prevent peat fires.”</i></font><br>",
+
+	
+}

@@ -1,0 +1,29 @@
+{
+	"game:tabname-tinkertailor":		"TinkerTailor",
+	
+	"item-scrapcloth":					"Cloth Scraps",
+		"itemdesc-scrapcloth":				"Scraps of old cloth.\n\n<font color=\"#99c9f9\"><i>“I could probably try to stitch these together.”</i></font><br>",
+
+	"item-patchcloth":					"Patchwork Cloth",
+		"itemdesc-patchcloth":				"Can be used to repair clothes.\n\n<font color=\"#99c9f9\"><i>“We are all patchwork, and so shapeless and diverse in composition that each bit, each moment, plays its own game.”</i></font><br>",
+			
+	"item-scrapleather":				"Leather Scraps",
+		"itemdesc-scrapleather":			"Scraps of worn leather.\n\n<font color=\"#99c9f9\"><i>“I could probably try to stitch these together.”</i></font><br>",
+			
+	"item-patchleather":				"Patchwork Leather",
+		"itemdesc-patchleather":			"Probably still useful.\n\n<font color=\"#99c9f9\"><i>“If it works, it works!”</i></font><br>",
+			
+	"item-ragtwine":					"Scrap Twine",
+		"itemdesc-ragtwine":				"Thin strips cut and twined into recycled cordage.\n\n<font color=\"#99c9f9\"><i>“What do you sew with? ...Everything.”</i></font><br>",
+			
+	"item-patchkit":					"Patching Kit",
+		"itemdesc-patchkit": 				"Used for repairs and making some clothes.\n\n<font color=\"#99c9f9\"><i>“What do you sew with? ...Everything.”</i></font><br>",
+		"item-handbooktext-patchkit":		"Can be used to repair clothing by 75%. Holding the kit with your mouse pointer, <hk>leftmouse</hk> click on the clothing or armor to be repaired, in your Character inventory.",
+
+	"block-patchwork-cloth":			"Framed Patchcloth",
+		"blockdesc-patchwork-cloth":		"A makeshift frame covered in patchwork cloth.\n\n<font color=\"#99c9f9\"><i>“If it works, it works!”</i></font><br>",
+
+	"block-patchwork-leather":			"Framed Patchleather",
+		"blockdesc-patchwork-leather":		"A makeshift frame covered in patchwork leather.\n\n<font color=\"#99c9f9\"><i>“If it works, it works!”</i></font><br>",
+		
+}
