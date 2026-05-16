@@ -1,66 +1,45 @@
 {
-	"game:tabname-tinkertailor":		"TinkerTailor",
-	
-	"item-scrapknife":					"Scrap Shiv",
-		"itemdesc-scrapknife":				"Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-	
-	"item-scrapsword":					"Scrap Bastard",
-		"itemdesc-scrapsword":				"Probably the best you can do with rusty metal...\n\n<font color=\"#99c9f9\"><i>“A strange Resonance emanates from the blade.”</i></font><br>",
-	
-	"item-scraptongs":					"Scrap Tongs",
-		"itemdesc-scraptongs":				"Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-
-	"item-scrapsaw":					"Scrap Saw",
-		"itemdesc-scrapsaw":				"Scavenged from junk, but might still have some use...\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-
-	"item-scrapwrench":					"Scrap Wrench",
-		"itemdesc-scrapwrench":				"Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-
-	"item-arrow-scrap":					"Scrap Arrow",
-		"itemdesc-arrow-scrap":				"Made from scrap arrow kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-
-	"item-scrapchisel":					"Scrap Chisel",
-		"itemdesc-scrapchisel":				"Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-
-	"item-oar-scrap":					"Scrapwork Oar",
-		"itemdesc-oar-scrap":				"Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-	
-	"item-bow-crude":					"Scrap Shortbow",
-		"itemdesc-bow-crude":				"Won't last long, but better than nothing.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-
-	"item-bow-recurve":					"Scrap Longbow",
-		"itemdesc-bow-recurve":				"Won't last long, but better than nothing.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-
-	"item-pickaxe-scrap":				"Scrap Pickaxe",
-		"itemdesc-pickaxe-scrap":			"Won't last long, but better than nothing.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-
-	"item-shovel-scrap":				"Scrap Shovel",
-		"itemdesc-shovel-scrap":			"Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-
-	"item-hammer-scrap":				"Scrap Mallet",
-		"itemdesc-hammer-scrap":			"Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-
-	"item-shield-cloth":				"Patchwork Shield",
-		"itemdesc-shield-cloth":			"Made from a scrap shield kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-
-	"item-shield-leather":				"Patchwork Shield",
-		"itemdesc-shield-leather":			"Made from a scrap shield kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-
-	"item-shield-scrap":				"Scrapwork Shield",
-		"itemdesc-shield-scrap":			"Made from a heavy shield kit.\n\n<font color=\"#99c9f9\"><i>“It's far better than being dead.”</i></font><br>",
-
-	"item-fishingpole-scrap":			"Scrap Fishing Pole",
-		"itemdesc-fishingpole-scrap":		"Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-
-	"item-scraptoolkit":				"Scrap Tool Kit",
-		"itemdesc-scraptoolkit":			"Put in active hand and hold <hk>rightmouse</hk> button to craft a scrap tool.\n\n<font color=\"#99c9f9\"><i>“Let's hope this works...”</i></font><br>",
-
-	"item-scrapshieldkit":				"Scrap Shield Kit",
-		"itemdesc-scrapshieldkit":			"Put in active hand and hold <hk>rightmouse</hk> button to craft a scrap shield.\n\n<font color=\"#99c9f9\"><i>“Let's hope this works...”</i></font><br>",
-
-	"item-heavyshieldkit":				"Heavy Shield Kit",
-		"itemdesc-heavyshieldkit":			"Put in active hand and hold <hk>rightmouse</hk> button to craft a sturdy scrap shield.\n\n<font color=\"#99c9f9\"><i>“This had better work...”</i></font><br>",
-
-	"item-scraparrowkit":				"Scrap Arrow Kit",
-		"itemdesc-scraparrowkit":			"Put in active hand and hold <hk>rightmouse</hk> button to craft several scrap arrows.\n\n<font color=\"#99c9f9\"><i>“Let's hope this works...”</i></font><br>",
+    "game:tabname-tinkertailor": "TinkerTailor",
+    "item-scrapknife": "Scrap Shiv",
+    "itemdesc-scrapknife": "Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-scrapsword": "Scrap Bastard",
+    "itemdesc-scrapsword": "Probably the best you can do with rusty metal...\n\n<font color=\"#99c9f9\"><i>“A strange Resonance emanates from the blade.”</i></font><br>",
+    "item-scraptongs": "Scrap Tongs",
+    "itemdesc-scraptongs": "Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-scrapsaw": "Scrap Saw",
+    "itemdesc-scrapsaw": "Scavenged from junk, but might still have some use...\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-scrapwrench": "Scrap Wrench",
+    "itemdesc-scrapwrench": "Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-arrow-scrap": "Scrap Arrow",
+    "itemdesc-arrow-scrap": "Made from scrap arrow kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-scrapchisel": "Scrap Chisel",
+    "itemdesc-scrapchisel": "Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-oar-scrap": "Scrapwork Oar",
+    "itemdesc-oar-scrap": "Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-bow-crude": "Scrap Shortbow",
+    "itemdesc-bow-crude": "Won't last long, but better than nothing.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-bow-recurve": "Scrap Longbow",
+    "itemdesc-bow-recurve": "Won't last long, but better than nothing.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-pickaxe-scrap": "Scrap Pickaxe",
+    "itemdesc-pickaxe-scrap": "Won't last long, but better than nothing.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-shovel-scrap": "Scrap Shovel",
+    "itemdesc-shovel-scrap": "Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-hammer-scrap": "Scrap Mallet",
+    "itemdesc-hammer-scrap": "Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-shield-cloth": "Patchwork Shield",
+    "itemdesc-shield-cloth": "Made from a scrap shield kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-shield-leather": "Patchwork Shield",
+    "itemdesc-shield-leather": "Made from a scrap shield kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-shield-scrap": "Scrapwork Shield",
+    "itemdesc-shield-scrap": "Made from a heavy shield kit.\n\n<font color=\"#99c9f9\"><i>“It's far better than being dead.”</i></font><br>",
+    "item-fishingpole-scrap": "Scrap Fishing Pole",
+    "itemdesc-fishingpole-scrap": "Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-scraptoolkit": "Scrap Tool Kit",
+    "itemdesc-scraptoolkit": "Put in active hand and hold <hk>rightmouse</hk> button to craft a scrap tool.\n\n<font color=\"#99c9f9\"><i>“Let's hope this works...”</i></font><br>",
+    "item-scrapshieldkit": "Scrap Shield Kit",
+    "itemdesc-scrapshieldkit": "Put in active hand and hold <hk>rightmouse</hk> button to craft a scrap shield.\n\n<font color=\"#99c9f9\"><i>“Let's hope this works...”</i></font><br>",
+    "item-heavyshieldkit": "Heavy Shield Kit",
+    "itemdesc-heavyshieldkit": "Put in active hand and hold <hk>rightmouse</hk> button to craft a sturdy scrap shield.\n\n<font color=\"#99c9f9\"><i>“This had better work...”</i></font><br>",
+    "item-scraparrowkit": "Scrap Arrow Kit",
+    "itemdesc-scraparrowkit": "Put in active hand and hold <hk>rightmouse</hk> button to craft several scrap arrows.\n\n<font color=\"#99c9f9\"><i>“Let's hope this works...”</i></font><br>"
 }

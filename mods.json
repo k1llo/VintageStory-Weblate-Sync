@@ -194,8 +194,8 @@
     {
         "name": "Electrical Progressive: QoL",
         "modid": "electricalprogressiveqol",
-        "version": "3.1.0",
-        "lastUpdated": "2026-05-12"
+        "version": "3.1.1",
+        "lastUpdated": "2026-05-16"
     },
     {
         "name": "Electrical Progressive: Industry",
@@ -368,8 +368,8 @@
     {
         "name": "RP Voice Chat",
         "modid": "rpvoicechat",
-        "version": "2.5.4",
-        "lastUpdated": "2026-05-15"
+        "version": "2.5.5",
+        "lastUpdated": "2026-05-16"
     },
     {
         "name": "XLib Fork",
@@ -380,8 +380,8 @@
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.0.33",
-        "lastUpdated": "2026-05-15"
+        "version": "1.0.34",
+        "lastUpdated": "2026-05-16"
     },
     {
         "name": "xSkills Gilded",
