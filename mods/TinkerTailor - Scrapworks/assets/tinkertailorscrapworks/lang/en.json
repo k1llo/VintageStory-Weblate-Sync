@@ -14,8 +14,12 @@
     "itemdesc-arrow-scrap": "Made from scrap arrow kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
     "item-scrapchisel": "Scrap Chisel",
     "itemdesc-scrapchisel": "Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
-    "item-oar-scrap": "Scrapwork Oar",
+    "item-oar-scrap": "Scrap Oar",
     "itemdesc-oar-scrap": "Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-scythe-scrap": "Scrap Scythe",
+    "itemdesc-scythe-scrap": "Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
+    "item-hoe-scrap": "Dirty Hoe",
+    "itemdesc-hoe-scrap": "Made from a scrap tool kit.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
     "item-bow-crude": "Scrap Shortbow",
     "itemdesc-bow-crude": "Won't last long, but better than nothing.\n\n<font color=\"#99c9f9\"><i>“Materials are hard to come by these days. Work with what you've got.”</i></font><br>",
     "item-bow-recurve": "Scrap Longbow",
@@ -41,5 +45,9 @@
     "item-heavyshieldkit": "Heavy Shield Kit",
     "itemdesc-heavyshieldkit": "Put in active hand and hold <hk>rightmouse</hk> button to craft a sturdy scrap shield.\n\n<font color=\"#99c9f9\"><i>“This had better work...”</i></font><br>",
     "item-scraparrowkit": "Scrap Arrow Kit",
-    "itemdesc-scraparrowkit": "Put in active hand and hold <hk>rightmouse</hk> button to craft several scrap arrows.\n\n<font color=\"#99c9f9\"><i>“Let's hope this works...”</i></font><br>"
+    "itemdesc-scraparrowkit": "Put in active hand and hold <hk>rightmouse</hk> button to craft several scrap arrows.\n\n<font color=\"#99c9f9\"><i>“Let's hope this works...”</i></font><br>",
+    "item-scrapsconcekit": "Scrap Sconce Kit",
+    "itemdesc-scrapsconcekit": "Put in active hand and hold <hk>rightmouse</hk> button to craft a few sconces.\n<font color=\"#f99999\"><i>Has a 20% chance of failure.</i></font>\n\n<font color=\"#99c9f9\"><i>“Let's hope this works...”</i></font><br>",
+    "block-torchholder*": "Makeshift Sconce",
+    "blockdesc-torchholder*": "Made from a scrap sconce kit.\n\n<font color=\"#99c9f9\"><i>“Will probably only work once.”</i></font><br>"
 }
