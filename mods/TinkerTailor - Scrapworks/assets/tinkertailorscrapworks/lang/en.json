@@ -49,5 +49,13 @@
     "item-scrapsconcekit": "Scrap Sconce Kit",
     "itemdesc-scrapsconcekit": "Put in active hand and hold <hk>rightmouse</hk> button to craft a few sconces.\n<font color=\"#f99999\"><i>Has a 20% chance of failure.</i></font>\n\n<font color=\"#99c9f9\"><i>“Let's hope this works...”</i></font><br>",
     "block-torchholder*": "Makeshift Sconce",
-    "blockdesc-torchholder*": "Made from a scrap sconce kit.\n\n<font color=\"#99c9f9\"><i>“Will probably only work once.”</i></font><br>"
+    "blockdesc-torchholder*": "Made from a scrap sconce kit.\n\n<font color=\"#99c9f9\"><i>“Will probably only work once.”</i></font><br>",
+    "item-armor-head-scrap": "Scrapwork Helmet",
+    "item-armor-body-scrap": "Scrapwork Cuirass",
+    "item-armor-legs-scrap": "Scrapwork Greaves",
+    "item-armor-head-eidolon": "Rustworld Helmet",
+    "item-armor-body-eidolon": "Rustworld Cuirass",
+    "item-armor-legs-eidolon": "Rustworld Greaves",
+    "itemdesc-armor-*-scrap": "<font color=\"#99c9f9\"><i>“Before all masters, necessity is the one most listened to, and who teaches the best.”</i></font><br>",
+    "itemdesc-armor-*-eidolon": "<font color=\"#99c9f9\"><i>“It seems wisest to assume the worst from the beginning...and let anything better come as a surprise.”</i></font><br>"
 }

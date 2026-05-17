@@ -17,13 +17,13 @@
     "blockdesc-patchwork-cloth": "A makeshift frame covered in patchwork cloth.\n\n<font color=\"#99c9f9\"><i>“If it works, it works!”</i></font><br>",
     "block-patchwork-leather": "Framed Patchleather",
     "blockdesc-patchwork-leather": "A makeshift frame covered in patchwork leather.\n\n<font color=\"#99c9f9\"><i>“If it works, it works!”</i></font><br>",
-    "item-armor-head-patchcloth": "Patchwork Quilted Coif",
-    "item-armor-body-patchcloth": "Patchwork Quilted Gambeson",
-    "item-armor-legs-patchcloth": "Patchwork Quilted Leggings",
-    "item-armor-head-patchleather": "Patchwork Leather Helmet",
-    "item-armor-body-patchleather": "Patchwork Leather Cuirass",
-    "item-armor-legs-patchleather": "Patchwork Leather Chausses",
-    "itemdesc-armor-legs-patch*": "<font color=\"#99c9f9\"><i>“Much like a patchwork quilt, inspiration that stirs and motivates me is made of many things.”</i></font><br>",
-    "itemdesc-armor-body-patch*": "<font color=\"#99c9f9\"><i>“Much like a patchwork quilt, inspiration that stirs and motivates me is made of many things.”</i></font><br>",
-    "itemdesc-armor-head-patch*": "<font color=\"#99c9f9\"><i>“Much like a patchwork quilt, inspiration that stirs and motivates me is made of many things.”</i></font><br>"
+    "item-armor-head-sewn-patchcloth": "Patchwork Quilted Coif",
+    "item-armor-body-sewn-patchcloth": "Patchwork Quilted Gambeson",
+    "item-armor-legs-sewn-patchcloth": "Patchwork Quilted Leggings",
+    "item-armor-head-sewn-patchleather": "Patchwork Leather Helmet",
+    "item-armor-body-sewn-patchleather": "Patchwork Leather Cuirass",
+    "item-armor-legs-sewn-patchleather": "Patchwork Leather Chausses",
+    "itemdesc-armor-legs-sewn-patch*": "<font color=\"#99c9f9\"><i>“Much like a patchwork quilt, inspiration that stirs and motivates me is made of many things.”</i></font><br>",
+    "itemdesc-armor-body-sewn-patch*": "<font color=\"#99c9f9\"><i>“Much like a patchwork quilt, inspiration that stirs and motivates me is made of many things.”</i></font><br>",
+    "itemdesc-armor-head-sewn-patch*": "<font color=\"#99c9f9\"><i>“Much like a patchwork quilt, inspiration that stirs and motivates me is made of many things.”</i></font><br>"
 }
