@@ -418,5 +418,11 @@
         "modid": "spinningwheel",
         "version": "1.2.1",
         "lastUpdated": "2026-05-16"
+    },
+    {
+        "name": "Block overlay",
+        "modid": "blocksoverlay",
+        "version": "4.10.4",
+        "lastUpdated": "2026-05-18"
     }
 ]

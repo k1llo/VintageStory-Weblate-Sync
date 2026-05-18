@@ -16,5 +16,14 @@
     "block-patchwork-cloth": "Латаная тканіна ў рамцы",
     "blockdesc-patchwork-cloth": "Самаробная рамка, абцягнутая латанай тканінай.\n\n<font color=\"#99c9f9\"><i>“Калі гэта працуе, значыць працуе!”</i></font><br>",
     "block-patchwork-leather": "Латаная скура ў рамцы",
-    "blockdesc-patchwork-leather": "Самаробная рамка, абцягнутая латанай скурай.\n\n<font color=\"#99c9f9\"><i>“Калі гэта працуе, значыць працуе!”</i></font><br>"
+    "blockdesc-patchwork-leather": "Самаробная рамка, абцягнутая латанай скурай.\n\n<font color=\"#99c9f9\"><i>“Калі гэта працуе, значыць працуе!”</i></font><br>",
+    "item-armor-head-sewn-patchcloth": "Латаны сцёганы каптур",
+    "item-armor-body-sewn-patchcloth": "Латаны сцёганы гамбезон",
+    "item-armor-legs-sewn-patchcloth": "Латаныя сцёганыя нагавіцы",
+    "item-armor-head-sewn-patchleather": "Латаны скураны шлем",
+    "item-armor-body-sewn-patchleather": "Латаная скураная кіраса",
+    "item-armor-legs-sewn-patchleather": "Латаныя скураныя нагавіцы",
+    "itemdesc-armor-legs-sewn-patch*": "<font color=\"#99c9f9\"><i>“Падобна латанай коўдры, натхненне, якое хвалюе і матывуе мяне, сатканае з мноства рэчаў.”</i></font><br>",
+    "itemdesc-armor-body-sewn-patch*": "<font color=\"#99c9f9\"><i>“Падобна латанай коўдры, натхненне, якое хвалюе і матывуе мяне, сатканае з мноства рэчаў.”</i></font><br>",
+    "itemdesc-armor-head-sewn-patch*": "<font color=\"#99c9f9\"><i>“Падобна латанай коўдры, натхненне, якое хвалюе і матывуе мяне, сатканае з мноства рэчаў.”</i></font><br>"
 }

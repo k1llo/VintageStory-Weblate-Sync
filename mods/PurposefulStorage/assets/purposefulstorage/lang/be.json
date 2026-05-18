@@ -21,6 +21,7 @@
     "block-saddlerack-*": "Вешалка для сядла",
     "block-medallionrack-*": "Стойка для медальёнаў",
     "block-spearrack-*": "Стойка для дзід",
+    "block-swordplaque-*": "Sword Plaque",
     "blockdesc-canhold-title": "Можа захоўваць:",
     "helddesc-wardrobe": "Можа захоўваць большасць відаў верхняй вопраткі, а таксама абутак!",
     "helddesc-hatrack": "Можа захоўваць большасць капелюшоў!",
@@ -41,6 +42,7 @@
     "helddesc-saddlerack": "Вызваліце свайго лася ад сядла!",
     "helddesc-medallionrack": "Выстаўляйцеце медальёны лася і эмблемы вопраткі!",
     "helddesc-spearrack": "Пакідайце свае дзіды ў даступным месцы!",
+    "helddesc-swordplaque": "Hang your favorite sword!",
     "This item cannot be placed in this container.": "Гэты прадмет нельга змясціць у гэты кантэйнер.",
     "This item is not of the same type as the item in the container!": "Гэты прадмет не таго ж тыпу, што і прадмет у кантэйнеры!"
 }

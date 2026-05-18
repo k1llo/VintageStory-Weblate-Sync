@@ -1,0 +1,47 @@
+{
+    "blockselector-dialog-title": "Выберыце цэль для накладання",
+    "colorpicker-dialog-title": "Палітра колераў",
+    "label-scan-radius": "Радыус сканавання (блокаў)",
+    "label-label-radius": "Радыус пазнак (блокаў)",
+    "label-search": "Пошук блока або сутнасці",
+    "label-search-detail": "Шукайце па кодзе рэсурсу для дакладнага супадзення!",
+    "label-search-button": "Шукаць",
+    "label-saved-groups-button": "Захаваныя групы",
+    "label-search-results": "Вынікі",
+    "label-search-results-with-count": "Вынікі ({0})",
+    "label-active-results": "Актыўныя цэлі",
+    "label-show-entity-rays": "Паказваць прамяні сутнасцяў?",
+    "label-show-debug": "Паказваць адладачную інфармацыю на накладанні?",
+    "label-scan-button": "Сканаваць",
+
+    "label-search-result-single": "{0}",
+    "label-search-result-multiple": "{0} ({1} ідэнтыфікатараў)",
+
+    "placeholder-search": "Назва блока/сутнасці або код рэсурсу",
+    "placeholder-range": "# Блокаў",
+
+    "savedgroups-dialog-title": "Кіраванне захаванымі групамі",
+    "rename-dialog-title": "Перайменаваць групу",
+    "label-select-group": "Выбраць групу",
+    "label-rename": "Перайменаваць",
+    "label-save": "Захаваць",
+    "label-cancel": "Скасаваць",
+    "label-delete-group": "Выдаліць групу",
+    "label-new-group": "Новая група",
+    "label-empty-group-list": "&lt;Няма груп&gt;",
+    "label-move-group-up": "Перамясціць выбраную групу вышэй",
+    "label-move-group-down": "Перамясціць выбраную групу ніжэй",
+
+    "label-scan-error": "Памылка падчас сканавання: {0}",
+    "label-groups-found": "Знойдзена груп: {0}",
+    "label-scanstep-scanning-chunks": "Сканаванне чанкаў {0} ({1} чанкаў) ({2})",
+    "label-scanstep-building-groups": "Стварэнне груп блокаў {0} ({1} блокаў) ({2})",
+    "label-scanstep-generate-mesh": "Перабудова сеткі блокаў {0} ({1} груп) ({2})",
+    "label-scanstep-hollowing-groups": "Ачыстка нутраных частак буйных груп {0} ({1} груп) ({2})",
+    "label-searching-for-things": "Пошук {0} {1}:",
+    "label-thing": "аб'ект",
+    "label-things": "аб'ектаў",
+
+    "keybind-show-overlay": "Паказаць накладанне блокаў",
+    "keybind-show-selector": "Паказаць выбаршчык блокаў"
+}
