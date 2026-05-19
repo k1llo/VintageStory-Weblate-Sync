@@ -55,7 +55,7 @@
     "itemdesc-hidden-blade": "Iron blade that can be hidden in a <a href=\"handbook://item-walkingstick:walkingstick-sheath\">cane sheath</a>",
     "itemdesc-walkingstick-gun-sheathed": "An elegant walking aid that holds a deadly secret \n<font color=\"#B3FFFFFF\"><i>To assemble, hold the <a href=\"handbook://item-walkingstick:walkingstick-gun-sheath\">cane holster</a> in your off-hand and the <a href=\"handbook://item-walkingstick:hidden-gun\">gearlock</a> in your main hand, then press F</i></font>",
     "itemdesc-walkingstick-gun-sheath": "Cane holster that can hide a <a href=\"handbook://item-walkingstick:hidden-gun\">gearlock</a>",
-    "itemdesc-hidden-gun": "Gearlock that can be hidden in a <a href=\"handbook://item-walkingstick:walkingstick-gun-sheath\">cane holster</a> \n<font color=\"#B3FFFFFF\"><i>To reload press alt+r, requires paper cartridges, flax fibers for wadding, and blasting powder as primer</i></font>",
+    "itemdesc-hidden-gun": "Gearlock that can be hidden in a <a href=\"handbook://item-walkingstick:walkingstick-gun-sheath\">cane holster</a> \n<font color=\"#B3FFFFFF\"><i>To reload press alt+r, requires paper cartridges and flax fibers on your toolbar</i></font>",
     "itemdesc-paper-cartridge": "\n<font color=\"#B3FFFFFF\"><i>Used for loading the hidden gearlock mechanism</i></font>",
     "itemdesc-paper-cylinder": "\n<font color=\"#B3FFFFFF\"><i>Used in the crafting of the paper cartridges</i></font>",
     "itemdesc-flintlock-mechanism-iron": "Strange mechanism once commonly used in firearms, needed to craft a hidden gearlock",
