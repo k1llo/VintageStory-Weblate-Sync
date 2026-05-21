@@ -38,8 +38,8 @@
     {
         "name": "Carry On",
         "modid": "carryon",
-        "version": "1.14.1",
-        "lastUpdated": "2026-05-18"
+        "version": "1.14.2",
+        "lastUpdated": "2026-05-21"
     },
     {
         "name": "Cats",
@@ -380,8 +380,8 @@
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.0.38",
-        "lastUpdated": "2026-05-20"
+        "version": "1.0.39",
+        "lastUpdated": "2026-05-21"
     },
     {
         "name": "xSkills Gilded",
