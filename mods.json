@@ -86,8 +86,8 @@
     {
         "name": "Hydrate Or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.4.11",
-        "lastUpdated": "2026-05-20"
+        "version": "2.4.12",
+        "lastUpdated": "2026-05-21"
     },
     {
         "name": "Lunchbox",
@@ -368,8 +368,8 @@
     {
         "name": "RP Voice Chat",
         "modid": "rpvoicechat",
-        "version": "2.5.5",
-        "lastUpdated": "2026-05-16"
+        "version": "2.5.6",
+        "lastUpdated": "2026-05-21"
     },
     {
         "name": "XLib Fork",
@@ -398,8 +398,8 @@
     {
         "name": "TinkerTailor - Clockworks",
         "modid": "tinkertailorclockworks",
-        "version": "1.1.2",
-        "lastUpdated": "2026-05-18"
+        "version": "1.2.0",
+        "lastUpdated": "2026-05-21"
     },
     {
         "name": "TinkerTailor - Patchworks",
