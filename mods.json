@@ -8,8 +8,8 @@
     {
         "name": "A Culinary Artillery Experimental",
         "modid": "aculinaryartillery",
-        "version": "2.0.0-dev.15",
-        "lastUpdated": "2026-05-15"
+        "version": "2.0.0-dev.16",
+        "lastUpdated": "2026-05-24"
     },
     {
         "name": "Animal cages",
@@ -326,8 +326,8 @@
     {
         "name": "Adventurer's Walking Stick",
         "modid": "walkingstick",
-        "version": "3.0.8",
-        "lastUpdated": "2026-05-19"
+        "version": "3.0.9",
+        "lastUpdated": "2026-05-24"
     },
     {
         "name": "Expanded Matter",
