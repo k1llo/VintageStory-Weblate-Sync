@@ -7,7 +7,6 @@
     "exclusivelywith": "Incompatible with: ",
     "experience": "Experience",
     "explossondeath": "You lost {0:n2} experience in the {1} skill because of your death.",
-    "xleveling:hardcore-death-message": "You died. All your accumulated experience and skills were permanently lost.",
     "level": "Level",
     "levelup": "You reached level {0} in the {1} skill!",
     "limited": "Limited",
@@ -34,6 +33,8 @@
     "unlearncooldown": "Unlearn cooldown",
     "unlearnpoints": "Unlearn points",
     "wrongtime": "The time is not right.",
+    "xleveling:hardcore-death-message": "You died. All your accumulated experience and skills were permanently lost.",
+    "skillbook-studied": "<font color=\"#ff9999\">Studied</font>",
     "xskills:fishing-currentchance": "Current chance: {0}% (Base {1}% + {2}% from level test)",
     "xskills:fishing-maxbonus": "Current maximum bonus: {0} fillets test",
     "you receive": "You receive"
