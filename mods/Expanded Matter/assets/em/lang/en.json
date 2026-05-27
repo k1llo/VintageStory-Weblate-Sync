@@ -33,7 +33,7 @@
     "em:item-ash-organic-wood-sludge": "Wood ash sludge",
     "em:itemdesc-ash-organic-wood-sludge": "Concentrated wet organic wood ash.",
     "game:handbook-item-usage-ash-organic-wood-sludge": "Dry with medium heat to turn into <a href=\"handbook://item-potash\">potash</a>.",
-    "em:item-ash-inorganic-rock": "Rock ash",
+    "em:item-ash-inorganic-rock-dry": "Rock ash",
     "em:itemdesc-ash-inorganic-rock": "Very finy fragments of rock, crystals and mineral glass.",
     "game:handbook-item-usage-ash-inorganic-rock": "Can be used as a fertilizer.",
     "game:Anthracite gray": "Anthracite gray",
