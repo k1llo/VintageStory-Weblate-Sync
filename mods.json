@@ -50,8 +50,8 @@
     {
         "name": "chiseltools",
         "modid": "chiseltools",
-        "version": "1.17.1",
-        "lastUpdated": "2026-04-22"
+        "version": "1.17.2",
+        "lastUpdated": "2026-05-27"
     },
     {
         "name": "Combat Overhaul",
@@ -128,8 +128,8 @@
     {
         "name": "PurposefulStorage",
         "modid": "purposefulstorage",
-        "version": "2.0.0",
-        "lastUpdated": "2026-05-16"
+        "version": "2.0.1",
+        "lastUpdated": "2026-05-27"
     },
     {
         "name": "Quivers And Sheaths",
