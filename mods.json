@@ -2,14 +2,14 @@
     {
         "name": "Butchering",
         "modid": "butchering",
-        "version": "1.13.3",
-        "lastUpdated": "2026-05-15"
+        "version": "1.13.4",
+        "lastUpdated": "2026-05-28"
     },
     {
         "name": "A Culinary Artillery Experimental",
         "modid": "aculinaryartillery",
-        "version": "2.0.0-dev.16",
-        "lastUpdated": "2026-05-24"
+        "version": "2.0.0-dev.17",
+        "lastUpdated": "2026-05-28"
     },
     {
         "name": "Animal cages",
@@ -152,8 +152,8 @@
     {
         "name": "Toolsmith",
         "modid": "toolsmith",
-        "version": "1.2.16",
-        "lastUpdated": "2026-05-16"
+        "version": "1.2.17",
+        "lastUpdated": "2026-05-28"
     },
     {
         "name": "Translocator Engineering Redux",
@@ -176,14 +176,14 @@
     {
         "name": "Electrical Progressive: Core",
         "modid": "electricalprogressivecore",
-        "version": "3.1.0",
-        "lastUpdated": "2026-05-12"
+        "version": "3.2.0",
+        "lastUpdated": "2026-05-28"
     },
     {
         "name": "Electrical Progressive: Basics",
         "modid": "electricalprogressivebasics",
-        "version": "3.1.2",
-        "lastUpdated": "2026-05-23"
+        "version": "3.2.0",
+        "lastUpdated": "2026-05-28"
     },
     {
         "name": "Electrical Progressive: Equipment",
@@ -194,8 +194,8 @@
     {
         "name": "Electrical Progressive: QoL",
         "modid": "electricalprogressiveqol",
-        "version": "3.1.3",
-        "lastUpdated": "2026-05-23"
+        "version": "3.2.0",
+        "lastUpdated": "2026-05-28"
     },
     {
         "name": "Electrical Progressive: Industry",
@@ -416,8 +416,8 @@
     {
         "name": "Immersive Fibercraft",
         "modid": "spinningwheel",
-        "version": "1.2.6",
-        "lastUpdated": "2026-05-26"
+        "version": "1.2.7",
+        "lastUpdated": "2026-05-28"
     },
     {
         "name": "Block overlay",

@@ -241,6 +241,8 @@
     "item-bloodbread-amaranth-charred": "Amaranth bloodbread (charred)",
     "incontainer-item-bloodportion": "Blood",
     "item-bloodportion": "Blood",
+    "item-fishingbait-blood": "Bloodbait",
+    "itemdesc-fishingbait-blood": "Highly attractive to fish",
     "item-primemeat-raw": "Raw Primemeat",
     "itemdesc-primemeat-raw": "A prime cut of meat",
     "item-primemeat-curedhealing": "Cured Healthy Primemeat",
