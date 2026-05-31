@@ -24,5 +24,14 @@
     "item-flicker-locust-*": "Locust Flicker",
     "item-flicker-blackguard-*": "Dread Flicker",
     "item-flicker-tech-*": "Temporal Flicker",
-    "itemdesc-flicker-*": "Advanced ignition device.\n\n<font color=\"#99c9f9\"><i>“Only you can prevent peat fires.”</i></font><br>"
+    "itemdesc-flicker-*": "Advanced ignition device.\n\n<font color=\"#99c9f9\"><i>“Only you can prevent peat fires.”</i></font><br>",
+    "block-clockwork-storagevessel-antique": "Spatial Compression Vessel (Antique)",
+    "block-clockwork-storagevessel-eidolon": "Spatial Compression Vessel (Eidolon)",
+    "block-clockwork-storagevessel-locust": "Spatial Compression Vessel (Locust)",
+    "block-clockwork-storagevessel-jonas": "Spatial Compression Vessel (Jonas)",
+    "block-clockwork-storagevessel-seraph": "Spatial Compression Vessel (Seraph)",
+    "block-clockwork-storagevessel-verne": "Spatial Compression Vessel (Verne)",
+    "block-clockwork-storagevessel-dwemer": "Spatial Compression Vessel (Dwemer)",
+    "block-clockwork-storagevessel-tardis": "Spatial Compression Vessel (Tardis)",
+    "blockdesc-*storagevessel*": "Advanced technological storage container.\n<font color=\"#99f9d9\">Preservation through spatial compression.</font>\n\n<font color=\"#99c9f9\"><i>“It's bigger on the inside!?”</i></font><br>"
 }
