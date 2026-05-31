@@ -240,7 +240,7 @@
     "ability-heavyarmorexpert": "Heavy Armor Expert",
     "abilitydesc-heavyarmorexpert": "Decreases some trait values you receive from your armor by {0}%. But also increases some trait values by {1}%.\nDecreases traits: {2}\nIncreases traits: {3}",
     "ability-heavyhits": "Heavy Hits",
-    "abilitydesc-heavyhits": "Your heavy hits on slag works as a split.",
+    "abilitydesc-heavyhits": "Allows slag to be knocked off a workpiece using regular heavy hammer strikes.",
     "ability-hugestomach": "Huge Stomach",
     "abilitydesc-hugestomach": "Increases your maximum saturation by {0}.",
     "ability-hunter": "Hunter",
