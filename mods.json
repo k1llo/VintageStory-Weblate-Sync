@@ -38,8 +38,8 @@
     {
         "name": "Carry On",
         "modid": "carryon",
-        "version": "2.0.0-pre.1",
-        "lastUpdated": "2026-05-25"
+        "version": "2.0.0-pre.2",
+        "lastUpdated": "2026-06-01"
     },
     {
         "name": "Cats",
@@ -188,8 +188,8 @@
     {
         "name": "Electrical Progressive: Equipment",
         "modid": "electricalprogressiveequipment",
-        "version": "3.2.0",
-        "lastUpdated": "2026-05-30"
+        "version": "3.2.1",
+        "lastUpdated": "2026-06-01"
     },
     {
         "name": "Electrical Progressive: QoL",
@@ -380,14 +380,14 @@
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.0.46",
-        "lastUpdated": "2026-05-31"
+        "version": "1.0.48",
+        "lastUpdated": "2026-06-01"
     },
     {
         "name": "xSkills Gilded",
         "modid": "xskillsgilded",
-        "version": "1.3.30",
-        "lastUpdated": "2026-05-30"
+        "version": "1.3.31",
+        "lastUpdated": "2026-06-01"
     },
     {
         "name": "The Airship Mod!",
@@ -416,8 +416,8 @@
     {
         "name": "Immersive Fibercraft",
         "modid": "spinningwheel",
-        "version": "1.2.7",
-        "lastUpdated": "2026-05-28"
+        "version": "1.2.8",
+        "lastUpdated": "2026-06-01"
     },
     {
         "name": "Block overlay",
