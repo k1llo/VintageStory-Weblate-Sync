@@ -347,7 +347,7 @@
     "ability-recycler": "Recycler",
     "abilitydesc-recycler": "Breaking farmland now drops soil depending on the remaining fertility. Can improve the soil up to a base fertility of {0}.",
     "ability-repotting": "Repotting",
-    "abilitydesc-repotting": "Harvesting non-matured crops drops always the seeds.",
+    "abilitydesc-repotting": "Harvesting non-matured crops always drop the seeds",
     "ability-resinextractor": "Resin Extractor",
     "abilitydesc-resinextractor": "You have a chance to receive resin from every tree you cut down. The chance is {0}% of the chance of your Resin Farmer ability.",
     "ability-resinfarmer": "Resin Farmer",
