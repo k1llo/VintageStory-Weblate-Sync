@@ -8,8 +8,8 @@
     {
         "name": "A Culinary Artillery Experimental",
         "modid": "aculinaryartillery",
-        "version": "2.0.0-dev.19",
-        "lastUpdated": "2026-05-30"
+        "version": "2.0.0-dev.20",
+        "lastUpdated": "2026-06-08"
     },
     {
         "name": "Animal cages",
@@ -92,8 +92,8 @@
     {
         "name": "Lunchbox",
         "modid": "lunchbox",
-        "version": "1.3.2",
-        "lastUpdated": "2026-04-26"
+        "version": "1.3.3",
+        "lastUpdated": "2026-06-08"
     },
     {
         "name": "Crossbows",
@@ -122,8 +122,8 @@
     {
         "name": "Primitive Survival",
         "modid": "primitivesurvival",
-        "version": "5.0.5",
-        "lastUpdated": "2026-04-18"
+        "version": "5.0.6",
+        "lastUpdated": "2026-06-08"
     },
     {
         "name": "PurposefulStorage",
@@ -422,7 +422,7 @@
     {
         "name": "Block overlay",
         "modid": "blocksoverlay",
-        "version": "4.10.4",
-        "lastUpdated": "2026-05-18"
+        "version": "4.11.2",
+        "lastUpdated": "2026-06-08"
     }
 ]
