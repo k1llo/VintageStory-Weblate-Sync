@@ -374,14 +374,14 @@
     {
         "name": "XLib Fork",
         "modid": "xlibfork",
-        "version": "1.0.16",
-        "lastUpdated": "2026-06-07"
+        "version": "1.0.17",
+        "lastUpdated": "2026-06-09"
     },
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.0.55",
-        "lastUpdated": "2026-06-07"
+        "version": "1.0.57",
+        "lastUpdated": "2026-06-09"
     },
     {
         "name": "xSkills Gilded",
