@@ -62,8 +62,8 @@
     {
         "name": "Expanded Foods",
         "modid": "expandedfoods",
-        "version": "2.0.0-dev.9",
-        "lastUpdated": "2026-06-02"
+        "version": "2.0.0-dev.10",
+        "lastUpdated": "2026-06-15"
     },
     {
         "name": "Farseer",
@@ -422,7 +422,7 @@
     {
         "name": "Block overlay",
         "modid": "blocksoverlay",
-        "version": "4.11.2",
-        "lastUpdated": "2026-06-08"
+        "version": "4.11.3",
+        "lastUpdated": "2026-06-15"
     }
 ]
