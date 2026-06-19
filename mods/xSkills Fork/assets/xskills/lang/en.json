@@ -407,6 +407,8 @@
     "abilitydesc-strongback": "Adds an additional inventory with {0} slots to your character. You can switch the items between this inventory and your hotbar. [default: R]",
     "ability-strongline": "Strong Line",
     "abilitydesc-strongline": "With a {0}% chance (+{1}% per Fishing level, up to {2}%), your fishing rod will not lose durability when used.",
+    "ability-swiftspear": "Swift Spear",
+    "abilitydesc-swiftspear": "Increases spear aiming speed by {0}%.",
     "ability-swordsman": "Swordsman",
     "abilitydesc-swordsman": "Increases the damage you deal with swords by {0}% and additional {1}% for each level at the combat skill. Maxed out at {2}%.",
     "ability-tank": "Tank",

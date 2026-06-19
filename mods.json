@@ -374,20 +374,20 @@
     {
         "name": "XLib Fork",
         "modid": "xlibfork",
-        "version": "1.0.18",
-        "lastUpdated": "2026-06-11"
+        "version": "1.0.19",
+        "lastUpdated": "2026-06-19"
     },
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.0.63",
-        "lastUpdated": "2026-06-13"
+        "version": "1.0.65",
+        "lastUpdated": "2026-06-19"
     },
     {
         "name": "xSkills Gilded",
         "modid": "xskillsgilded",
-        "version": "1.3.35",
-        "lastUpdated": "2026-06-07"
+        "version": "1.3.36",
+        "lastUpdated": "2026-06-19"
     },
     {
         "name": "The Airship Mod!",
@@ -404,8 +404,8 @@
     {
         "name": "TinkerTailor - Patchworks",
         "modid": "tinkertailorpatchworks",
-        "version": "1.6.4",
-        "lastUpdated": "2026-06-17"
+        "version": "1.6.5",
+        "lastUpdated": "2026-06-19"
     },
     {
         "name": "TinkerTailor - Scrapworks",
