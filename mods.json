@@ -212,8 +212,8 @@
     {
         "name": "Fauna of the Stone Age: Caninae",
         "modid": "caninae",
-        "version": "1.1.5",
-        "lastUpdated": "2026-03-05"
+        "version": "1.1.6",
+        "lastUpdated": "2026-06-24"
     },
     {
         "name": "Fauna of the Stone Age: Capreolinae",
@@ -374,14 +374,14 @@
     {
         "name": "XLib Fork",
         "modid": "xlibfork",
-        "version": "1.0.20",
-        "lastUpdated": "2026-06-23"
+        "version": "1.0.21",
+        "lastUpdated": "2026-06-24"
     },
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.0.66",
-        "lastUpdated": "2026-06-23"
+        "version": "1.0.68",
+        "lastUpdated": "2026-06-24"
     },
     {
         "name": "xSkills Gilded",
