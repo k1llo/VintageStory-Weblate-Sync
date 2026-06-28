@@ -176,14 +176,14 @@
     {
         "name": "Electrical Progressive: Core",
         "modid": "electricalprogressivecore",
-        "version": "3.2.3",
-        "lastUpdated": "2026-06-07"
+        "version": "3.3.0",
+        "lastUpdated": "2026-06-28"
     },
     {
         "name": "Electrical Progressive: Basics",
         "modid": "electricalprogressivebasics",
-        "version": "3.2.5",
-        "lastUpdated": "2026-06-21"
+        "version": "3.3.0",
+        "lastUpdated": "2026-06-28"
     },
     {
         "name": "Electrical Progressive: Equipment",
@@ -194,8 +194,8 @@
     {
         "name": "Electrical Progressive: QoL",
         "modid": "electricalprogressiveqol",
-        "version": "3.2.2",
-        "lastUpdated": "2026-06-05"
+        "version": "3.3.0",
+        "lastUpdated": "2026-06-28"
     },
     {
         "name": "Electrical Progressive: Industry",
