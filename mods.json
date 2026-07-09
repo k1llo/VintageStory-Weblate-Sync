@@ -212,8 +212,8 @@
     {
         "name": "Fauna of the Stone Age: Caninae",
         "modid": "caninae",
-        "version": "1.1.6",
-        "lastUpdated": "2026-06-24"
+        "version": "1.1.8",
+        "lastUpdated": "2026-07-09"
     },
     {
         "name": "Fauna of the Stone Age: Capreolinae",
@@ -266,8 +266,8 @@
     {
         "name": "Fauna of the Stone Age: Machairodontinae",
         "modid": "machairodontinae",
-        "version": "1.1.10",
-        "lastUpdated": "2026-06-25"
+        "version": "1.1.11",
+        "lastUpdated": "2026-07-09"
     },
     {
         "name": "Fauna of the Stone Age: Manidae",
@@ -296,8 +296,8 @@
     {
         "name": "Fauna of the Stone Age: Sirenia",
         "modid": "sirenia",
-        "version": "1.0.29",
-        "lastUpdated": "2026-06-26"
+        "version": "1.0.30",
+        "lastUpdated": "2026-07-09"
     },
     {
         "name": "Fauna of the Stone Age: Spheniscidae",
@@ -380,8 +380,8 @@
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.0.73",
-        "lastUpdated": "2026-07-08"
+        "version": "1.0.74",
+        "lastUpdated": "2026-07-09"
     },
     {
         "name": "xSkills Gilded",
