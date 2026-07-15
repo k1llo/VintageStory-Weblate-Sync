@@ -356,8 +356,8 @@
     {
         "name": "Tabletop Games",
         "modid": "tabletopgames",
-        "version": "4.0.0-pre.2",
-        "lastUpdated": "2026-04-19"
+        "version": "4.0.0",
+        "lastUpdated": "2026-07-15"
     },
     {
         "name": "Vinconomy",
