@@ -50,8 +50,8 @@
     {
         "name": "chiseltools",
         "modid": "chiseltools",
-        "version": "1.17.3",
-        "lastUpdated": "2026-06-17"
+        "version": "1.17.4",
+        "lastUpdated": "2026-07-16"
     },
     {
         "name": "Combat Overhaul",
@@ -374,14 +374,14 @@
     {
         "name": "XLib Fork",
         "modid": "xlibfork",
-        "version": "1.0.21",
-        "lastUpdated": "2026-06-24"
+        "version": "1.0.22",
+        "lastUpdated": "2026-07-16"
     },
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.0.77",
-        "lastUpdated": "2026-07-15"
+        "version": "1.0.78",
+        "lastUpdated": "2026-07-16"
     },
     {
         "name": "xSkills Gilded",
