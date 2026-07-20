@@ -445,5 +445,7 @@
     "ability-welldone": "Well done",
     "abilitydesc-welldone": "Increases the shelf life of your cooked servings by {0}% and additional {1}% for each level at your cooking skill. Capped at {2}%. But it also increases the cooking time by {3}%.",
     "ability-wellrested": "Well Rested",
-    "abilitydesc-wellrested": "Increases your experience gain for every skill up to {0}% for {1} seconds depending on how rested you are after sleeping."
+    "abilitydesc-wellrested": "Increases your experience gain for every skill up to {0}% for {1} seconds depending on how rested you are after sleeping.",
+    "emit.see-log": "Done - full report is available in Logs/serverdebugger-watchdog.txt",
+    "stall.caught": "ServerDebugger: caught a {0} ms stall - see /sdebug stalls for details"
 }
