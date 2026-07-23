@@ -17,5 +17,10 @@
     "specialization": "Specialization",
     "unlearnDesc": "You can unlearn an ability by <font color=\"feae34\">right clicking</font> on the ability.<br><br>Unlearning requires unlearn point which you can acquired by consuming specific items (see handbook for more details).<br><br>Unlearning have a <font color=\"feae34\">{0}</font> cooldown before you can unlearn again.",
     "unlearnPoints": "Unlearn Points",
-    "unlearnTitle": "Unlearning Ability"
+    "unlearnTitle": "Unlearning Ability",
+    "xskillgilded:layout-edit-el-effectbox": "Effects",
+    "xskillgilded:layout-edit-el-levelpopup": "New Level",
+    "xskillgilded:layout-edit-el-window": "Skills Window",
+    "xskillgilded:layout-edit-hint": "Drag with the mouse · Mouse wheel - resize · {0} - save and exit",
+    "xskillgilded:layout-edit-title": "Edit Layout"
 }

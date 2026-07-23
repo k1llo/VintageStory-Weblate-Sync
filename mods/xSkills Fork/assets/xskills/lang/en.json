@@ -352,6 +352,8 @@
     "abilitydesc-rancher": "Increases the yield of milk from milkable animals and the number of eggs you can take of henboxes by {0}%. Additionally you have a chance of {1}% to increase the generation of a milked animal up to a maximum of generation {2}.",
     "ability-recycler": "Recycler",
     "abilitydesc-recycler": "Breaking farmland now drops soil depending on the remaining fertility. Can improve the soil up to a base fertility of {0}.",
+    "ability-refineddilution": "Refined Dilution",
+    "abilitydesc-refineddilution": "Allows the Dilution ability to also increase the yield of inedible products such as candles, leather, and more.",
     "ability-repotting": "Repotting",
     "abilitydesc-repotting": "Harvesting non-matured crops always drop the seeds",
     "ability-resinextractor": "Resin Extractor",
@@ -445,7 +447,5 @@
     "ability-welldone": "Well done",
     "abilitydesc-welldone": "Increases the shelf life of your cooked servings by {0}% and additional {1}% for each level at your cooking skill. Capped at {2}%. But it also increases the cooking time by {3}%.",
     "ability-wellrested": "Well Rested",
-    "abilitydesc-wellrested": "Increases your experience gain for every skill up to {0}% for {1} seconds depending on how rested you are after sleeping.",
-    "emit.see-log": "Done - full report is available in Logs/serverdebugger-watchdog.txt",
-    "stall.caught": "ServerDebugger: caught a {0} ms stall - see /sdebug stalls for details"
+    "abilitydesc-wellrested": "Increases your experience gain for every skill up to {0}% for {1} seconds depending on how rested you are after sleeping."
 }
