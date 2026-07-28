@@ -86,8 +86,8 @@
     {
         "name": "Hydrate Or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.5.2",
-        "lastUpdated": "2026-07-25"
+        "version": "2.5.3",
+        "lastUpdated": "2026-07-28"
     },
     {
         "name": "Lunchbox",
@@ -374,20 +374,20 @@
     {
         "name": "XLib Fork",
         "modid": "xlibfork",
-        "version": "1.0.29",
-        "lastUpdated": "2026-07-26"
+        "version": "1.0.31",
+        "lastUpdated": "2026-07-28"
     },
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.0.88",
-        "lastUpdated": "2026-07-27"
+        "version": "1.0.90",
+        "lastUpdated": "2026-07-28"
     },
     {
         "name": "xSkills Gilded",
         "modid": "xskillsgilded",
-        "version": "1.3.44",
-        "lastUpdated": "2026-07-26"
+        "version": "1.3.45",
+        "lastUpdated": "2026-07-28"
     },
     {
         "name": "The Airship Mod!",
