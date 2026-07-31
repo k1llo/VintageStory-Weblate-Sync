@@ -374,20 +374,20 @@
     {
         "name": "XLib Fork",
         "modid": "xlibfork",
-        "version": "1.0.32",
-        "lastUpdated": "2026-07-29"
+        "version": "1.0.33",
+        "lastUpdated": "2026-07-31"
     },
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.0.91-rc.1",
-        "lastUpdated": "2026-07-29"
+        "version": "1.0.91-rc.2",
+        "lastUpdated": "2026-07-31"
     },
     {
         "name": "xSkills Gilded",
         "modid": "xskillsgilded",
-        "version": "1.3.46",
-        "lastUpdated": "2026-07-29"
+        "version": "1.3.47",
+        "lastUpdated": "2026-07-31"
     },
     {
         "name": "The Airship Mod!",
