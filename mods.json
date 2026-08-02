@@ -122,8 +122,8 @@
     {
         "name": "Primitive Survival",
         "modid": "primitivesurvival",
-        "version": "5.0.9",
-        "lastUpdated": "2026-08-01"
+        "version": "5.1.0",
+        "lastUpdated": "2026-08-02"
     },
     {
         "name": "PurposefulStorage",
