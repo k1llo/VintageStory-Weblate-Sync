@@ -310,5 +310,6 @@
     "block-decobookshelf": "Decorative Book Shelf",
     "blockdesc-decobookshelf": "Accepts a chiseled block to replace its shape, otherwise a functional bookshelf. (Use a wrench to remove the shape)",
     "block-chiseledwatersource": "Decorative Water Source",
-    "blockdesc-chiseledwatersource": "An infinite source of fresh water that will take the shape of a chiseled block. No leaks!"
+    "blockdesc-chiseledwatersource": "An infinite source of fresh water that will take the shape of a chiseled block. No leaks!",
+    "portfoliorequirespantograph": "<font color=\"#551111\">Loaded Pantograph required to open portfolio sorry!</font>"
 }
