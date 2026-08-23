@@ -2,8 +2,8 @@
     {
         "name": "Butchering",
         "modid": "butchering",
-        "version": "1.13.6",
-        "lastUpdated": "2026-07-26"
+        "version": "1.14.0",
+        "lastUpdated": "2026-08-23"
     },
     {
         "name": "A Culinary Artillery Experimental",
@@ -332,8 +332,8 @@
     {
         "name": "Expanded Matter",
         "modid": "em",
-        "version": "3.8.0",
-        "lastUpdated": "2026-08-18"
+        "version": "3.8.1",
+        "lastUpdated": "2026-08-23"
     },
     {
         "name": "Pet AI",
