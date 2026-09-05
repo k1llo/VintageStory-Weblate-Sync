@@ -12,6 +12,7 @@
     "label-active-results": "Active targets",
     "label-show-entity-rays": "Show entity rays?",
     "label-show-debug": "Show debug info on overlay?",
+    "label-search-inside-containers": "Search inside containers?",
     "label-scan-button": "Scan",
     "label-search-result-single": "{0}",
     "label-search-result-multiple": "{0} ({1} ids)",
@@ -38,5 +39,7 @@
     "label-thing": "thing",
     "label-things": "things",
     "keybind-show-overlay": "Show blocks overlay",
-    "keybind-show-selector": "Show block selector"
+    "keybind-show-selector": "Show block selector",
+    "invalid-config-key": "Invalid config key: {0}. Valid keys are: {1}",
+    "invalid-config-value": "Invalid config value: {0}. Valid values are: {1}"
 }
