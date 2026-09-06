@@ -298,7 +298,7 @@
     "WEDGEFLIP": "Mirror the voxels on any plane",
     "WEDGEROTATE": "Rotate the voxels on any plane",
     "item-doortool-*": "Chiseled Door Tool",
-    "itemdesc-doortool-*": "Chiseled doors? Kind of!\nSet an open and a closed shape and cycle between them.\nYou can link multiple chiseled doors together to make one big door.(Right click chiseled doors with a wrench for more options) Can be crafted back into a Simple Pantograph",
+    "itemdesc-doortool-*": "Chiseled doors? Kind of!\nSet an open and a closed shape and cycle between them.\nYou can link multiple chiseled doors together to make one big door.(Right click chiseled doors with a wrench for more options) Can be crafted back into a Simple Pantograph. Sneak Click in set open or set closed mode to set an empty transparent shape for that state.",
     "item-locktool-*": "Chisel Copy Lock Tool",
     "itemdesc-locktool-*": "Right click on your chiseled block with this tool to prevent anyone else from copying your block with the pantograph.",
     "COPYGRANT": "Access granted, copy made!",
