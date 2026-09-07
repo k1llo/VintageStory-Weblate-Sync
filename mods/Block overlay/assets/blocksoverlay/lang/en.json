@@ -41,5 +41,6 @@
     "keybind-show-overlay": "Show blocks overlay",
     "keybind-show-selector": "Show block selector",
     "invalid-config-key": "Invalid config key: {0}. Valid keys are: {1}",
-    "invalid-config-value": "Invalid config value: {0}. Valid values are: {1}"
+    "invalid-config-value": "Invalid config value: {0}. Valid values are: {1}",
+    "config-reloaded": "[BlockOverlay] Reloaded config"
 }
