@@ -362,8 +362,8 @@
     {
         "name": "Vinconomy",
         "modid": "vinconomy",
-        "version": "5.3.0",
-        "lastUpdated": "2026-04-21"
+        "version": "6.0.0-rc.1",
+        "lastUpdated": "2026-09-08"
     },
     {
         "name": "RP Voice Chat",
@@ -374,14 +374,14 @@
     {
         "name": "XLib Fork",
         "modid": "xlibfork",
-        "version": "1.0.37",
-        "lastUpdated": "2026-09-02"
+        "version": "1.0.38",
+        "lastUpdated": "2026-09-08"
     },
     {
         "name": "xSkills Fork",
         "modid": "xskillsfork",
-        "version": "1.1.1",
-        "lastUpdated": "2026-09-07"
+        "version": "1.1.2",
+        "lastUpdated": "2026-09-08"
     },
     {
         "name": "xSkills Gilded",
