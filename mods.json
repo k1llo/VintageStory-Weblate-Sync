@@ -362,8 +362,8 @@
     {
         "name": "Vinconomy",
         "modid": "vinconomy",
-        "version": "6.0.0-rc.2",
-        "lastUpdated": "2026-09-09"
+        "version": "6.0.0",
+        "lastUpdated": "2026-09-12"
     },
     {
         "name": "RP Voice Chat",
@@ -416,8 +416,8 @@
     {
         "name": "Immersive Fibercraft",
         "modid": "spinningwheel",
-        "version": "1.2.13",
-        "lastUpdated": "2026-09-01"
+        "version": "1.2.14",
+        "lastUpdated": "2026-09-12"
     },
     {
         "name": "Block overlay",
