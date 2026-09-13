@@ -16,6 +16,7 @@
     "label-scan-button": "Scan",
     "label-search-result-single": "{0}",
     "label-search-result-multiple": "{0} ({1} ids)",
+    "label-search-result-thing-category": "{0} ({1})",
     "placeholder-search": "Block/Entity name or asset code",
     "placeholder-range": "# Blocks",
     "savedgroups-dialog-title": "Manage saved groups",

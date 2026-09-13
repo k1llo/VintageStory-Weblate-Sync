@@ -272,8 +272,8 @@
     {
         "name": "Fauna of the Stone Age: Manidae",
         "modid": "manidae",
-        "version": "1.0.21",
-        "lastUpdated": "2026-09-11"
+        "version": "1.0.22",
+        "lastUpdated": "2026-09-13"
     },
     {
         "name": "Fauna of the Stone Age: Meiolaniidae",
@@ -290,8 +290,8 @@
     {
         "name": "Fauna of the Stone Age: Rhinocerotidae",
         "modid": "rhinocerotidae",
-        "version": "1.0.26",
-        "lastUpdated": "2026-09-11"
+        "version": "1.0.27",
+        "lastUpdated": "2026-09-13"
     },
     {
         "name": "Fauna of the Stone Age: Sirenia",
@@ -338,8 +338,8 @@
     {
         "name": "Pet AI",
         "modid": "petai",
-        "version": "5.1.1",
-        "lastUpdated": "2026-05-08"
+        "version": "5.1.2",
+        "lastUpdated": "2026-09-13"
     },
     {
         "name": "Auto Map Markers",
@@ -422,7 +422,7 @@
     {
         "name": "Block overlay",
         "modid": "blocksoverlay",
-        "version": "4.13.1",
-        "lastUpdated": "2026-09-07"
+        "version": "4.14.0",
+        "lastUpdated": "2026-09-13"
     }
 ]
