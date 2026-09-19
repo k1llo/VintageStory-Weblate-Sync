@@ -758,5 +758,6 @@
     "item-smokedmeat-fish-charred": "Smoked Fish (charred)",
     "recipeingredient-item-jerky-insturmentalcase": "Jerky",
     "fishingstocksat": "fishing stocks here are {0}% depleted",
-    "blockdesc-furrowedland-*": "Start furrowing at a water source and work your way inland for the furrow to fill with water automatically. Otherwise you must fill your furrow with a bucket (if liquid source transport is enabled in game)."
+    "blockdesc-furrowedland-*": "Start furrowing at a water source and work your way inland for the furrow to fill with water automatically. Otherwise you must fill your furrow with a bucket (if liquid source transport is enabled in game).",
+    "block-floatingdock-aged-*": "Floating Dock (Aged Oak)"
 }
