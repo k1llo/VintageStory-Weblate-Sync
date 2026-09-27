@@ -8,8 +8,8 @@
     {
         "name": "A Culinary Artillery Experimental",
         "modid": "aculinaryartillery",
-        "version": "2.0.0-dev.24",
-        "lastUpdated": "2026-09-16"
+        "version": "2.0.0-dev.25",
+        "lastUpdated": "2026-09-27"
     },
     {
         "name": "Animal cages",
@@ -62,8 +62,8 @@
     {
         "name": "Expanded Foods",
         "modid": "expandedfoods",
-        "version": "2.0.0-dev.14",
-        "lastUpdated": "2026-08-20"
+        "version": "2.0.0-dev.15",
+        "lastUpdated": "2026-09-27"
     },
     {
         "name": "Farseer",
