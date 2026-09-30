@@ -281,6 +281,7 @@
     "SHAPEPASTE": "Paste Shape Only",
     "PASTEALL": "Paste Shape & Materials",
     "ADDPASTE": "Merge Shapes",
+    "ADDPASTEALL": "Full Merge",
     "UNDO": "Undo",
     "CHANGEMAT": "Paste Material",
     "CLOSEDDOOR": "Assign Closed Door Shape",
