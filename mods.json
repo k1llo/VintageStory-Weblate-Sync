@@ -86,8 +86,8 @@
     {
         "name": "Hydrate Or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.5.6",
-        "lastUpdated": "2026-09-21"
+        "version": "2.5.7",
+        "lastUpdated": "2026-10-05"
     },
     {
         "name": "Lunchbox",
@@ -320,8 +320,8 @@
     {
         "name": "Fauna of the Stone Age: Vombatidae Plus",
         "modid": "vombatidae",
-        "version": "0.4.6",
-        "lastUpdated": "2026-08-14"
+        "version": "0.4.7",
+        "lastUpdated": "2026-10-05"
     },
     {
         "name": "Adventurer's Walking Stick",
