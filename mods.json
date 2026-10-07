@@ -86,8 +86,8 @@
     {
         "name": "Hydrate Or Diedrate",
         "modid": "hydrateordiedrate",
-        "version": "2.5.7",
-        "lastUpdated": "2026-10-05"
+        "version": "2.5.8",
+        "lastUpdated": "2026-10-07"
     },
     {
         "name": "Lunchbox",
@@ -230,8 +230,8 @@
     {
         "name": "Fauna of the Stone Age: Cervinae",
         "modid": "cervinae",
-        "version": "0.1.14",
-        "lastUpdated": "2026-08-14"
+        "version": "0.1.15",
+        "lastUpdated": "2026-10-07"
     },
     {
         "name": "Fauna of the Stone Age: Chelonioidea",
